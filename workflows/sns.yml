@@ -1,33 +1,12 @@
 on:
   aws_sns:
 jobs:
-  build:
+  print:
+    name: Print
     runs-on: ubuntu-latest
     steps:
-
-      - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
-
-      - name: setup python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10' # install the python version needed
-          
-      - name: install python packages
+      - name: Print Outputs
+        env:
+          Message: ${{ on.aws_sns.outputs.Message }}
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-      - name: execute py script # run generate-ge-feed.py to get the latest data
-        run: python generate-geo-feed.py
-          
-      - name: commit files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git commit -m "Data update" -a
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          echo Message: $Message
