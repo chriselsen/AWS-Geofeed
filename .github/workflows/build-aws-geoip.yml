@@ -7,10 +7,6 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-  # Through AWS IP address range notifications 
-  # https://docs.aws.amazon.com/vpc/latest/userguide/aws-ip-ranges.html#subscribe-notifications  
-  aws_sns:
-
 jobs:
   build:
     runs-on: ubuntu-latest
