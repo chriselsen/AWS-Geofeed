@@ -10,7 +10,7 @@ A geofeed, sometimes also called geolocation feed, is a data format laid out in 
 
 While AWS [publishes information about it's IP address ranges](https://docs.aws.amazon.com/vpc/latest/userguide/aws-ip-ranges.html) in its [ip-ranges.json file](https://ip-ranges.amazonaws.com/ip-ranges.json), it uses a proprietary format to do so and also lacks detailed location information. 
 
-This Geofeed generator ingests the data from the ip-ranges.json file and coverts it to an RFC8805-compliant feed. 
+This Geofeed generator ingests the data from the ip-ranges.json file and coverts it to an [RFC8805-compliant feed](https://raw.githubusercontent.com/chriselsen/AWS-Geofeed/main/data/aws-geofeed.txt). 
 
 **If you enjoy this work, please consider sponsoring:**
 
