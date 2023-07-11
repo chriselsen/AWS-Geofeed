@@ -1,3 +1,4 @@
+[![build-aws-geoip](https://github.com/chriselsen/AWS-Geofeed/actions/workflows/build-aws-geoip.yml/badge.svg)](https://github.com/chriselsen/AWS-Geofeed/actions/workflows/build-aws-geoip.yml)
 # AWS-Geofeed
 [Geofeed for AWS (AS16509)](https://raw.githubusercontent.com/chriselsen/AWS-Geofeed/main/data/aws-geofeed.txt) as defined in datatracker.ietf.org/doc/html/rfc8805.
 
