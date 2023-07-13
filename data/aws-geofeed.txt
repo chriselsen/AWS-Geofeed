@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-07-13T11:52:19+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-07-13T14:01:29+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1291,6 +1291,7 @@
 15.177.92.0/24,ID,ID-JK,Jakarta,
 15.177.93.0/24,AE,AE-DU,Dubai,
 15.177.94.0/24,IN,IN-TG,Hyderabad,
+15.177.95.0/24,MY,MY-14,Kuala Lumpur,
 15.177.96.0/24,AU,AU-VIC,Melbourne,
 15.177.97.0/24,ES,ES-AR,Aragon,
 15.177.98.0/24,CH,CH-ZH,Zurich,
@@ -1364,6 +1365,8 @@
 15.188.210.64/27,FR,FR-IDF,Paris,
 15.190.0.0/22,IL,IL-TA,Tel Aviv,
 15.190.16.0/20,IL,IL-TA,Tel Aviv,
+15.190.32.0/20,MY,MY-14,Kuala Lumpur,
+15.190.4.0/22,MY,MY-14,Kuala Lumpur,
 15.190.48.0/20,CA,CA-AB,Calgary,
 15.190.8.0/22,CA,CA-AB,Calgary,
 15.193.0.0/24,IN,IN-MH,Mumbai,
@@ -2454,6 +2457,7 @@
 151.148.40.0/24,KR,KR-11,Seoul,
 151.148.41.0/24,GB,GB-LND,London,
 151.148.8.0/21,US,US-VA,Ashburn,
+156.4.0.0/15,MY,MY-14,Kuala Lumpur,
 157.175.0.0/16,BH,,Bahrain,
 157.175.102.128/27,BH,,Bahrain,
 157.175.102.160/27,BH,,Bahrain,
@@ -3113,6 +3117,7 @@
 3.2.36.0/25,US,US-VA,Ashburn,
 3.2.37.0/26,KR,KR-11,Seoul,
 3.2.37.128/26,JP,JP-27,Osaka,
+3.2.37.192/26,MY,MY-14,Kuala Lumpur,
 3.2.38.0/26,GB,GB-LND,London,
 3.2.38.128/26,AU,AU-VIC,Melbourne,
 3.2.38.192/26,IT,IT-MI,Milan,
@@ -3820,6 +3825,7 @@
 43.207.179.176/29,JP,JP-13,Tokyo,
 43.208.0.0/15,NZ,NZ-AUK,Auckland,
 43.210.0.0/15,NZ,NZ-AUK,Auckland,
+43.216.0.0/15,MY,MY-14,Kuala Lumpur,
 43.218.0.0/16,ID,ID-JK,Jakarta,
 43.218.156.0/24,ID,ID-JK,Jakarta,
 43.218.158.0/23,ID,ID-JK,Jakarta,
@@ -5621,6 +5627,7 @@
 99.151.136.0/21,IN,IN-MH,Mumbai,
 99.151.144.0/21,KR,KR-11,Seoul,
 99.151.152.0/21,IL,IL-TA,Tel Aviv,
+99.151.160.0/21,MY,MY-14,Kuala Lumpur,
 99.151.168.0/21,CA,CA-AB,Calgary,
 99.151.184.0/23,US,US-VA,Ashburn,
 99.151.186.0/23,US,US-OR,Umatilla,
