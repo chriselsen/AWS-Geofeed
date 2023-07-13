@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-07-13T17:23:35+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-07-13T20:29:11+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -3415,7 +3415,6 @@
 3.33.35.0/24,DE,DE-HE,Frankfurt,
 3.33.40.0/23,US,US-OR,Umatilla,
 3.33.42.0/24,AU,AU-NSW,Sydney,
-3.33.43.0/24,AU,AU-NSW,Sydney,
 3.33.44.0/22,US,US-VA,Ashburn,
 3.34.0.0/15,KR,KR-11,Seoul,
 3.34.101.192/26,KR,KR-11,Seoul,
