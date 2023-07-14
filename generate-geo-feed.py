@@ -59,7 +59,7 @@ for k, v in sorted(output.items(), key=lambda item: item[1]):
         iplist.append(IPNetwork(k))
     else:
         summary = cidr_merge(iplist)
-        for ipout in iplist:
+        for ipout in sorted(iplist):
             df.write(str(ipout) + ',' + v + '\n')
         iplist=[]
     prev = v
