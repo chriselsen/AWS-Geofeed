@@ -8,6 +8,7 @@
 import json
 import datetime
 import ipaddress
+from netaddr import IPNetwork, cidr_merge
 from urllib.request import urlopen
 
 # AWS ip-ranges.json URL
@@ -43,13 +44,24 @@ for i in ipranges['ipv6_prefixes']:
     if i['network_border_group'] != "GLOBAL":
         output.update({i['ipv6_prefix']: loc_lookup(i['network_border_group'])})
 
-
 # Write output file
 df=open('./data/aws-geofeed.txt','w')
 df.write('# AWS (AS16509) Geofeed, lastupdated (rfc3339): ' + datetime.datetime.now(datetime.timezone.utc).isoformat('T','seconds') + '\n')
 df.write('# Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805\n')
 df.write('# Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json\n')
 df.write('# Does not include locations from ip-ranges.json marked as \'GLOBAL\'\n')
-for key in sorted(output, key = lambda x: (isinstance(ipaddress.ip_network(x), ipaddress.IPv6Network), x)):
-    df.write(key + ',' + output[key] + '\n')
+
+# Aggregate ip address space
+iplist = []
+prev = None
+for k, v in sorted(output.items(), key=lambda item: item[1]):
+    if prev == v or prev == None:
+        iplist.append(IPNetwork(k))
+    else:
+        summary = cidr_merge(iplist)
+        for ipout in iplist:
+            df.write(str(ipout) + ',' + v + '\n')
+        iplist=[]
+    prev = v
 df.close()
+
