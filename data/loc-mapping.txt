@@ -40,6 +40,43 @@ us-gov-east-1 US,US-OH,Columbus,
 # Other special Regions
 ap-southeast-1-sggov-sin-1a SG,SG-01,Singapore,
 ap-southeast-1-sggov-sin-1b SG,SG-01,Singapore,
+# Wavelength LocalZones
+## Bell 
+ca-central-1-wl1-yto-wlz-1 CA,CA-ON,Toronto,
+## British Telecom (BT)
+eu-west-2-wl2-man-wlz-1 GB,GB-MAN,Manchester,
+## KDDI 
+ap-northeast-1-wl1-nrt-wlz-1 JP,JP-13,Tokyo,
+ap-northeast-1-wl1-kix-wlz-1 JP,JP-27,Osaka,
+## Verizon
+us-east-1-wl1-bos-wlz-1 US,US-MA,Boston,
+us-east-1-wl1-atl-wlz-1 US,US-GA,Atlanta,
+us-east-1-wl1-was-wlz-1 US,US-DC,Washington DC,
+us-east-1-wl1-nyc-wlz-1 US,US-NY,New York,
+us-east-1-wl1-mia-wlz-1 US,US-FL,Miami,
+us-east-1-wl1-dfw-wlz-1 US,US-TX,Dallas,
+us-east-1-wl1-iah-wlz-1 US,US-TX,Houston,
+us-east-1-wl1-chi-wlz-1 US,US-IL,Chicago,
+us-east-1-wl1-clt-wlz-1 US,US-NC,Charlotte,
+us-east-1-wl1-dtw-wlz-1 US,US-MI,Detroit,
+us-east-1-wl1-msp-wlz-1 US,US-MN,Minneapolis,
+us-east-1-wl1-tpa-wlz-1 US,US-FL,Tampa,
+us-east-1-wl1-bna-wlz-1 US,US-TN,Nashville,
+us-west-2-wl1-sfo-wlz-1 US,US-CA,San Francisco,
+us-west-2-wl1-las-wlz-1 US,US-NV,Las Vegas,
+us-west-2-wl1-den-wlz-1 US,US-CO,Denver,
+us-west-2-wl1-sea-wlz-1 US,US-WA,Seattle,
+us-west-2-wl1-phx-wlz-1 US,US-AZ,Phoenix,
+us-west-2-wl1-lax-wlz-1 US,US-CA,Los Angeles,
+## Vodafone 
+eu-west-2-wl1-lon-wlz-1 GB,GB-LND,London,
+eu-west-2-wl1-man-wlz-1 GB,GB-MAN,Manchester,
+eu-central-1-wl1-dtm-wlz-1 DE,DE-NW,Dortmund,
+eu-central-1-wl1-ber-wlz-1 DE,DE-BE,Berlin,
+eu-central-1-wl1-muc-wlz-1 DE,DE-BY,Munich,
+## SK Telecom
+ap-northeast-2-wl1-cjj-wlz-1 KR,KR-30,Daejeon,
+ap-northeast-2-wl1-sel-wlz-1 KR,KR-11,Seoul,
 # LocalZones
 us-east-1-atl-1 US,US-GA,Atlanta,
 ap-southeast-2-akl-1 NZ,NZ-AUK,Auckland,
