@@ -27,6 +27,10 @@ This Geofeed generator uses the publicly available data from the AWS ip-ranges.j
 AWS includes detailed location information within the name of some AWS Regions, such as ```Europe (Frankfurt)``` for the ```eu-central-1``` Region. Here it is very trivial to convert such a location to the RFC8805-compliant identifier of ```DE,DE-HE,Frankfurt,```. In other cases, the AWS Region name only specifies a geographical region, such as Northern Virginia for ```US East (N. Virginia)``` as the name for the identifier ```us-east-1```. 
 In these cases some additional research through openly available data is necessary to add a more accurate location. This openly available data can include [AWS blog posts](https://aws.amazon.com/blogs/aws/in-the-works-aws-canada-west-calgary-region/) or [AWS job postings](https://www.amazon.jobs/en/landing_pages/aws-data-centers?INTCMPID=HB_AJAW100046B).
 
+### Network Border Groups
+
+Mapping of IP address ranges to locations is done by "Network Border Groups", which is a unique set of Availability Zones, Local Zones, or Wavelength Zones from where AWS advertises IP addresses. IP addresses can't move between network border groups. 
+
 ## Updates
 
 Updates are triggered via [Amazon SNS](https://aws.amazon.com/sns/), when AWS [makes changes](https://docs.aws.amazon.com/vpc/latest/userguide/aws-ip-ranges.html#subscribe-notifications) to the ip-ranges.json list.
