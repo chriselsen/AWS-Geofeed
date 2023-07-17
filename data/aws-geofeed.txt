@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-07-17T21:56:06+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-07-17T22:51:36+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2763,6 +2763,7 @@
 15.207.13.0/26,IN,IN-TG,Hyderabad,
 15.207.13.128/25,IN,IN-TG,Hyderabad,
 15.207.213.128/25,IN,IN-TG,Hyderabad,
+15.230.1.0/24,IN,IN-TG,Hyderabad,
 15.230.54.0/24,IN,IN-TG,Hyderabad,
 15.230.70.0/26,IN,IN-TG,Hyderabad,
 15.230.70.64/26,IN,IN-TG,Hyderabad,
@@ -3940,6 +3941,20 @@
 15.221.8.0/21,TH,TH-10,Bangkok,
 15.221.35.0/24,TH,TH-10,Bangkok,
 15.221.36.0/22,TH,TH-10,Bangkok,
+15.230.3.0/31,TH,TH-10,Bangkok,
+15.230.3.2/31,TH,TH-10,Bangkok,
+15.230.3.4/31,TH,TH-10,Bangkok,
+15.230.3.13/32,TH,TH-10,Bangkok,
+15.230.3.18/32,TH,TH-10,Bangkok,
+15.230.3.24/32,TH,TH-10,Bangkok,
+15.230.3.25/32,TH,TH-10,Bangkok,
+15.230.3.26/32,TH,TH-10,Bangkok,
+15.230.3.36/31,TH,TH-10,Bangkok,
+15.230.3.42/31,TH,TH-10,Bangkok,
+15.230.3.46/31,TH,TH-10,Bangkok,
+15.230.3.50/31,TH,TH-10,Bangkok,
+15.230.3.60/31,TH,TH-10,Bangkok,
+15.230.3.66/31,TH,TH-10,Bangkok,
 15.230.4.19/32,TH,TH-10,Bangkok,
 15.230.4.152/31,TH,TH-10,Bangkok,
 15.230.4.154/31,TH,TH-10,Bangkok,
