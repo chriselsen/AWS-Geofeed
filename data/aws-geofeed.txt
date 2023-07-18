@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-07-18T03:57:38+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-07-18T04:55:31+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1279,6 +1279,7 @@
 15.177.68.0/23,DE,DE-HH,Hamburg,
 15.193.4.0/24,DE,DE-HH,Hamburg,
 15.221.3.0/24,DE,DE-HH,Hamburg,
+15.230.15.0/24,DE,DE-HH,Hamburg,
 15.230.52.0/24,DE,DE-HH,Hamburg,
 15.230.64.192/26,DE,DE-HH,Hamburg,
 15.230.65.0/26,DE,DE-HH,Hamburg,
@@ -6039,13 +6040,7 @@
 15.221.4.0/23,US,US-WA,Seattle,
 15.221.24.0/21,US,US-WA,Seattle,
 15.221.146.0/23,US,US-WA,Seattle,
-15.230.14.12/32,US,US-WA,Seattle,
-15.230.14.17/32,US,US-WA,Seattle,
-15.230.14.18/31,US,US-WA,Seattle,
-15.230.14.20/31,US,US-WA,Seattle,
-15.230.14.22/31,US,US-WA,Seattle,
-15.230.14.248/31,US,US-WA,Seattle,
-15.230.14.252/31,US,US-WA,Seattle,
+15.230.14.0/24,US,US-WA,Seattle,
 15.230.18.0/24,US,US-WA,Seattle,
 15.230.35.0/24,US,US-WA,Seattle,
 15.230.38.0/24,US,US-WA,Seattle,
