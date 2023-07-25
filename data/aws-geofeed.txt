@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-07-25T17:55:46+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-07-25T22:53:46+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -244,6 +244,7 @@
 150.222.119.0/24,AU,AU-VIC,Melbourne,
 150.222.142.0/24,AU,AU-VIC,Melbourne,
 151.148.39.0/24,AU,AU-VIC,Melbourne,
+173.83.212.0/24,AU,AU-VIC,Melbourne,
 2400:6500:0:7200::/56,AU,AU-VIC,Melbourne,
 2403:b300:ff00::/48,AU,AU-VIC,Melbourne,
 2406:da00:c000::/40,AU,AU-VIC,Melbourne,
@@ -2734,6 +2735,7 @@
 150.222.217.0/24,IN,IN-TG,Hyderabad,
 150.222.220.0/24,IN,IN-TG,Hyderabad,
 150.222.235.0/24,IN,IN-TG,Hyderabad,
+173.83.211.0/24,IN,IN-TG,Hyderabad,
 2400:6500:0:7500::/56,IN,IN-TG,Hyderabad,
 2406:da00:a000::/40,IN,IN-TG,Hyderabad,
 2406:da1a::/36,IN,IN-TG,Hyderabad,
@@ -3259,6 +3261,7 @@
 150.222.133.0/24,JP,JP-27,Osaka,
 150.222.141.0/24,JP,JP-27,Osaka,
 151.148.37.0/24,JP,JP-27,Osaka,
+173.83.210.0/24,JP,JP-27,Osaka,
 175.41.192.0/18,JP,JP-27,Osaka,
 176.32.64.0/19,JP,JP-27,Osaka,
 176.34.0.0/19,JP,JP-27,Osaka,
@@ -3549,6 +3552,8 @@
 151.148.40.0/24,KR,KR-30,Daejeon,
 159.248.200.0/21,KR,KR-30,Daejeon,
 159.248.216.0/21,KR,KR-30,Daejeon,
+173.83.198.0/24,KR,KR-30,Daejeon,
+173.83.218.0/24,KR,KR-30,Daejeon,
 2400:6500:0:7400::/56,KR,KR-30,Daejeon,
 2406:da00:2000::/40,KR,KR-30,Daejeon,
 2406:da12::/36,KR,KR-30,Daejeon,
@@ -3965,6 +3970,7 @@
 150.222.108.0/24,TH,TH-10,Bangkok,
 150.222.219.0/24,TH,TH-10,Bangkok,
 151.148.38.0/24,TH,TH-10,Bangkok,
+173.83.219.0/24,TH,TH-10,Bangkok,
 175.41.128.0/18,TH,TH-10,Bangkok,
 203.83.220.0/22,TH,TH-10,Bangkok,
 2400:6500:0:7000::/56,TH,TH-10,Bangkok,
