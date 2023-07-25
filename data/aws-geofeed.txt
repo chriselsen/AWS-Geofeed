@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-07-25T16:54:05+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-07-25T17:55:46+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1379,6 +1379,7 @@
 150.222.230.0/24,DE,DE-HH,Hamburg,
 150.222.245.122/31,DE,DE-HH,Hamburg,
 151.148.35.0/24,DE,DE-HH,Hamburg,
+173.83.196.0/23,DE,DE-HH,Hamburg,
 2406:dafc:ff60::/46,DE,DE-HH,Hamburg,
 2406:dafc:ff80::/46,DE,DE-HH,Hamburg,
 2406:dafc:ffa0::/46,DE,DE-HH,Hamburg,
@@ -1837,6 +1838,7 @@
 150.222.215.0/24,HK,,Hong Kong,
 150.222.238.0/24,HK,,Hong Kong,
 151.148.41.0/24,HK,,Hong Kong,
+173.83.206.0/23,HK,,Hong Kong,
 216.39.136.0/21,HK,,Hong Kong,
 216.39.152.0/21,HK,,Hong Kong,
 2600:1f01:4870::/47,HK,,Hong Kong,
@@ -5334,6 +5336,7 @@
 160.1.0.0/16,US,US-PA,Philadelphia,
 160.1.128.0/24,US,US-PA,Philadelphia,
 161.188.166.0/23,US,US-PA,Philadelphia,
+173.83.204.0/23,US,US-PA,Philadelphia,
 176.32.125.0/25,US,US-PA,Philadelphia,
 184.32.0.0/12,US,US-PA,Philadelphia,
 205.251.226.0/24,US,US-PA,Philadelphia,
