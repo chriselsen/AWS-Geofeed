@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-07-25T23:57:33+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-07-26T20:27:42+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2430,6 +2430,7 @@
 162.213.233.0/24,IL,IL-TA,Tel Aviv,
 162.213.234.0/23,IL,IL-TA,Tel Aviv,
 172.96.98.0/24,IL,IL-TA,Tel Aviv,
+173.83.214.0/24,IL,IL-TA,Tel Aviv,
 176.32.104.0/21,IL,IL-TA,Tel Aviv,
 176.34.64.0/18,IL,IL-TA,Tel Aviv,
 176.34.128.0/17,IL,IL-TA,Tel Aviv,
