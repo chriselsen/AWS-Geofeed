@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-08-17T17:26:11+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-08-17T18:24:00+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -4534,6 +4534,7 @@
 142.4.160.176/29,US,US-GA,Atlanta,
 142.4.160.184/29,US,US-GA,Atlanta,
 142.4.161.200/29,US,US-GA,Atlanta,
+161.188.172.0/23,US,US-GA,Atlanta,
 2600:1f1a:8000::/36,US,US-GA,Atlanta,
 2600:1f2a:8000::/36,US,US-GA,Atlanta,
 15.181.80.0/20,US,US-IL,Chicago,
@@ -4560,6 +4561,7 @@
 15.181.112.0/22,US,US-MN,Minneapolis,
 68.66.112.0/20,US,US-MN,Minneapolis,
 142.4.160.8/29,US,US-MN,Minneapolis,
+161.188.174.0/23,US,US-MN,Minneapolis,
 2600:1f10:8000::/36,US,US-MN,Minneapolis,
 2600:1f20:8000::/36,US,US-MN,Minneapolis,
 15.181.48.0/20,US,US-MO,Kansas City,
