@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-08-18T21:58:37+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-08-21T19:27:02+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -278,6 +278,7 @@
 2600:1ffd:85c0::/48,AU,AU-VIC,Melbourne,
 2600:1ffd:85e8::/48,AU,AU-VIC,Melbourne,
 2600:f0f0:1:1400::/56,AU,AU-VIC,Melbourne,
+2600:f0f0:82:100::/56,AU,AU-VIC,Melbourne,
 3.2.38.128/26,AU,AU-WA,Perth,
 3.5.40.0/22,AU,AU-WA,Perth,
 13.34.18.192/27,AU,AU-WA,Perth,
@@ -2458,6 +2459,7 @@
 2600:1ffd:83ad::/48,IL,IL-TA,Tel Aviv,
 2600:f0f0:1:1a00::/56,IL,IL-TA,Tel Aviv,
 2600:f0f0:10::/48,IL,IL-TA,Tel Aviv,
+2600:f0f0:82:200::/56,IL,IL-TA,Tel Aviv,
 2a01:578:0:7000::/56,IL,IL-TA,Tel Aviv,
 2a01:578:3::/48,IL,IL-TA,Tel Aviv,
 2a05:d000:8000::/40,IL,IL-TA,Tel Aviv,
@@ -3319,6 +3321,7 @@
 2600:1ffd:816c::/48,JP,JP-27,Osaka,
 2600:f00f::/40,JP,JP-27,Osaka,
 2600:f0f0:1:f00::/56,JP,JP-27,Osaka,
+2600:f0f0:82:500::/56,JP,JP-27,Osaka,
 3.2.37.128/26,KR,KR-11,Seoul,
 3.5.240.0/22,KR,KR-11,Seoul,
 13.34.20.192/27,KR,KR-11,Seoul,
@@ -4024,6 +4027,7 @@
 2600:1ffd:8422::/48,TH,TH-10,Bangkok,
 2600:1ffd:85b2::/48,TH,TH-10,Bangkok,
 2600:f0f0:1:1300::/56,TH,TH-10,Bangkok,
+2600:f0f0:82:400::/56,TH,TH-10,Bangkok,
 15.220.240.0/21,TW,TW-TPE,Taipei,
 142.4.161.0/29,TW,TW-TPE,Taipei,
 15.220.56.0/21,US,US-AZ,Phoenix,
@@ -4500,6 +4504,7 @@
 2600:1ffe:c000::/40,US,US-CO,Denver,
 2600:1fff:c000::/40,US,US-CO,Denver,
 2600:f0f0:1:2100::/56,US,US-CO,Denver,
+2600:f0f0:82:300::/56,US,US-CO,Denver,
 2620:107:3000::/48,US,US-CO,Denver,
 2620:107:300f::/48,US,US-CO,Denver,
 2620:107:4000:2::/64,US,US-CO,Denver,
@@ -4990,6 +4995,7 @@
 2600:1fff:5000::/40,US,US-OR,Portland,
 2600:1fff:6000::/40,US,US-OR,Portland,
 2600:f0f0:1:2000::/56,US,US-OR,Portland,
+2600:f0f0:81::/48,US,US-OR,Portland,
 2620:107:4000:9::/64,US,US-OR,Portland,
 2620:107:4000:4700::/64,US,US-OR,Portland,
 2620:107:4000:4701::/64,US,US-OR,Portland,
@@ -5457,6 +5463,7 @@
 2600:f0f0:1:2200::/56,US,US-PA,Philadelphia,
 2600:f0f0:1:fe00::/56,US,US-PA,Philadelphia,
 2600:f0f0:1:ff00::/56,US,US-PA,Philadelphia,
+2600:f0f0:82:600::/56,US,US-PA,Philadelphia,
 2600:f0f0:4000::/44,US,US-PA,Philadelphia,
 2600:f0f0:5500::/48,US,US-PA,Philadelphia,
 2606:f40:400::/39,US,US-PA,Philadelphia,
