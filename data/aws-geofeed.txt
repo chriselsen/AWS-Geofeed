@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-08-21T19:27:02+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-08-21T20:30:35+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -668,6 +668,7 @@
 2600:1ffe:e000::/40,CA,CA-AB,Calgary,
 2600:1fff:e000::/40,CA,CA-AB,Calgary,
 2600:f0f0:1:1e00::/56,CA,CA-AB,Calgary,
+2600:f0f0:82:700::/56,CA,CA-AB,Calgary,
 2804:800:0:7000::/56,CA,CA-AB,Calgary,
 2804:800:ff00::/48,CA,CA-AB,Calgary,
 3.2.42.192/26,CA,CA-QC,Montreal,
@@ -883,6 +884,7 @@
 2600:1ffe:1000::/40,CH,CH-ZH,Zurich,
 2600:1fff:1000::/40,CH,CH-ZH,Zurich,
 2600:f0f0:1:1600::/56,CH,CH-ZH,Zurich,
+2600:f0f0:82:b00::/56,CH,CH-ZH,Zurich,
 2620:107:4000:a::/64,CH,CH-ZH,Zurich,
 2620:107:4000:4800::/62,CH,CH-ZH,Zurich,
 2620:107:4000:7800::/56,CH,CH-ZH,Zurich,
@@ -1403,6 +1405,7 @@
 2600:1ffd:80e1::/48,DE,DE-HH,Hamburg,
 2600:1ffd:80f0::/48,DE,DE-HH,Hamburg,
 2600:f0f0:1:1700::/56,DE,DE-HH,Hamburg,
+2600:f0f0:82:800::/56,DE,DE-HH,Hamburg,
 2620:107:4002::/48,DE,DE-HH,Hamburg,
 2620:107:4003::/48,DE,DE-HH,Hamburg,
 2a01:578:0:7100::/56,DE,DE-HH,Hamburg,
@@ -1628,6 +1631,7 @@
 173.83.216.0/24,GB,GB-LND,London,
 2600:1f01:4810::/47,GB,GB-LND,London,
 2600:f0f0:1:1c00::/56,GB,GB-LND,London,
+2600:f0f0:82:d00::/56,GB,GB-LND,London,
 2a05:d000:2000::/40,GB,GB-LND,London,
 2a05:d012::/36,GB,GB-LND,London,
 2a05:d022::/36,GB,GB-LND,London,
@@ -1860,6 +1864,7 @@
 2600:1ffd:84af::/48,HK,,Hong Kong,
 2600:1ffd:84bd::/48,HK,,Hong Kong,
 2600:f0f0:1:1b00::/56,HK,,Hong Kong,
+2600:f0f0:82:c00::/56,HK,,Hong Kong,
 2a01:578:0:7200::/56,HK,,Hong Kong,
 2a05:d000:c000::/40,HK,,Hong Kong,
 2a05:d01c::/36,HK,,Hong Kong,
@@ -2781,6 +2786,7 @@
 2600:1ffd:8285::/48,IN,IN-TG,Hyderabad,
 2600:1ffd:82be::/48,IN,IN-TG,Hyderabad,
 2600:f0f0:40::/48,IN,IN-TG,Hyderabad,
+2600:f0f0:82:a00::/56,IN,IN-TG,Hyderabad,
 2600:f0f1:8802::/48,IN,IN-TG,Hyderabad,
 3.2.35.192/26,IN,IN-WB,Kolkata,
 3.5.44.0/22,IN,IN-WB,Kolkata,
@@ -3435,6 +3441,7 @@
 2406:daff:6000::/40,KR,KR-11,Seoul,
 2600:1f01:48e2::/47,KR,KR-11,Seoul,
 2600:f0f0:1:1100::/56,KR,KR-11,Seoul,
+2600:f0f0:82:e00::/56,KR,KR-11,Seoul,
 3.2.37.0/26,KR,KR-30,Daejeon,
 3.5.144.0/23,KR,KR-30,Daejeon,
 3.34.0.0/15,KR,KR-30,Daejeon,
@@ -3598,6 +3605,7 @@
 2406:daff:2000::/40,KR,KR-30,Daejeon,
 2600:1f01:4860::/47,KR,KR-30,Daejeon,
 2600:f0f0:1:1000::/56,KR,KR-30,Daejeon,
+2600:f0f0:82:900::/56,KR,KR-30,Daejeon,
 2406:da15::/36,MX,MX-QUE,,
 15.220.176.0/21,MY,MY-14,Kuala Lumpur,
 15.220.184.0/21,MY,MY-14,Kuala Lumpur,
