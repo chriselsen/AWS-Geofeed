@@ -50,17 +50,7 @@ df.write('# Self-published geofeed as defined in datatracker.ietf.org/doc/html/r
 df.write('# Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json\n')
 df.write('# Does not include locations from ip-ranges.json marked as \'GLOBAL\'\n')
 
-# Aggregate ip address space
-iplist = []
-prev = None
 for k, v in sorted(output.items(), key=lambda item: item[1]):
-    if prev == v or prev == None:
-        iplist.append(IPNetwork(k))
-    else:
-        summary = cidr_merge(iplist)
-        for ipout in sorted(iplist):
-            df.write(str(ipout) + ',' + v + '\n')
-        iplist=[]
-    prev = v
+    df.write(k + ',' + v + '\n')
 df.close()
 
