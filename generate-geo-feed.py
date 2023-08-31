@@ -7,7 +7,6 @@
 
 import json
 import datetime
-from netaddr import IPNetwork, cidr_merge
 from urllib.request import urlopen
 
 # AWS ip-ranges.json URL
