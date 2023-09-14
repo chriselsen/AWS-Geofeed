@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-09-12T16:20:21+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-09-14T20:56:14+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -432,6 +432,7 @@
 157.241.25.0/24,BH,,Bahrain,
 16.24.30.0/23,BH,,Bahrain,
 16.24.32.0/22,BH,,Bahrain,
+16.24.46.56/29,BH,,Bahrain,
 2a05:d070:e000::/40,BH,,Bahrain,
 2a05:d078:e000::/40,BH,,Bahrain,
 2a05:d01e::/36,BH,,Bahrain,
@@ -4107,10 +4108,12 @@
 15.220.240.0/21,TH,TH-10,Bangkok,
 142.4.161.0/29,TH,TH-10,Bangkok,
 142.4.160.144/29,TW,TW-TPE,Taipei,
+142.4.162.8/29,TW,TW-TPE,Taipei,
 15.220.80.0/20,TW,TW-TPE,Taipei,
 142.4.161.48/29,TW,TW-TPE,Taipei,
 15.220.56.0/21,TW,TW-TPE,Taipei,
 142.4.160.208/29,TW,TW-TPE,Taipei,
+142.4.162.16/29,TW,TW-TPE,Taipei,
 142.4.160.224/29,US,US-AZ,Phoenix,
 15.220.32.0/21,US,US-AZ,Phoenix,
 15.181.128.0/20,US,US-AZ,Phoenix,
