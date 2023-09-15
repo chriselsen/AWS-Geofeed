@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-09-14T21:59:57+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-09-15T14:52:09+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -327,6 +327,7 @@
 16.50.182.0/25,AU,AU-VIC,Melbourne,
 16.50.206.0/25,AU,AU-VIC,Melbourne,
 16.50.248.32/28,AU,AU-VIC,Melbourne,
+16.50.248.80/29,AU,AU-VIC,Melbourne,
 16.50.67.0/26,AU,AU-VIC,Melbourne,
 16.50.67.128/26,AU,AU-VIC,Melbourne,
 16.50.67.64/26,AU,AU-VIC,Melbourne,
@@ -945,6 +946,7 @@
 16.62.56.240/28,CH,CH-ZH,Zurich,
 16.62.7.192/26,CH,CH-ZH,Zurich,
 16.62.70.0/23,CH,CH-ZH,Zurich,
+16.63.77.8/29,CH,CH-ZH,Zurich,
 16.63.88.0/22,CH,CH-ZH,Zurich,
 16.63.92.0/23,CH,CH-ZH,Zurich,
 2a05:d000:9000::/40,CH,CH-ZH,Zurich,
@@ -1038,6 +1040,7 @@
 43.196.16.0/23,CN,CN-BJ,Beijing,
 43.196.18.0/24,CN,CN-BJ,Beijing,
 43.196.19.0/24,CN,CN-BJ,Beijing,
+43.196.20.40/29,CN,CN-BJ,Beijing,
 43.196.3.64/26,CN,CN-BJ,Beijing,
 52.80.197.0/25,CN,CN-BJ,Beijing,
 52.80.197.128/25,CN,CN-BJ,Beijing,
@@ -1137,6 +1140,7 @@
 161.189.66.128/26,CN,CN-NX,Ningxia,
 161.189.66.192/26,CN,CN-NX,Ningxia,
 43.192.144.0/22,CN,CN-NX,Ningxia,
+43.192.155.8/29,CN,CN-NX,Ningxia,
 43.192.156.0/23,CN,CN-NX,Ningxia,
 43.192.160.0/22,CN,CN-NX,Ningxia,
 52.82.1.0/29,CN,CN-NX,Ningxia,
@@ -1515,6 +1519,7 @@
 18.100.74.0/23,ES,ES-AR,Aragon,
 18.101.80.0/22,ES,ES-AR,Aragon,
 18.101.84.0/23,ES,ES-AR,Aragon,
+18.101.90.48/29,ES,ES-AR,Aragon,
 2a05:d034:1000::/40,ES,ES-AR,Aragon,
 2a05:d030:1000::/40,ES,ES-AR,Aragon,
 2606:f40:fffa::/48,ES,ES-AR,Aragon,
