@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-10-18T11:54:25+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-10-18T15:59:40+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1505,6 +1505,8 @@
 15.177.68.0/23,DE,DE-HE,Frankfurt,
 15.230.15.3/32,DE,DE-HE,Frankfurt,
 15.230.15.80/31,DE,DE-HE,Frankfurt,
+18.153.115.128/26,DE,DE-HE,Frankfurt,
+18.153.115.192/26,DE,DE-HE,Frankfurt,
 18.153.40.0/22,DE,DE-HE,Frankfurt,
 18.156.52.0/24,DE,DE-HE,Frankfurt,
 18.156.54.0/23,DE,DE-HE,Frankfurt,
@@ -2036,6 +2038,7 @@
 18.168.37.64/26,GB,GB-LND,London,
 18.169.230.136/30,GB,GB-LND,London,
 18.169.230.200/29,GB,GB-LND,London,
+18.171.35.128/26,GB,GB-LND,London,
 3.10.127.32/27,GB,GB-LND,London,
 3.10.17.0/25,GB,GB-LND,London,
 3.10.17.128/25,GB,GB-LND,London,
@@ -2656,6 +2659,9 @@
 3.253.224.0/22,IE,IE-D,Dublin,
 3.253.228.0/22,IE,IE-D,Dublin,
 3.254.10.0/25,IE,IE-D,Dublin,
+3.254.234.0/25,IE,IE-D,Dublin,
+3.254.234.128/25,IE,IE-D,Dublin,
+3.254.236.0/22,IE,IE-D,Dublin,
 3.254.8.0/25,IE,IE-D,Dublin,
 34.242.153.128/26,IE,IE-D,Dublin,
 34.242.153.224/28,IE,IE-D,Dublin,
@@ -5650,6 +5656,9 @@
 18.246.181.0/24,US,US-OR,Umatilla,
 18.246.182.0/23,US,US-OR,Umatilla,
 18.246.184.0/23,US,US-OR,Umatilla,
+18.246.190.128/25,US,US-OR,Umatilla,
+18.246.220.0/25,US,US-OR,Umatilla,
+18.246.220.128/25,US,US-OR,Umatilla,
 18.246.88.0/23,US,US-OR,Umatilla,
 18.246.92.0/22,US,US-OR,Umatilla,
 18.246.96.0/22,US,US-OR,Umatilla,
@@ -6673,6 +6682,8 @@
 44.218.96.0/23,US,US-VA,Ashburn,
 44.220.25.0/25,US,US-VA,Ashburn,
 44.220.28.0/22,US,US-VA,Ashburn,
+44.220.67.128/25,US,US-VA,Ashburn,
+44.220.68.0/25,US,US-VA,Ashburn,
 52.23.61.0/24,US,US-VA,Ashburn,
 52.23.62.0/24,US,US-VA,Ashburn,
 52.55.191.224/27,US,US-VA,Ashburn,
