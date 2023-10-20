@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-10-20T04:58:04+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-10-20T06:57:30+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -3904,10 +3904,20 @@
 2406:daf0:800::/40,MY,MY-14,Kuala Lumpur,
 2406:da60:800::/40,MY,MY-14,Kuala Lumpur,
 2406:daa0:800::/40,MY,MY-14,Kuala Lumpur,
+2406:da70:800:100::/56,MY,MY-14,Kuala Lumpur,
+2406:da10:8000::/38,MY,MY-14,Kuala Lumpur,
 2400:6500:0:7c00::/56,MY,MY-14,Kuala Lumpur,
+2406:da70:800:200::/56,MY,MY-14,Kuala Lumpur,
+2406:da10:8400::/38,MY,MY-14,Kuala Lumpur,
 2406:da20:8000::/36,MY,MY-14,Kuala Lumpur,
+2406:da10:8c00::/38,MY,MY-14,Kuala Lumpur,
+2406:da00:800::/64,MY,MY-14,Kuala Lumpur,
+2406:da70:800:400::/56,MY,MY-14,Kuala Lumpur,
+2406:da70:800:500::/56,MY,MY-14,Kuala Lumpur,
 2406:da68:800::/40,MY,MY-14,Kuala Lumpur,
 2406:da69:800::/40,MY,MY-14,Kuala Lumpur,
+2406:da10:8800::/38,MY,MY-14,Kuala Lumpur,
+2406:da70:800:300::/56,MY,MY-14,Kuala Lumpur,
 142.4.161.40/29,NG,NG-LA,Lagos,
 96.0.40.0/21,NG,NG-LA,Lagos,
 96.0.36.0/22,NG,NG-LA,Lagos,
