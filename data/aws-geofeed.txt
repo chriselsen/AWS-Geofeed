@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-10-27T21:59:41+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-10-28T00:57:51+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -5824,9 +5824,11 @@
 2600:1fff:2000::/40,US,US-OR,Umatilla,
 2600:1f1d:8000::/36,US,US-OR,Umatilla,
 2600:1f68:4000::/39,US,US-OR,Umatilla,
+2600:1ff7:4020::/48,US,US-OR,Umatilla,
 2620:107:4000:a080::/58,US,US-OR,Umatilla,
 2600:1fa0:2000::/40,US,US-OR,Umatilla,
 2600:1f60:2000::/40,US,US-OR,Umatilla,
+2600:1ff7:4021::/48,US,US-OR,Umatilla,
 2620:108:7000::/44,US,US-OR,Umatilla,
 2600:f0f0:1:a00::/56,US,US-OR,Umatilla,
 2600:1f2c:4000::/36,US,US-OR,Umatilla,
@@ -5838,6 +5840,7 @@
 2600:f0f0:1:2200::/56,US,US-OR,Umatilla,
 2600:1f60:4000::/39,US,US-OR,Umatilla,
 2600:1fa0:4000::/39,US,US-OR,Umatilla,
+2600:1ff7:4080::/48,US,US-OR,Umatilla,
 2600:1ffb:4041::/48,US,US-OR,Umatilla,
 2620:107:4000:9003::/64,US,US-OR,Umatilla,
 2620:108:d000::/44,US,US-OR,Umatilla,
@@ -5891,12 +5894,15 @@
 2600:1ffb:40c0::/46,US,US-OR,Umatilla,
 2600:f0f0:5500::/48,US,US-OR,Umatilla,
 2620:107:4000:4203::/64,US,US-OR,Umatilla,
+2600:1ff7:40c1::/48,US,US-OR,Umatilla,
 2600:1ff9:4000::/40,US,US-OR,Umatilla,
 2600:1f22::/36,US,US-OR,Umatilla,
 2600:1ffe:4000::/40,US,US-OR,Umatilla,
+2600:1ff7:4081::/48,US,US-OR,Umatilla,
 2620:107:4000:7200::/56,US,US-OR,Umatilla,
 2600:1ffa:2000::/40,US,US-OR,Umatilla,
 2620:107:4000:5::/64,US,US-OR,Umatilla,
+2600:1ff7:40c0::/48,US,US-OR,Umatilla,
 2620:107:4005::/48,US,US-OR,Umatilla,
 2600:1f61:2000::/40,US,US-OR,Umatilla,
 2600:1ffe:2000::/40,US,US-OR,Umatilla,
@@ -6780,6 +6786,7 @@
 2600:1ffd:807b::/48,US,US-VA,Ashburn,
 2600:1ffb:8021::/48,US,US-VA,Ashburn,
 2620:107:4000:8001::/64,US,US-VA,Ashburn,
+2600:1ff7:80c0::/48,US,US-VA,Ashburn,
 2600:1ffe:8000::/40,US,US-VA,Ashburn,
 2600:1ff0:8000::/39,US,US-VA,Ashburn,
 2605:9cc0:1ff0:800::/56,US,US-VA,Ashburn,
@@ -6820,6 +6827,7 @@
 2600:1fff:8000::/40,US,US-VA,Ashburn,
 2600:1f25:8000::/36,US,US-VA,Ashburn,
 2600:1f01:4804::/47,US,US-VA,Ashburn,
+2600:1ff7:80c1::/48,US,US-VA,Ashburn,
 2620:107:4000:9009::/64,US,US-VA,Ashburn,
 2600:1f2b:4000::/36,US,US-VA,Ashburn,
 2605:9cc0:1ff0:900::/56,US,US-VA,Ashburn,
