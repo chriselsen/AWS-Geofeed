@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-11-01T22:56:41+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-11-03T00:55:36+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -6218,6 +6218,7 @@
 13.34.57.128/27,US,US-VA,Ashburn,
 13.34.91.160/27,US,US-VA,Ashburn,
 54.80.0.0/13,US,US-VA,Ashburn,
+104.153.118.0/24,US,US-VA,Ashburn,
 15.230.142.0/24,US,US-VA,Ashburn,
 15.230.201.0/24,US,US-VA,Ashburn,
 52.20.0.0/14,US,US-VA,Ashburn,
@@ -6334,6 +6335,7 @@
 15.230.145.0/24,US,US-VA,Ashburn,
 16.56.0.0/18,US,US-VA,Ashburn,
 99.151.184.0/23,US,US-VA,Ashburn,
+104.153.115.0/24,US,US-VA,Ashburn,
 13.34.60.192/27,US,US-VA,Ashburn,
 15.230.245.0/24,US,US-VA,Ashburn,
 199.127.232.0/22,US,US-VA,Ashburn,
@@ -6528,6 +6530,7 @@
 69.107.7.32/29,US,US-VA,Ashburn,
 52.144.192.64/26,US,US-VA,Ashburn,
 52.93.60.0/24,US,US-VA,Ashburn,
+104.153.116.0/24,US,US-VA,Ashburn,
 52.93.91.104/32,US,US-VA,Ashburn,
 52.93.123.99/32,US,US-VA,Ashburn,
 3.3.2.0/24,US,US-VA,Ashburn,
