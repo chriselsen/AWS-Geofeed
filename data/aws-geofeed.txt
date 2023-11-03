@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-11-03T15:54:52+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-11-03T19:50:15+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2308,6 +2308,7 @@
 43.218.193.64/29,ID,ID-JK,Jakarta,
 43.218.193.96/28,ID,ID-JK,Jakarta,
 43.218.222.160/28,ID,ID-JK,Jakarta,
+43.218.222.176/28,ID,ID-JK,Jakarta,
 43.218.56.128/26,ID,ID-JK,Jakarta,
 43.218.56.192/26,ID,ID-JK,Jakarta,
 43.218.56.64/26,ID,ID-JK,Jakarta,
@@ -2806,6 +2807,7 @@
 51.17.0.0/24,IL,IL-TA,Tel Aviv,
 51.17.1.0/24,IL,IL-TA,Tel Aviv,
 51.17.129.160/28,IL,IL-TA,Tel Aviv,
+51.17.129.176/28,IL,IL-TA,Tel Aviv,
 51.17.72.0/22,IL,IL-TA,Tel Aviv,
 2a05:d034:5000::/40,IL,IL-TA,Tel Aviv,
 2a05:d035:5000::/40,IL,IL-TA,Tel Aviv,
@@ -3647,6 +3649,7 @@
 13.34.97.128/27,JP,JP-27,Osaka,
 13.34.92.160/27,JP,JP-27,Osaka,
 52.144.233.68/31,JP,JP-27,Osaka,
+192.31.213.0/24,JP,JP-27,Osaka,
 15.152.0.0/16,JP,JP-27,Osaka,
 99.77.243.0/24,JP,JP-27,Osaka,
 13.248.24.0/22,JP,JP-27,Osaka,
@@ -4036,6 +4039,7 @@
 52.95.170.0/23,SE,SE-AB,Stockholm,
 13.34.26.160/27,SE,SE-AB,Stockholm,
 52.144.216.8/31,SE,SE-AB,Stockholm,
+204.87.185.0/24,SE,SE-AB,Stockholm,
 13.34.34.32/27,SE,SE-AB,Stockholm,
 13.34.33.224/27,SE,SE-AB,Stockholm,
 15.230.68.128/26,SE,SE-AB,Stockholm,
@@ -4430,6 +4434,7 @@
 150.222.234.50/31,US,US-CA,San Francisco,
 13.34.32.128/27,US,US-CA,San Francisco,
 52.93.22.64/29,US,US-CA,San Francisco,
+192.31.212.0/24,US,US-CA,San Francisco,
 52.93.178.152/32,US,US-CA,San Francisco,
 52.93.178.205/32,US,US-CA,San Francisco,
 150.222.234.52/31,US,US-CA,San Francisco,
