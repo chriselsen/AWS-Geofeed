@@ -26,7 +26,7 @@ with open('./data/loc-mapping.txt') as lf:
 lf.close()
 
 # Location mapping function
-def loc_lookup(loc):
+def loc_lookup(loc.str.replace(r'[ a-z]$', '')):
     try:
         return loc_map[loc]
     except:
