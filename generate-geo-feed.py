@@ -7,6 +7,7 @@
 
 import json
 import datetime
+import string
 from urllib.request import urlopen
 
 # AWS ip-ranges.json URL
@@ -26,11 +27,13 @@ with open('./data/loc-mapping.txt') as lf:
 lf.close()
 
 # Location mapping function
-def loc_lookup(loc.str.replace(r'[ a-z]$', '')):
+def loc_lookup(loc):
+    # Strip zonal information as they are at the same location
+    loc_strip = loc.rstrip(string.ascii_letters)
     try:
-        return loc_map[loc]
+        return loc_map[loc_strip]
     except:
-        raise SystemExit('Unknown location encountered: ' + loc)
+        raise SystemExit('Unknown location encountered: ' + loc_strip)
 
 # Convert ip-ranges to GeoFeed
 output = {}

@@ -38,8 +38,7 @@ cn-northwest-1 CN,CN-NX,Ningxia,
 us-gov-west-1 US,US-OR,Umatilla,
 us-gov-east-1 US,US-OH,Columbus,
 # Other special Regions
-ap-southeast-1-sggov-sin-1a SG,SG-01,Singapore,
-ap-southeast-1-sggov-sin-1b SG,SG-01,Singapore,
+ap-southeast-1-sggov-sin-1 SG,SG-01,Singapore,
 # Wavelength LocalZones
 ## Bell 
 ca-central-1-wl1-yto-wlz-1 CA,CA-ON,Toronto,
