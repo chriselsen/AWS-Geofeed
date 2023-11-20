@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-11-17T19:10:50+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-11-20T17:37:49+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -962,6 +962,7 @@
 51.96.0.0/16,CH,CH-ZH,Zurich,
 15.230.170.0/23,CH,CH-ZH,Zurich,
 150.222.51.128/27,CH,CH-ZH,Zurich,
+51.34.0.0/15,CH,CH-ZH,Zurich,
 54.239.1.208/28,CH,CH-ZH,Zurich,
 3.2.43.64/26,CH,CH-ZH,Zurich,
 13.34.40.64/27,CH,CH-ZH,Zurich,
@@ -1268,6 +1269,7 @@
 2404:c2c0:83cc:cc00::/56,CN,CN-NX,Ningxia,
 2404:c2c0:83cc:cd00::/56,CN,CN-NX,Ningxia,
 2404:c2c0:83cc:ce00::/56,CN,CN-NX,Ningxia,
+51.226.0.0/15,DE,DE-BE,Berlin
 15.230.15.29/32,DE,DE-HE,Frankfurt,
 15.230.15.76/31,DE,DE-HE,Frankfurt,
 52.93.244.0/24,DE,DE-HE,Frankfurt,
@@ -5188,6 +5190,7 @@
 99.151.96.0/21,US,US-OH,Columbus,
 15.230.39.216/31,US,US-OH,Columbus,
 15.230.39.20/31,US,US-OH,Columbus,
+182.29.0.0/16,US,US-OH,Columbus,
 15.230.39.114/31,US,US-OH,Columbus,
 15.230.39.150/31,US,US-OH,Columbus,
 3.130.0.0/16,US,US-OH,Columbus,
@@ -5199,6 +5202,7 @@
 13.34.43.64/27,US,US-OH,Columbus,
 13.34.104.160/27,US,US-OH,Columbus,
 3.12.0.0/16,US,US-OH,Columbus,
+182.28.0.0/16,US,US-OH,Columbus,
 15.230.39.64/31,US,US-OH,Columbus,
 108.166.248.0/21,US,US-OH,Columbus,
 69.107.7.48/29,US,US-OH,Columbus,
