@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-11-30T22:45:02+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2023-12-01T18:51:54+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -5444,6 +5444,7 @@
 2620:107:4000:900a::/64,US,US-OH,Columbus,
 2620:107:4000:7700::/56,US,US-OH,Columbus,
 2600:1ffe:5000::/40,US,US-OH,Columbus,
+2600:f0f0:30::/44,US,US-OH,Columbus,
 2600:1f68:6000::/40,US,US-OH,Columbus,
 2600:1fff:6000::/40,US,US-OH,Columbus,
 2600:1ff2:5000::/40,US,US-OH,Columbus,
