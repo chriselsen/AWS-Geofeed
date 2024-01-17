@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-01-17T21:56:55+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-01-17T22:57:58+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -4015,18 +4015,15 @@
 2406:da60:800::/40,MY,MY-14,Kuala Lumpur,
 2406:daa0:800::/40,MY,MY-14,Kuala Lumpur,
 2406:da70:800:100::/56,MY,MY-14,Kuala Lumpur,
-2406:da10:8000::/38,MY,MY-14,Kuala Lumpur,
 2400:6500:0:7c00::/56,MY,MY-14,Kuala Lumpur,
 2406:da70:800:200::/56,MY,MY-14,Kuala Lumpur,
-2406:da10:8400::/38,MY,MY-14,Kuala Lumpur,
 2406:da20:8000::/36,MY,MY-14,Kuala Lumpur,
-2406:da10:8c00::/38,MY,MY-14,Kuala Lumpur,
 2406:da00:800::/64,MY,MY-14,Kuala Lumpur,
 2406:da70:800:400::/56,MY,MY-14,Kuala Lumpur,
+2406:da10:8000::/36,MY,MY-14,Kuala Lumpur,
 2406:da70:800:500::/56,MY,MY-14,Kuala Lumpur,
 2406:da68:800::/40,MY,MY-14,Kuala Lumpur,
 2406:da69:800::/40,MY,MY-14,Kuala Lumpur,
-2406:da10:8800::/38,MY,MY-14,Kuala Lumpur,
 2406:da70:800:300::/56,MY,MY-14,Kuala Lumpur,
 142.4.161.40/29,NG,NG-LA,Lagos,
 96.0.40.0/21,NG,NG-LA,Lagos,
@@ -6112,6 +6109,7 @@
 13.34.105.128/27,US,US-VA,Ashburn,
 50.16.0.0/15,US,US-VA,Ashburn,
 52.95.208.0/22,US,US-VA,Ashburn,
+13.34.110.224/27,US,US-VA,Ashburn,
 52.93.127.169/32,US,US-VA,Ashburn,
 52.94.244.0/22,US,US-VA,Ashburn,
 13.34.34.192/27,US,US-VA,Ashburn,
@@ -6498,6 +6496,7 @@
 72.44.32.0/19,US,US-VA,Ashburn,
 13.34.94.128/27,US,US-VA,Ashburn,
 13.34.102.192/27,US,US-VA,Ashburn,
+13.34.110.192/27,US,US-VA,Ashburn,
 3.2.52.0/24,US,US-VA,Ashburn,
 15.230.216.10/32,US,US-VA,Ashburn,
 69.107.7.96/29,US,US-VA,Ashburn,
