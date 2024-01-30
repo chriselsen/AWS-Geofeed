@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-01-30T17:58:21+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-01-30T20:53:05+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -3641,6 +3641,7 @@
 13.112.191.184/29,JP,JP-13,Tokyo,
 13.113.196.64/26,JP,JP-13,Tokyo,
 13.113.203.0/24,JP,JP-13,Tokyo,
+13.113.244.25/32,JP,JP-13,Tokyo,
 13.230.21.128/26,JP,JP-13,Tokyo,
 13.230.21.224/28,JP,JP-13,Tokyo,
 13.230.21.240/28,JP,JP-13,Tokyo,
@@ -3715,6 +3716,7 @@
 57.180.138.64/26,JP,JP-13,Tokyo,
 57.181.142.164/31,JP,JP-13,Tokyo,
 57.181.142.168/30,JP,JP-13,Tokyo,
+57.181.142.182/31,JP,JP-13,Tokyo,
 2406:da61:4000::/40,JP,JP-13,Tokyo,
 2406:da70:4000::/40,JP,JP-13,Tokyo,
 2406:daf8:4000::/40,JP,JP-13,Tokyo,
@@ -6074,6 +6076,8 @@
 18.246.190.128/25,US,US-OR,Umatilla,
 18.246.220.0/25,US,US-OR,Umatilla,
 18.246.220.128/25,US,US-OR,Umatilla,
+18.246.224.18/32,US,US-OR,Umatilla,
+18.246.224.24/29,US,US-OR,Umatilla,
 18.246.88.0/23,US,US-OR,Umatilla,
 18.246.92.0/22,US,US-OR,Umatilla,
 18.246.96.0/22,US,US-OR,Umatilla,
