@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-01-31T03:53:54+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-01-31T21:59:48+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1315,6 +1315,7 @@
 2404:c2c0:83cc:cc00::/56,CN,CN-NX,Ningxia,
 2404:c2c0:83cc:cd00::/56,CN,CN-NX,Ningxia,
 2404:c2c0:83cc:ce00::/56,CN,CN-NX,Ningxia,
+83.118.240.0/21,DE,DE-BE,Berlin
 51.224.0.0/15,DE,DE-BE,Berlin
 15.190.252.0/22,DE,DE-BE,Berlin
 51.226.0.0/15,DE,DE-BE,Berlin
