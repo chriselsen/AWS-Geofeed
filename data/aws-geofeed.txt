@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-02-06T08:58:23+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-02-06T20:55:40+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -131,6 +131,7 @@
 13.34.103.224/27,AU,AU-NSW,Sydney,
 52.93.77.0/24,AU,AU-NSW,Sydney,
 13.34.16.160/27,AU,AU-NSW,Sydney,
+15.230.149.2/31,AU,AU-NSW,Sydney,
 150.222.43.64/27,AU,AU-NSW,Sydney,
 52.93.126.138/32,AU,AU-NSW,Sydney,
 52.93.182.128/26,AU,AU-NSW,Sydney,
@@ -7274,6 +7275,7 @@
 2600:1f2e:8000::/36,US,US-WA,Seattle,
 2600:1f1e:8000::/36,US,US-WA,Seattle,
 3.2.34.0/26,ZA,ZA-WC,Cape Town,
+13.34.111.192/27,ZA,ZA-WC,Cape Town,
 99.78.152.0/22,ZA,ZA-WC,Cape Town,
 16.30.0.0/16,ZA,ZA-WC,Cape Town,
 150.222.48.192/27,ZA,ZA-WC,Cape Town,
@@ -7282,6 +7284,7 @@
 99.77.148.0/24,ZA,ZA-WC,Cape Town,
 52.93.57.0/24,ZA,ZA-WC,Cape Town,
 99.77.235.0/24,ZA,ZA-WC,Cape Town,
+13.34.111.224/27,ZA,ZA-WC,Cape Town,
 150.222.208.0/24,ZA,ZA-WC,Cape Town,
 15.230.72.192/26,ZA,ZA-WC,Cape Town,
 150.222.48.224/27,ZA,ZA-WC,Cape Town,
