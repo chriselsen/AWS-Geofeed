@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-02-09T08:00:54+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-02-09T10:02:48+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1481,6 +1481,7 @@
 52.94.136.0/21,DE,DE-HE,Frankfurt,
 54.239.4.0/22,DE,DE-HE,Frankfurt,
 15.230.15.68/31,DE,DE-HE,Frankfurt,
+13.34.112.160/27,DE,DE-HE,Frankfurt,
 15.230.15.86/31,DE,DE-HE,Frankfurt,
 15.230.15.146/31,DE,DE-HE,Frankfurt,
 15.230.15.24/32,DE,DE-HE,Frankfurt,
@@ -1573,6 +1574,7 @@
 99.82.163.0/24,DE,DE-HE,Frankfurt,
 52.46.184.0/22,DE,DE-HE,Frankfurt,
 52.93.111.0/24,DE,DE-HE,Frankfurt,
+13.34.112.128/27,DE,DE-HE,Frankfurt,
 15.230.15.6/32,DE,DE-HE,Frankfurt,
 15.230.15.132/31,DE,DE-HE,Frankfurt,
 52.119.188.0/22,DE,DE-HE,Frankfurt,
@@ -4191,6 +4193,7 @@
 150.222.117.0/24,SE,SE-AB,Stockholm,
 52.144.216.4/31,SE,SE-AB,Stockholm,
 15.230.97.0/24,SE,SE-AB,Stockholm,
+15.230.116.0/24,SE,SE-AB,Stockholm,
 15.248.32.0/22,SE,SE-AB,Stockholm,
 56.228.0.0/16,SE,SE-AB,Stockholm,
 56.230.0.0/16,SE,SE-AB,Stockholm,
