@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-03-01T16:51:21+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-03-01T22:01:15+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -4556,6 +4556,8 @@
 2400:6500:0:7000::/56,SG,SG-01,Singapore,
 2406:dafa:8000::/40,SG,SG-01,Singapore,
 2600:1ffd:85b2::/48,SG,SG-01,Singapore,
+2406:da18:8000::/36,SG,SG-01,Singapore,
+2406:da28:8000::/36,SG,SG-01,Singapore,
 2406:da28::/36,SG,SG-01,Singapore,
 2406:da69:8000::/40,SG,SG-01,Singapore,
 2406:da18:7ff:f800::/56,SG,SG-01,Singapore,
