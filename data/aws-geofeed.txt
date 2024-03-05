@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-03-05T00:58:54+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-03-05T11:00:44+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -4134,8 +4134,10 @@
 2406:da60:800::/40,MY,MY-14,Kuala Lumpur,
 2406:daa0:800::/40,MY,MY-14,Kuala Lumpur,
 2406:da70:800:100::/56,MY,MY-14,Kuala Lumpur,
+2406:dafc:8c0::/51,MY,MY-14,Kuala Lumpur,
 2400:6500:0:7c00::/56,MY,MY-14,Kuala Lumpur,
 2406:da70:800:200::/56,MY,MY-14,Kuala Lumpur,
+2406:dafc:840::/51,MY,MY-14,Kuala Lumpur,
 2406:da20:8000::/36,MY,MY-14,Kuala Lumpur,
 2406:da00:800::/40,MY,MY-14,Kuala Lumpur,
 2406:da70:800:400::/56,MY,MY-14,Kuala Lumpur,
@@ -4144,6 +4146,7 @@
 2406:da68:800::/40,MY,MY-14,Kuala Lumpur,
 2406:da69:800::/40,MY,MY-14,Kuala Lumpur,
 2406:da70:800:300::/56,MY,MY-14,Kuala Lumpur,
+2406:dafc:880::/51,MY,MY-14,Kuala Lumpur,
 96.0.40.0/21,NG,NG-LA,Lagos,
 96.0.36.0/22,NG,NG-LA,Lagos,
 96.0.80.0/22,NZ,NZ-AUK,Auckland,
