@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-03-07T22:57:44+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-03-08T02:57:53+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -289,6 +289,7 @@
 2406:daf0:c000::/40,AU,AU-NSW,Sydney,
 2406:daf9:c000::/40,AU,AU-NSW,Sydney,
 2406:da70:c000::/40,AU,AU-NSW,Sydney,
+2600:f0f0:83::/48,AU,AU-NSW,Sydney,
 2406:daff:c000::/40,AU,AU-NSW,Sydney,
 2403:b300:ff00::/48,AU,AU-NSW,Sydney,
 2406:dafa:c000::/40,AU,AU-NSW,Sydney,
@@ -4336,6 +4337,7 @@
 15.221.36.0/22,SG,SG-01,Singapore,
 13.34.108.32/27,SG,SG-01,Singapore,
 16.12.48.0/21,SG,SG-01,Singapore,
+13.34.113.224/27,SG,SG-01,Singapore,
 15.230.251.4/31,SG,SG-01,Singapore,
 15.230.251.0/31,SG,SG-01,Singapore,
 54.169.0.0/16,SG,SG-01,Singapore,
@@ -4372,6 +4374,7 @@
 15.221.8.0/21,SG,SG-01,Singapore,
 52.74.0.0/16,SG,SG-01,Singapore,
 15.230.4.156/31,SG,SG-01,Singapore,
+13.34.113.192/27,SG,SG-01,Singapore,
 13.214.0.0/15,SG,SG-01,Singapore,
 54.179.0.0/16,SG,SG-01,Singapore,
 13.248.127.0/24,SG,SG-01,Singapore,
