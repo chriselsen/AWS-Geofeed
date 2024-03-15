@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-03-15T05:57:52+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-03-15T06:51:33+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -4240,6 +4240,7 @@
 99.151.160.0/21,MY,MY-14,Kuala Lumpur,
 13.34.108.192/27,MY,MY-14,Kuala Lumpur,
 13.34.18.4/32,MY,MY-14,Kuala Lumpur,
+104.255.59.201/32,MY,MY-14,Kuala Lumpur,
 13.248.75.0/24,MY,MY-14,Kuala Lumpur,
 13.34.18.35/32,MY,MY-14,Kuala Lumpur,
 13.34.18.3/32,MY,MY-14,Kuala Lumpur,
@@ -4264,6 +4265,7 @@
 13.34.18.10/32,MY,MY-14,Kuala Lumpur,
 13.34.18.45/32,MY,MY-14,Kuala Lumpur,
 3.5.180.0/22,MY,MY-14,Kuala Lumpur,
+104.255.59.199/32,MY,MY-14,Kuala Lumpur,
 13.34.18.5/32,MY,MY-14,Kuala Lumpur,
 13.34.18.8/32,MY,MY-14,Kuala Lumpur,
 13.34.18.34/32,MY,MY-14,Kuala Lumpur,
@@ -4273,6 +4275,7 @@
 56.71.0.0/16,MY,MY-14,Kuala Lumpur,
 104.255.59.197/32,MY,MY-14,Kuala Lumpur,
 15.248.56.0/21,MY,MY-14,Kuala Lumpur,
+104.255.59.198/32,MY,MY-14,Kuala Lumpur,
 13.34.18.48/32,MY,MY-14,Kuala Lumpur,
 13.34.18.6/32,MY,MY-14,Kuala Lumpur,
 13.34.18.14/32,MY,MY-14,Kuala Lumpur,
@@ -4280,6 +4283,7 @@
 56.70.0.0/16,MY,MY-14,Kuala Lumpur,
 13.34.18.36/32,MY,MY-14,Kuala Lumpur,
 76.223.170.32/28,MY,MY-14,Kuala Lumpur,
+104.255.59.200/32,MY,MY-14,Kuala Lumpur,
 13.34.18.40/32,MY,MY-14,Kuala Lumpur,
 13.34.18.46/32,MY,MY-14,Kuala Lumpur,
 104.255.59.196/32,MY,MY-14,Kuala Lumpur,
