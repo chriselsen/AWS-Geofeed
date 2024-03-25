@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-03-25T03:57:57+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-03-25T12:58:29+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1876,16 +1876,24 @@
 99.77.28.0/22,ES,ES-AR,Aragon,
 99.77.48.0/21,ES,ES-AR,Aragon,
 99.77.55.3/32,ES,ES-AR,Aragon,
+99.77.55.38/32,ES,ES-AR,Aragon,
 99.77.55.24/32,ES,ES-AR,Aragon,
+99.77.55.32/32,ES,ES-AR,Aragon,
 99.77.55.26/32,ES,ES-AR,Aragon,
+99.77.55.34/32,ES,ES-AR,Aragon,
+99.77.55.33/32,ES,ES-AR,Aragon,
 99.77.55.254/32,ES,ES-AR,Aragon,
 99.77.55.25/32,ES,ES-AR,Aragon,
+99.77.55.37/32,ES,ES-AR,Aragon,
 99.77.55.14/32,ES,ES-AR,Aragon,
 99.77.55.0/32,ES,ES-AR,Aragon,
 99.77.55.2/32,ES,ES-AR,Aragon,
 99.77.55.253/32,ES,ES-AR,Aragon,
+99.77.55.39/32,ES,ES-AR,Aragon,
 99.77.55.1/32,ES,ES-AR,Aragon,
+99.77.55.35/32,ES,ES-AR,Aragon,
 99.77.55.15/32,ES,ES-AR,Aragon,
+99.77.55.36/32,ES,ES-AR,Aragon,
 99.77.55.12/32,ES,ES-AR,Aragon,
 99.77.55.27/32,ES,ES-AR,Aragon,
 99.77.55.255/32,ES,ES-AR,Aragon,
