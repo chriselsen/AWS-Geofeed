@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-05-07T12:31:05+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-05-07T17:30:30+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -3481,6 +3481,7 @@
 13.34.46.32/27,IN,IN-MH,Mumbai,
 13.34.13.206/32,IN,IN-MH,Mumbai,
 52.93.148.0/26,IN,IN-MH,Mumbai,
+13.34.122.128/27,IN,IN-MH,Mumbai,
 13.34.13.160/27,IN,IN-MH,Mumbai,
 13.248.105.0/24,IN,IN-MH,Mumbai,
 52.144.228.0/31,IN,IN-MH,Mumbai,
@@ -3505,6 +3506,7 @@
 13.34.71.160/27,IN,IN-MH,Mumbai,
 43.204.0.0/15,IN,IN-MH,Mumbai,
 142.4.179.0/24,IN,IN-MH,Mumbai,
+13.34.122.160/27,IN,IN-MH,Mumbai,
 173.83.211.0/24,IN,IN-MH,Mumbai,
 52.93.126.245/32,IN,IN-MH,Mumbai,
 150.222.217.0/24,IN,IN-MH,Mumbai,
@@ -3559,6 +3561,7 @@
 15.230.203.0/24,IN,IN-MH,Mumbai,
 3.5.212.0/23,IN,IN-MH,Mumbai,
 52.93.68.0/24,IN,IN-MH,Mumbai,
+13.34.122.64/27,IN,IN-MH,Mumbai,
 52.219.64.0/22,IN,IN-MH,Mumbai,
 52.93.98.0/24,IN,IN-MH,Mumbai,
 13.34.70.160/27,IN,IN-MH,Mumbai,
@@ -3603,6 +3606,7 @@
 13.34.13.128/27,IN,IN-MH,Mumbai,
 99.83.72.0/22,IN,IN-MH,Mumbai,
 142.4.180.0/24,IN,IN-MH,Mumbai,
+13.34.122.96/27,IN,IN-MH,Mumbai,
 52.94.20.0/24,IN,IN-MH,Mumbai,
 104.255.59.86/32,IN,IN-MH,Mumbai,
 13.34.13.231/32,IN,IN-MH,Mumbai,
