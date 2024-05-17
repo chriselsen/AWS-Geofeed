@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-05-17T20:00:36+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-05-17T21:01:20+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -4549,7 +4549,6 @@
 13.34.12.137/32,KR,KR-11,Seoul,
 13.34.116.128/27,KR,KR-11,Seoul,
 104.255.59.118/32,KR,KR-11,Seoul,
-16.184.0.0/16,KR,KR-11,Seoul,
 18.98.128.0/19,KR,KR-11,Seoul,
 13.34.12.164/32,KR,KR-11,Seoul,
 99.78.184.0/22,KR,KR-11,Seoul,
@@ -4563,6 +4562,7 @@
 52.219.202.0/23,KR,KR-11,Seoul,
 52.94.198.64/28,KR,KR-11,Seoul,
 13.34.12.132/32,KR,KR-11,Seoul,
+16.184.128.0/17,KR,KR-11,Seoul,
 35.71.109.0/24,KR,KR-11,Seoul,
 52.94.248.176/28,KR,KR-11,Seoul,
 52.144.228.192/26,KR,KR-11,Seoul,
@@ -4588,6 +4588,7 @@
 52.219.144.0/22,KR,KR-11,Seoul,
 15.230.207.0/24,KR,KR-11,Seoul,
 15.251.0.34/32,KR,KR-11,Seoul,
+16.184.64.0/18,KR,KR-11,Seoul,
 52.95.252.0/24,KR,KR-11,Seoul,
 15.164.0.0/15,KR,KR-11,Seoul,
 54.239.0.192/28,KR,KR-11,Seoul,
