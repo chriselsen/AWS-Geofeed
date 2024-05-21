@@ -91,6 +91,7 @@ ap-south-1-del-2 IN,IN-DL,Delhi,
 us-west-2-den-1 US,US-CO,Denver,
 eu-central-1-ham-1 DE,DE-HH,Hamburg,
 eu-north-1-hel-1 FI,FI-18,Helsinki,
+us-west-2-hnl-1 US,US-HI,Honolulu
 us-east-1-iah-1 US,US-TX,Houston,
 us-east-1-mci-1 US,US-MO,Kansas City,
 ap-south-1-ccu-1 IN,IN-WB,Kolkata,
