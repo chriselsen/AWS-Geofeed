@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-05-23T12:00:37+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-05-23T13:59:11+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -533,6 +533,7 @@
 96.0.8.0/22,AU,AU-WA,Perth,
 15.185.0.0/16,BH,,Bahrain,
 35.71.99.0/24,BH,,Bahrain,
+13.34.125.0/27,BH,,Bahrain,
 69.107.7.136/29,BH,,Bahrain,
 52.95.174.0/24,BH,,Bahrain,
 13.34.20.0/27,BH,,Bahrain,
@@ -560,6 +561,7 @@
 52.95.228.0/24,BH,,Bahrain,
 56.184.0.0/16,BH,,Bahrain,
 15.230.69.128/26,BH,,Bahrain,
+13.34.125.32/27,BH,,Bahrain,
 16.25.0.0/16,BH,,Bahrain,
 3.5.220.0/22,BH,,Bahrain,
 13.248.106.0/24,BH,,Bahrain,
