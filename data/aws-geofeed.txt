@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-05-29T19:52:19+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-05-29T21:00:43+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -630,6 +630,7 @@
 2a05:d031:e000::/40,BH,,Bahrain,
 2a05:d035:e000::/40,BH,,Bahrain,
 2a05:d034:e000::/40,BH,,Bahrain,
+2a05:d038:e000::/40,BH,,Bahrain,
 2a05:d050:e000::/40,BH,,Bahrain,
 2600:1f01:48e0::/47,BH,,Bahrain,
 2a05:d07e:e000::/40,BH,,Bahrain,
@@ -1940,6 +1941,7 @@
 2a05:d07c:4000::/40,DE,DE-HE,Frankfurt,
 2406:dafc:ffa0::/46,DE,DE-HE,Frankfurt,
 2a05:d024::/36,DE,DE-HE,Frankfurt,
+2a05:d038:4000::/40,DE,DE-HE,Frankfurt,
 2a05:d014::/35,DE,DE-HE,Frankfurt,
 2600:1ffd:80f0::/48,DE,DE-HE,Frankfurt,
 2a05:d079:4000::/40,DE,DE-HE,Frankfurt,
@@ -2229,6 +2231,7 @@
 2a05:d035:2000::/40,FR,FR-IDF,Paris,
 2a05:d03a:2000::/40,FR,FR-IDF,Paris,
 2a01:578:0:13::/64,FR,FR-IDF,Paris,
+2a05:d038:2000::/40,FR,FR-IDF,Paris,
 2a05:d072:2000::/40,FR,FR-IDF,Paris,
 2a05:d03a:2000:100::/56,FR,FR-IDF,Paris,
 2a05:d03a:2000:200::/56,FR,FR-IDF,Paris,
@@ -2790,6 +2793,7 @@
 2406:daf9:9000::/40,ID,ID-JK,Jakarta,
 2406:da00:9000::/40,ID,ID-JK,Jakarta,
 2600:1f01:481a::/47,ID,ID-JK,Jakarta,
+2406:da38:9000::/40,ID,ID-JK,Jakarta,
 99.87.32.0/22,IE,IE-D,Dublin,
 150.222.81.0/24,IE,IE-D,Dublin,
 15.230.113.0/24,IE,IE-D,Dublin,
@@ -8640,6 +8644,7 @@
 13.245.166.132/30,ZA,ZA-WC,Cape Town,
 2406:da61:1000::/40,ZA,ZA-WC,Cape Town,
 2406:dafe:1000::/40,ZA,ZA-WC,Cape Town,
+2406:da38:1000::/40,ZA,ZA-WC,Cape Town,
 2406:da60:1000::/40,ZA,ZA-WC,Cape Town,
 2406:daff:1000::/40,ZA,ZA-WC,Cape Town,
 2400:6500:0:7700::/56,ZA,ZA-WC,Cape Town,
