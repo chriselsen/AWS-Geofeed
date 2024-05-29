@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-05-29T17:00:33+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-05-29T18:52:28+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -623,6 +623,7 @@
 16.24.46.56/29,BH,,Bahrain,
 2a05:d070:e000::/40,BH,,Bahrain,
 2a05:d078:e000::/40,BH,,Bahrain,
+2a05:d038:e000::/48,BH,,Bahrain,
 2a05:d01e::/36,BH,,Bahrain,
 2a05:d07a:e000::/40,BH,,Bahrain,
 2a05:d02e::/36,BH,,Bahrain,
@@ -1942,6 +1943,7 @@
 2a05:d024::/36,DE,DE-HE,Frankfurt,
 2a05:d014::/35,DE,DE-HE,Frankfurt,
 2600:1ffd:80f0::/48,DE,DE-HE,Frankfurt,
+2a05:d038:4000::/48,DE,DE-HE,Frankfurt,
 2a05:d079:4000::/40,DE,DE-HE,Frankfurt,
 2600:1ffd:80d0::/48,DE,DE-HE,Frankfurt,
 2a05:d034:4000::/40,DE,DE-HE,Frankfurt,
@@ -2227,6 +2229,7 @@
 2a05:d078:2000::/40,FR,FR-IDF,Paris,
 2a05:d07e:2000::/40,FR,FR-IDF,Paris,
 2a05:d035:2000::/40,FR,FR-IDF,Paris,
+2a05:d038:2000::/48,FR,FR-IDF,Paris,
 2a05:d03a:2000::/40,FR,FR-IDF,Paris,
 2a01:578:0:13::/64,FR,FR-IDF,Paris,
 2a05:d072:2000::/40,FR,FR-IDF,Paris,
@@ -2775,6 +2778,7 @@
 2620:107:4000:a880::/58,ID,ID-JK,Jakarta,
 2406:da29::/36,ID,ID-JK,Jakarta,
 2400:6500:0:7800::/56,ID,ID-JK,Jakarta,
+2406:da38:9000::/48,ID,ID-JK,Jakarta,
 2620:107:4000:a900::/58,ID,ID-JK,Jakarta,
 2406:daff:9000::/40,ID,ID-JK,Jakarta,
 2406:da61:9000::/40,ID,ID-JK,Jakarta,
@@ -5043,7 +5047,6 @@
 2a05:d034:6000::/40,SE,SE-AB,Stockholm,
 2a05:d077:6040::/48,SE,SE-AB,Stockholm,
 2a05:d07c:6000::/40,SE,SE-AB,Stockholm,
-2600:f0f0:88::/48,SE,SE-AB,Stockholm,
 2a05:d000:6000::/40,SE,SE-AB,Stockholm,
 2a05:d038:6000::/40,SE,SE-AB,Stockholm,
 2a05:d078:6000::/40,SE,SE-AB,Stockholm,
@@ -8641,6 +8644,7 @@
 13.245.166.132/30,ZA,ZA-WC,Cape Town,
 2406:da61:1000::/40,ZA,ZA-WC,Cape Town,
 2406:dafe:1000::/40,ZA,ZA-WC,Cape Town,
+2406:da38:1000::/48,ZA,ZA-WC,Cape Town,
 2406:da60:1000::/40,ZA,ZA-WC,Cape Town,
 2406:daff:1000::/40,ZA,ZA-WC,Cape Town,
 2400:6500:0:7700::/56,ZA,ZA-WC,Cape Town,
