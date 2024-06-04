@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-06-04T17:00:41+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-06-04T20:00:36+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -3819,6 +3819,7 @@
 2406:da61:b000::/40,IN,IN-TG,Hyderabad,
 2406:daf8:b000::/40,IN,IN-TG,Hyderabad,
 2406:daf0:b000::/40,IN,IN-TG,Hyderabad,
+2406:daf6:b000::/48,IN,IN-TG,Hyderabad,
 2406:da60:b000::/40,IN,IN-TG,Hyderabad,
 2406:da68:b000::/40,IN,IN-TG,Hyderabad,
 2406:daff:b000::/40,IN,IN-TG,Hyderabad,
@@ -7524,7 +7525,6 @@
 52.93.127.217/32,US,US-VA,Ashburn,
 13.34.72.0/27,US,US-VA,Ashburn,
 54.239.112.0/24,US,US-VA,Ashburn,
-3.4.7.0/24,US,US-VA,Ashburn,
 13.34.0.67/32,US,US-VA,Ashburn,
 13.34.3.65/32,US,US-VA,Ashburn,
 13.34.56.32/27,US,US-VA,Ashburn,
