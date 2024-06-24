@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-06-22T00:31:20+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-06-24T18:31:46+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2505,7 +2505,6 @@
 13.42.133.192/29,GB,GB-LND,London,
 13.42.133.200/29,GB,GB-LND,London,
 2a05:d07a:c000::/40,GB,GB-LND,London,
-2a05:d076:c000::/48,GB,GB-LND,London,
 2600:9000:520c::/48,GB,GB-LND,London,
 2a05:d030:c000::/40,GB,GB-LND,London,
 2a05:d079:c000::/40,GB,GB-LND,London,
@@ -2524,6 +2523,7 @@
 2a05:d000:c000::/40,GB,GB-LND,London,
 2a05:d071:c000::/40,GB,GB-LND,London,
 2600:f0f0:1:1b00::/56,GB,GB-LND,London,
+2a05:d076:c000::/56,GB,GB-LND,London,
 2a05:d070:c000::/40,GB,GB-LND,London,
 2600:1f01:4870::/47,GB,GB-LND,London,
 2a05:d02c::/36,GB,GB-LND,London,
@@ -5862,6 +5862,7 @@
 64.252.120.0/24,US,US-CA,San Francisco,
 150.222.234.16/31,US,US-CA,San Francisco,
 150.222.234.30/31,US,US-CA,San Francisco,
+168.185.4.0/24,US,US-CA,San Francisco,
 52.93.178.176/32,US,US-CA,San Francisco,
 13.34.22.7/32,US,US-CA,San Francisco,
 13.34.2.99/32,US,US-CA,San Francisco,
@@ -6318,6 +6319,7 @@
 52.95.0.0/20,US,US-OH,Columbus,
 13.34.10.128/27,US,US-OH,Columbus,
 52.93.199.110/32,US,US-OH,Columbus,
+168.185.5.0/24,US,US-OH,Columbus,
 15.230.39.4/31,US,US-OH,Columbus,
 15.230.39.30/31,US,US-OH,Columbus,
 15.230.39.12/31,US,US-OH,Columbus,
