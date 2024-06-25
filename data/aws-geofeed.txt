@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-06-24T23:32:01+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-06-25T00:32:06+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -156,6 +156,7 @@
 13.34.11.100/32,AU,AU-NSW,Sydney,
 13.34.7.139/32,AU,AU-NSW,Sydney,
 13.34.19.142/32,AU,AU-NSW,Sydney,
+35.96.128.0/20,AU,AU-NSW,Sydney,
 15.230.149.8/31,AU,AU-NSW,Sydney,
 13.34.68.237/32,AU,AU-NSW,Sydney,
 99.83.120.0/22,AU,AU-NSW,Sydney,
@@ -1621,6 +1622,7 @@
 15.230.15.112/31,DE,DE-HE,Frankfurt,
 15.230.65.0/26,DE,DE-HE,Frankfurt,
 13.34.106.96/27,DE,DE-HE,Frankfurt,
+35.96.96.0/20,DE,DE-HE,Frankfurt,
 136.18.18.0/24,DE,DE-HE,Frankfurt,
 3.33.35.0/24,DE,DE-HE,Frankfurt,
 15.230.15.138/31,DE,DE-HE,Frankfurt,
@@ -2155,6 +2157,7 @@
 13.34.64.0/27,FR,FR-IDF,Paris,
 35.71.101.0/24,FR,FR-IDF,Paris,
 15.230.101.0/24,FR,FR-IDF,Paris,
+35.96.64.0/20,FR,FR-IDF,Paris,
 52.46.64.0/20,FR,FR-IDF,Paris,
 52.46.80.0/21,FR,FR-IDF,Paris,
 52.93.126.251/32,FR,FR-IDF,Paris,
@@ -2333,6 +2336,7 @@
 13.34.77.160/27,GB,GB-LND,London,
 52.144.211.64/26,GB,GB-LND,London,
 52.93.153.176/32,GB,GB-LND,London,
+35.96.80.0/20,GB,GB-LND,London,
 52.93.153.169/32,GB,GB-LND,London,
 13.34.25.3/32,GB,GB-LND,London,
 150.222.65.0/24,GB,GB-LND,London,
@@ -3921,6 +3925,7 @@
 54.240.236.6/32,IT,IT-MI,Milan,
 52.95.152.0/23,IT,IT-MI,Milan,
 16.12.21.0/24,IT,IT-MI,Milan,
+35.96.112.0/20,IT,IT-MI,Milan,
 173.83.208.0/24,IT,IT-MI,Milan,
 54.240.236.57/32,IT,IT-MI,Milan,
 52.93.133.131/32,IT,IT-MI,Milan,
