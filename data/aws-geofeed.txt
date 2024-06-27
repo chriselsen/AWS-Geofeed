@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-06-26T23:31:48+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-06-27T15:32:22+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -964,6 +964,7 @@
 40.176.101.64/28,CA,CA-AB,Calgary,
 40.176.98.240/28,CA,CA-AB,Calgary,
 40.176.65.0/24,CA,CA-AB,Calgary,
+40.176.213.168/29,CA,CA-AB,Calgary,
 2600:1f70:a400:100::/56,CA,CA-AB,Calgary,
 2600:1f70:a400:200::/56,CA,CA-AB,Calgary,
 2600:1f70:a400:500::/56,CA,CA-AB,Calgary,
