@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-06T09:02:42+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-06T09:53:42+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -233,6 +233,7 @@
 13.34.7.140/32,AU,AU-NSW,Sydney,
 13.34.11.97/32,AU,AU-NSW,Sydney,
 13.34.11.101/32,AU,AU-NSW,Sydney,
+54.25.66.0/24,AU,AU-NSW,Sydney,
 13.34.1.77/32,AU,AU-NSW,Sydney,
 13.34.68.239/32,AU,AU-NSW,Sydney,
 13.34.11.69/32,AU,AU-NSW,Sydney,
@@ -4876,6 +4877,7 @@
 15.220.160.0/21,OM,OM-MA,Muscat,
 96.0.16.0/21,PE,PE-LIM,Lima,
 96.0.12.0/22,PE,PE-LIM,Lima,
+54.25.69.0/24,PE,PE-LIM,Lima,
 96.0.144.0/21,PH,PH-00,Manila,
 15.220.48.0/21,PL,PL-14,Warsaw,
 15.220.64.0/20,PL,PL-14,Warsaw,
@@ -5568,6 +5570,7 @@
 15.220.32.0/21,US,US-AZ,Phoenix,
 155.146.160.0/20,US,US-AZ,Phoenix,
 15.181.128.0/20,US,US-AZ,Phoenix,
+54.25.76.0/24,US,US-AZ,Phoenix,
 15.181.116.0/22,US,US-AZ,Phoenix,
 139.56.32.0/23,US,US-CA,Los Angeles,
 70.224.192.0/18,US,US-CA,Los Angeles,
@@ -6256,6 +6259,7 @@
 15.181.40.0/21,US,US-NJ,,
 15.220.252.0/22,US,US-NV,Las Vegas,
 155.146.112.0/20,US,US-NV,Las Vegas,
+54.25.75.0/24,US,US-NV,Las Vegas,
 15.220.16.0/20,US,US-NV,Las Vegas,
 2600:1f22:8000::/36,US,US-NV,Las Vegas,
 2600:1f12:8000::/36,US,US-NV,Las Vegas,
@@ -6899,6 +6903,7 @@
 13.34.10.108/32,US,US-OR,Umatilla,
 52.95.100.0/22,US,US-OR,Umatilla,
 13.34.104.32/27,US,US-OR,Umatilla,
+54.25.74.0/24,US,US-OR,Umatilla,
 52.119.252.0/22,US,US-OR,Umatilla,
 54.148.0.0/15,US,US-OR,Umatilla,
 99.77.130.0/24,US,US-OR,Umatilla,
@@ -7547,6 +7552,7 @@
 15.181.144.0/20,US,US-PA,Philadelphia,
 15.181.242.0/24,US,US-PA,Philadelphia,
 15.220.248.0/23,US,US-PA,Philadelphia,
+54.25.70.0/24,US,US-PA,Philadelphia,
 96.0.104.0/22,US,US-PA,Philadelphia,
 15.181.244.0/24,US,US-PA,Philadelphia,
 15.181.243.0/24,US,US-PA,Philadelphia,
