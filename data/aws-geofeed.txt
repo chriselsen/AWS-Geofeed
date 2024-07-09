@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-09T22:02:32+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-09T23:02:32+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -538,6 +538,7 @@
 2406:da68:f000::/40,AU,AU-VIC,Melbourne,
 96.0.0.0/21,AU,AU-WA,Perth,
 96.0.8.0/22,AU,AU-WA,Perth,
+54.25.66.0/24,AU,AU-WA,Perth,
 15.185.0.0/16,BH,,Bahrain,
 35.71.99.0/24,BH,,Bahrain,
 13.34.125.0/27,BH,,Bahrain,
@@ -1519,12 +1520,14 @@
 2404:c2c0:83cc:cc00::/56,CN,CN-NX,Ningxia,
 2404:c2c0:83cc:cd00::/56,CN,CN-NX,Ningxia,
 2404:c2c0:83cc:ce00::/56,CN,CN-NX,Ningxia,
+51.0.16.0/21,DE,DE-BE,Berlin
 51.0.128.0/21,DE,DE-BE,Berlin
 51.0.0.0/20,DE,DE-BE,Berlin
 83.118.240.0/21,DE,DE-BE,Berlin
 51.224.0.0/15,DE,DE-BE,Berlin
 51.0.29.128/28,DE,DE-BE,Berlin
 51.226.0.0/15,DE,DE-BE,Berlin
+51.0.29.0/28,DE,DE-BE,Berlin
 51.0.24.0/22,DE,DE-BE,Berlin
 51.0.28.0/24,DE,DE-BE,Berlin
 65.176.0.0/14,DE,DE-BE,Berlin
@@ -6890,6 +6893,7 @@
 2600:1f70:6000:400::/56,US,US-OH,Columbus,
 2600:1f70:6000::/56,US,US-OH,Columbus,
 15.220.202.0/23,US,US-OR,Portland,
+54.25.75.0/24,US,US-OR,Portland,
 15.220.0.0/20,US,US-OR,Portland,
 15.220.224.0/23,US,US-OR,Portland,
 13.34.103.96/27,US,US-OR,Umatilla,
@@ -7556,6 +7560,7 @@
 15.181.243.0/24,US,US-PA,Philadelphia,
 139.56.28.0/23,US,US-TN,Nashville,
 161.188.0.0/20,US,US-TN,Nashville,
+54.25.68.0/24,US,US-TX,Dallas,
 15.181.241.0/24,US,US-TX,Dallas,
 15.181.224.0/21,US,US-TX,Dallas,
 15.181.192.0/19,US,US-TX,Dallas,
@@ -8762,6 +8767,7 @@
 99.77.148.0/24,ZA,ZA-WC,Cape Town,
 13.34.124.96/27,ZA,ZA-WC,Cape Town,
 52.93.57.0/24,ZA,ZA-WC,Cape Town,
+54.25.77.0/24,ZA,ZA-WC,Cape Town,
 99.77.235.0/24,ZA,ZA-WC,Cape Town,
 13.34.111.224/27,ZA,ZA-WC,Cape Town,
 150.222.208.0/24,ZA,ZA-WC,Cape Town,
