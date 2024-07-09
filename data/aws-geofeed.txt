@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-08T23:32:23+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-09T00:32:43+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -88,6 +88,7 @@
 2406:daf0:7000::/40,AE,AE-DU,Dubai,
 2406:dafe:7000::/40,AE,AE-DU,Dubai,
 15.220.120.0/21,AR,AR-B,Buenos Aires,
+54.25.67.0/24,AR,AR-B,Buenos Aires,
 13.34.1.109/32,AU,AU-NSW,Sydney,
 13.34.7.143/32,AU,AU-NSW,Sydney,
 52.95.36.0/22,AU,AU-NSW,Sydney,
@@ -538,7 +539,6 @@
 2406:da68:f000::/40,AU,AU-VIC,Melbourne,
 96.0.0.0/21,AU,AU-WA,Perth,
 96.0.8.0/22,AU,AU-WA,Perth,
-54.25.66.0/24,AU,AU-WA,Perth,
 15.185.0.0/16,BH,,Bahrain,
 35.71.99.0/24,BH,,Bahrain,
 13.34.125.0/27,BH,,Bahrain,
@@ -2115,6 +2115,7 @@
 2a05:d050:1000::/40,ES,ES-AR,Aragon,
 2606:f40:fffb::/48,ES,ES-AR,Aragon,
 2a05:d000:1000::/40,ES,ES-AR,Aragon,
+54.25.72.0/24,FI,FI-18,Helsinki,
 15.220.168.0/21,FI,FI-18,Helsinki,
 15.220.148.0/22,FI,FI-18,Helsinki,
 35.180.0.0/16,FR,FR-IDF,Paris,
@@ -4871,6 +4872,7 @@
 2406:da69:800::/40,MY,MY-14,Kuala Lumpur,
 2406:da70:800:300::/56,MY,MY-14,Kuala Lumpur,
 96.0.40.0/21,NG,NG-LA,Lagos,
+54.25.77.0/24,NG,NG-LA,Lagos,
 96.0.36.0/22,NG,NG-LA,Lagos,
 96.0.80.0/22,NZ,NZ-AUK,Auckland,
 96.0.72.0/21,NZ,NZ-AUK,Auckland,
@@ -6192,7 +6194,6 @@
 2600:1f70:c000::/56,US,US-CA,San Francisco,
 2600:1f1c:7ff:f800::/56,US,US-CA,San Francisco,
 2600:1f1c:fff:f800::/56,US,US-CA,San Francisco,
-54.25.74.0/24,US,US-CO,Denver,
 15.220.204.0/24,US,US-CO,Denver,
 15.181.245.0/24,US,US-CO,Denver,
 155.146.144.0/20,US,US-CO,Denver,
@@ -6890,6 +6891,7 @@
 2600:1f70:6000:400::/56,US,US-OH,Columbus,
 2600:1f70:6000::/56,US,US-OH,Columbus,
 15.220.202.0/23,US,US-OR,Portland,
+54.25.75.0/24,US,US-OR,Portland,
 15.220.0.0/20,US,US-OR,Portland,
 15.220.224.0/23,US,US-OR,Portland,
 13.34.103.96/27,US,US-OR,Umatilla,
@@ -6903,6 +6905,7 @@
 13.34.10.108/32,US,US-OR,Umatilla,
 52.95.100.0/22,US,US-OR,Umatilla,
 13.34.104.32/27,US,US-OR,Umatilla,
+54.25.74.0/24,US,US-OR,Umatilla,
 52.119.252.0/22,US,US-OR,Umatilla,
 54.148.0.0/15,US,US-OR,Umatilla,
 99.77.130.0/24,US,US-OR,Umatilla,
@@ -6995,7 +6998,6 @@
 35.80.0.0/12,US,US-OR,Umatilla,
 13.34.28.224/27,US,US-OR,Umatilla,
 15.220.200.0/23,US,US-OR,Umatilla,
-54.25.75.0/24,US,US-OR,Umatilla,
 151.148.33.0/24,US,US-OR,Umatilla,
 52.61.0.0/16,US,US-OR,Umatilla,
 13.34.93.160/27,US,US-OR,Umatilla,
@@ -8763,7 +8765,6 @@
 99.77.148.0/24,ZA,ZA-WC,Cape Town,
 13.34.124.96/27,ZA,ZA-WC,Cape Town,
 52.93.57.0/24,ZA,ZA-WC,Cape Town,
-54.25.77.0/24,ZA,ZA-WC,Cape Town,
 99.77.235.0/24,ZA,ZA-WC,Cape Town,
 13.34.111.224/27,ZA,ZA-WC,Cape Town,
 150.222.208.0/24,ZA,ZA-WC,Cape Town,
