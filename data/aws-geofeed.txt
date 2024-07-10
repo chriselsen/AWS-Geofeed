@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-10T17:02:38+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-10T18:02:54+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -8765,7 +8765,6 @@
 99.77.148.0/24,ZA,ZA-WC,Cape Town,
 13.34.124.96/27,ZA,ZA-WC,Cape Town,
 52.93.57.0/24,ZA,ZA-WC,Cape Town,
-54.25.77.0/24,ZA,ZA-WC,Cape Town,
 99.77.235.0/24,ZA,ZA-WC,Cape Town,
 13.34.111.224/27,ZA,ZA-WC,Cape Town,
 150.222.208.0/24,ZA,ZA-WC,Cape Town,
