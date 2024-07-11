@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-11T01:02:18+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-11T02:02:42+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -233,7 +233,6 @@
 13.34.7.140/32,AU,AU-NSW,Sydney,
 13.34.11.97/32,AU,AU-NSW,Sydney,
 13.34.11.101/32,AU,AU-NSW,Sydney,
-54.25.66.0/24,AU,AU-NSW,Sydney,
 13.34.1.77/32,AU,AU-NSW,Sydney,
 13.34.68.239/32,AU,AU-NSW,Sydney,
 13.34.11.69/32,AU,AU-NSW,Sydney,
@@ -6226,6 +6225,7 @@
 139.56.20.0/23,US,US-FL,Tampa,
 15.181.247.0/24,US,US-GA,Atlanta,
 15.181.80.0/20,US,US-GA,Atlanta,
+54.25.67.0/24,US,US-GA,Atlanta,
 15.220.233.0/24,US,US-GA,Atlanta,
 155.146.48.0/20,US,US-GA,Atlanta,
 15.181.120.0/21,US,US-GA,Atlanta,
@@ -6894,6 +6894,7 @@
 2600:1f70:6000:400::/56,US,US-OH,Columbus,
 2600:1f70:6000::/56,US,US-OH,Columbus,
 15.220.202.0/23,US,US-OR,Portland,
+54.25.75.0/24,US,US-OR,Portland,
 15.220.0.0/20,US,US-OR,Portland,
 15.220.224.0/23,US,US-OR,Portland,
 13.34.103.96/27,US,US-OR,Umatilla,
@@ -7084,7 +7085,6 @@
 52.95.247.0/24,US,US-OR,Umatilla,
 150.222.180.0/24,US,US-OR,Umatilla,
 50.112.0.0/16,US,US-OR,Umatilla,
-54.25.76.0/24,US,US-OR,Umatilla,
 13.34.101.32/27,US,US-OR,Umatilla,
 15.181.64.0/20,US,US-OR,Umatilla,
 15.230.67.192/26,US,US-OR,Umatilla,
@@ -7555,7 +7555,6 @@
 15.181.144.0/20,US,US-PA,Philadelphia,
 15.181.242.0/24,US,US-PA,Philadelphia,
 15.220.248.0/23,US,US-PA,Philadelphia,
-54.25.70.0/24,US,US-PA,Philadelphia,
 96.0.104.0/22,US,US-PA,Philadelphia,
 15.181.244.0/24,US,US-PA,Philadelphia,
 15.181.243.0/24,US,US-PA,Philadelphia,
