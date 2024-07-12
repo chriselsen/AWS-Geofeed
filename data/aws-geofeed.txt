@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-12T19:02:22+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-12T20:32:39+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -6230,6 +6230,7 @@
 3.2.2.0/24,US,US-FL,Miami,
 15.220.220.0/23,US,US-FL,Miami,
 15.220.234.0/23,US,US-FL,Miami,
+173.82.6.0/24,US,US-FL,Miami,
 2600:1f2a:8000::/36,US,US-FL,Miami,
 2600:1f1a:8000::/36,US,US-FL,Miami,
 155.146.192.0/20,US,US-FL,Tampa,
@@ -6254,7 +6255,6 @@
 68.66.112.0/20,US,US-MA,Boston,
 155.146.0.0/20,US,US-MA,Boston,
 3.2.3.0/24,US,US-MA,Boston,
-173.82.4.0/24,US,US-MA,Boston,
 2600:1f10:8000::/36,US,US-MA,Boston,
 2600:1f20:8000::/36,US,US-MA,Boston,
 161.188.16.0/20,US,US-MI,Detroit,
@@ -6907,6 +6907,7 @@
 2600:1f70:6000::/56,US,US-OH,Columbus,
 15.220.202.0/23,US,US-OR,Portland,
 15.220.0.0/20,US,US-OR,Portland,
+173.82.7.0/24,US,US-OR,Portland,
 15.220.224.0/23,US,US-OR,Portland,
 13.34.103.96/27,US,US-OR,Umatilla,
 52.94.76.0/22,US,US-OR,Umatilla,
@@ -8772,7 +8773,6 @@
 15.181.0.0/20,US,US-WA,Seattle,
 15.181.252.0/24,US,US-WA,Seattle,
 15.220.206.0/24,US,US-WA,Seattle,
-173.82.7.0/24,US,US-WA,Seattle,
 2600:1f2e:8000::/36,US,US-WA,Seattle,
 2600:1f1e:8000::/36,US,US-WA,Seattle,
 13.34.111.192/27,ZA,ZA-WC,Cape Town,
