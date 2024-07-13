@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-13T08:32:30+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-13T09:32:42+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -5580,7 +5580,6 @@
 15.220.240.0/21,TH,TH-10,Bangkok,
 15.220.80.0/20,TW,TW-TPE,Taipei,
 15.220.56.0/21,TW,TW-TPE,Taipei,
-173.82.14.0/24,TW,TW-TPE,Taipei,
 139.56.16.0/23,US,US-AZ,Phoenix,
 15.220.32.0/21,US,US-AZ,Phoenix,
 155.146.160.0/20,US,US-AZ,Phoenix,
@@ -6265,7 +6264,6 @@
 15.220.250.0/23,US,US-MN,Minneapolis,
 15.181.249.0/24,US,US-MN,Minneapolis,
 15.220.222.0/23,US,US-MO,Kansas City,
-173.82.11.0/24,US,US-MO,Kansas City,
 15.181.96.0/20,US,US-MO,Kansas City,
 15.220.236.0/22,US,US-MO,Kansas City,
 15.181.246.0/24,US,US-MO,Kansas City,
@@ -6276,7 +6274,6 @@
 15.220.252.0/22,US,US-NV,Las Vegas,
 155.146.112.0/20,US,US-NV,Las Vegas,
 15.220.16.0/20,US,US-NV,Las Vegas,
-173.82.7.0/24,US,US-NV,Las Vegas,
 2600:1f22:8000::/36,US,US-NV,Las Vegas,
 2600:1f12:8000::/36,US,US-NV,Las Vegas,
 155.146.64.0/20,US,US-NY,New York,
