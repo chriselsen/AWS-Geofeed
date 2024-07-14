@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-14T12:32:57+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-14T13:32:50+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -538,7 +538,6 @@
 2406:da68:f000::/40,AU,AU-VIC,Melbourne,
 96.0.0.0/21,AU,AU-WA,Perth,
 96.0.8.0/22,AU,AU-WA,Perth,
-173.82.16.0/24,AU,AU-WA,Perth,
 15.185.0.0/16,BH,,Bahrain,
 35.71.99.0/24,BH,,Bahrain,
 13.34.125.0/27,BH,,Bahrain,
@@ -1268,6 +1267,7 @@
 2a05:d07c:9000::/40,CH,CH-ZH,Zurich,
 96.0.131.0/24,CL,CL-RM,Santiago,
 96.0.56.0/22,CL,CL-RM,Santiago,
+173.82.6.0/24,CL,CL-RM,Santiago,
 96.0.152.0/21,CL,CL-RM,Santiago,
 96.0.48.0/21,CL,CL-RM,Santiago,
 54.222.88.0/24,CN,CN-BJ,Beijing,
@@ -4883,13 +4883,12 @@
 96.0.80.0/22,NZ,NZ-AUK,Auckland,
 96.0.72.0/21,NZ,NZ-AUK,Auckland,
 182.24.0.0/14,NZ,NZ-AUK,Auckland,
+173.82.16.0/24,NZ,NZ-AUK,Auckland,
 15.220.146.0/23,OM,OM-MA,Muscat,
 15.220.160.0/21,OM,OM-MA,Muscat,
 96.0.16.0/21,PE,PE-LIM,Lima,
 96.0.12.0/22,PE,PE-LIM,Lima,
-173.82.4.0/24,PE,PE-LIM,Lima,
 96.0.144.0/21,PH,PH-00,Manila,
-173.82.15.0/24,PH,PH-00,Manila,
 15.220.48.0/21,PL,PL-14,Warsaw,
 15.220.64.0/20,PL,PL-14,Warsaw,
 13.34.6.139/32,SE,SE-AB,Stockholm,
@@ -6250,6 +6249,7 @@
 68.66.112.0/20,US,US-MA,Boston,
 155.146.0.0/20,US,US-MA,Boston,
 3.2.3.0/24,US,US-MA,Boston,
+173.82.4.0/24,US,US-MA,Boston,
 2600:1f10:8000::/36,US,US-MA,Boston,
 2600:1f20:8000::/36,US,US-MA,Boston,
 161.188.16.0/20,US,US-MI,Detroit,
@@ -6901,6 +6901,7 @@
 2600:1f70:6000::/56,US,US-OH,Columbus,
 15.220.202.0/23,US,US-OR,Portland,
 15.220.0.0/20,US,US-OR,Portland,
+173.82.7.0/24,US,US-OR,Portland,
 15.220.224.0/23,US,US-OR,Portland,
 13.34.103.96/27,US,US-OR,Umatilla,
 52.94.76.0/22,US,US-OR,Umatilla,
@@ -8766,7 +8767,6 @@
 15.181.0.0/20,US,US-WA,Seattle,
 15.181.252.0/24,US,US-WA,Seattle,
 15.220.206.0/24,US,US-WA,Seattle,
-173.82.7.0/24,US,US-WA,Seattle,
 2600:1f2e:8000::/36,US,US-WA,Seattle,
 2600:1f1e:8000::/36,US,US-WA,Seattle,
 13.34.111.192/27,ZA,ZA-WC,Cape Town,
