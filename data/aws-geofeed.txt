@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-14T01:32:22+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-14T03:32:52+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -6226,6 +6226,7 @@
 3.2.2.0/24,US,US-FL,Miami,
 15.220.220.0/23,US,US-FL,Miami,
 15.220.234.0/23,US,US-FL,Miami,
+173.82.6.0/24,US,US-FL,Miami,
 2600:1f2a:8000::/36,US,US-FL,Miami,
 2600:1f1a:8000::/36,US,US-FL,Miami,
 155.146.192.0/20,US,US-FL,Tampa,
@@ -7576,7 +7577,6 @@
 3.2.0.0/24,US,US-TX,Houston,
 155.146.240.0/20,US,US-TX,Houston,
 139.56.26.0/23,US,US-TX,Houston,
-173.82.4.0/24,US,US-TX,Houston,
 72.41.0.0/20,US,US-TX,Houston,
 13.34.66.0/27,US,US-VA,Ashburn,
 15.230.221.0/24,US,US-VA,Ashburn,
