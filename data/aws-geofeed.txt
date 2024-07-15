@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-15T14:02:29+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-15T14:53:31+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -538,7 +538,6 @@
 2406:da68:f000::/40,AU,AU-VIC,Melbourne,
 96.0.0.0/21,AU,AU-WA,Perth,
 96.0.8.0/22,AU,AU-WA,Perth,
-173.82.16.0/24,AU,AU-WA,Perth,
 15.185.0.0/16,BH,,Bahrain,
 35.71.99.0/24,BH,,Bahrain,
 13.34.125.0/27,BH,,Bahrain,
@@ -1602,7 +1601,6 @@
 15.230.15.170/31,DE,DE-HE,Frankfurt,
 15.230.15.32/31,DE,DE-HE,Frankfurt,
 52.219.211.0/24,DE,DE-HE,Frankfurt,
-173.82.255.0/24,DE,DE-HE,Frankfurt,
 52.93.127.238/32,DE,DE-HE,Frankfurt,
 13.34.8.229/32,DE,DE-HE,Frankfurt,
 15.230.15.160/31,DE,DE-HE,Frankfurt,
@@ -3901,7 +3899,6 @@
 2406:daf2:b000::/40,IN,IN-TG,Hyderabad,
 15.220.232.0/24,IN,IN-WB,Kolkata,
 15.220.228.0/22,IN,IN-WB,Kolkata,
-173.82.10.0/24,IN,IN-WB,Kolkata,
 96.0.60.0/22,IN,IN-WB,Kolkata,
 96.0.64.0/21,IN,IN-WB,Kolkata,
 52.95.224.0/24,IT,IT-MI,Milan,
@@ -4889,7 +4886,6 @@
 96.0.16.0/21,PE,PE-LIM,Lima,
 96.0.12.0/22,PE,PE-LIM,Lima,
 96.0.144.0/21,PH,PH-00,Manila,
-173.82.15.0/24,PH,PH-00,Manila,
 15.220.48.0/21,PL,PL-14,Warsaw,
 15.220.64.0/20,PL,PL-14,Warsaw,
 13.34.6.139/32,SE,SE-AB,Stockholm,
