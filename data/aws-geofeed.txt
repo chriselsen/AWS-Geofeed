@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-16T09:02:31+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-16T23:03:18+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -6229,9 +6229,11 @@
 15.181.247.0/24,US,US-GA,Atlanta,
 15.181.80.0/20,US,US-GA,Atlanta,
 15.220.233.0/24,US,US-GA,Atlanta,
+16.56.0.0/18,US,US-GA,Atlanta,
 155.146.48.0/20,US,US-GA,Atlanta,
 15.181.120.0/21,US,US-GA,Atlanta,
 2600:1f2f:8000::/36,US,US-GA,Atlanta,
+2600:1f1b:4000::/36,US,US-GA,Atlanta,
 2600:1f1f:8000::/36,US,US-GA,Atlanta,
 96.0.110.0/23,US,US-HI,Honolulu,
 96.0.160.0/20,US,US-HI,Honolulu,
@@ -6239,8 +6241,10 @@
 15.181.176.0/20,US,US-IL,Chicago,
 96.0.88.0/22,US,US-IL,Chicago,
 139.56.18.0/23,US,US-IL,Chicago,
+161.178.0.0/18,US,US-IL,Chicago,
 15.181.32.0/21,US,US-IL,Chicago,
 96.0.92.0/23,US,US-IL,Chicago,
+2600:1f1f:4000::/36,US,US-IL,Chicago,
 96.0.102.0/23,US,US-MA,Boston,
 15.181.112.0/22,US,US-MA,Boston,
 68.66.112.0/20,US,US-MA,Boston,
@@ -8087,7 +8091,6 @@
 15.230.83.0/24,US,US-VA,Ashburn,
 150.222.223.0/24,US,US-VA,Ashburn,
 15.230.145.0/24,US,US-VA,Ashburn,
-16.56.0.0/18,US,US-VA,Ashburn,
 99.151.184.0/23,US,US-VA,Ashburn,
 13.34.123.96/27,US,US-VA,Ashburn,
 104.153.115.0/24,US,US-VA,Ashburn,
@@ -8203,7 +8206,6 @@
 15.221.0.0/24,US,US-VA,Ashburn,
 150.222.68.116/31,US,US-VA,Ashburn,
 13.34.111.96/27,US,US-VA,Ashburn,
-161.178.0.0/18,US,US-VA,Ashburn,
 15.221.146.0/23,US,US-VA,Ashburn,
 52.93.91.103/32,US,US-VA,Ashburn,
 176.32.124.128/25,US,US-VA,Ashburn,
@@ -8671,7 +8673,6 @@
 2600:1f23:8000::/36,US,US-VA,Ashburn,
 2600:f0f0:6010::/44,US,US-VA,Ashburn,
 2620:107:4000:8500::/56,US,US-VA,Ashburn,
-2600:1f1b:4000::/36,US,US-VA,Ashburn,
 2600:1f10:4000::/36,US,US-VA,Ashburn,
 2600:f0f0:f00:500::/56,US,US-VA,Ashburn,
 2600:f0f0:f00::/56,US,US-VA,Ashburn,
@@ -8731,7 +8732,6 @@
 2600:f0f0:f00:300::/56,US,US-VA,Ashburn,
 2606:f40:8000::/39,US,US-VA,Ashburn,
 2600:1ff9:81c0::/46,US,US-VA,Ashburn,
-2600:1f1f:4000::/36,US,US-VA,Ashburn,
 2600:1f29:4000::/36,US,US-VA,Ashburn,
 2600:1ff2:8000::/39,US,US-VA,Ashburn,
 2600:1ff9:81a0::/46,US,US-VA,Ashburn,
