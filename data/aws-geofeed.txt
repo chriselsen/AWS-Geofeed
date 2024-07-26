@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-25T23:02:48+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-07-26T16:01:16+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1514,6 +1514,7 @@
 3.78.204.0/22,DE,DE-HE,Frankfurt,
 35.159.158.0/23,DE,DE-HE,Frankfurt,
 35.159.206.0/23,DE,DE-HE,Frankfurt,
+35.159.209.0/24,DE,DE-HE,Frankfurt,
 3.65.246.0/28,DE,DE-HE,Frankfurt,
 3.65.246.16/28,DE,DE-HE,Frankfurt,
 18.192.142.0/23,DE,DE-HE,Frankfurt,
@@ -6415,6 +6416,7 @@
 44.223.121.0/24,US,US-VA,Ashburn,
 44.223.122.0/24,US,US-VA,Ashburn,
 98.80.195.0/25,US,US-VA,Ashburn,
+98.80.238.0/23,US,US-VA,Ashburn,
 107.23.255.0/26,US,US-VA,Ashburn,
 54.243.31.192/26,US,US-VA,Ashburn,
 44.192.134.240/28,US,US-VA,Ashburn,
