@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-09-04T02:57:45+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-09-04T20:27:48+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -168,7 +168,6 @@
 15.230.222.0/24,AU,AU-NSW,Sydney,
 15.221.20.0/22,AU,AU-NSW,Sydney,
 150.222.43.96/27,AU,AU-NSW,Sydney,
-192.157.34.0/24,AU,AU-NSW,Sydney,
 52.64.128.0/17,AU,AU-NSW,Sydney,
 3.4.12.2/32,AU,AU-NSW,Sydney,
 54.66.0.0/16,AU,AU-NSW,Sydney,
@@ -189,7 +188,6 @@
 13.248.109.0/24,AU,AU-NSW,Sydney,
 52.93.33.225/32,AU,AU-NSW,Sydney,
 3.4.13.0/28,AU,AU-NSW,Sydney,
-3.33.41.0/24,AU,AU-NSW,Sydney,
 54.253.0.0/16,AU,AU-NSW,Sydney,
 3.4.12.18/32,AU,AU-NSW,Sydney,
 150.222.142.0/24,AU,AU-NSW,Sydney,
@@ -5115,7 +5113,6 @@
 15.230.39.14/31,US,US-OH,Columbus,
 16.64.0.0/16,US,US-OH,Columbus,
 18.191.0.0/16,US,US-OH,Columbus,
-3.33.43.0/24,US,US-OH,Columbus,
 15.230.39.34/31,US,US-OH,Columbus,
 108.166.244.63/32,US,US-OH,Columbus,
 15.230.183.0/24,US,US-OH,Columbus,
@@ -5194,7 +5191,6 @@
 52.93.199.101/32,US,US-OH,Columbus,
 52.94.152.65/32,US,US-OH,Columbus,
 15.230.39.212/31,US,US-OH,Columbus,
-192.189.196.0/24,US,US-OH,Columbus,
 108.175.52.0/22,US,US-OH,Columbus,
 52.93.199.92/32,US,US-OH,Columbus,
 108.166.244.24/32,US,US-OH,Columbus,
@@ -5367,7 +5363,6 @@
 52.95.28.0/24,US,US-OH,Columbus,
 52.93.199.105/32,US,US-OH,Columbus,
 108.166.244.31/32,US,US-OH,Columbus,
-192.157.32.0/24,US,US-OH,Columbus,
 15.230.39.128/31,US,US-OH,Columbus,
 52.93.239.0/24,US,US-OH,Columbus,
 15.230.39.176/31,US,US-OH,Columbus,
@@ -5756,7 +5751,6 @@
 50.112.0.0/16,US,US-OR,Umatilla,
 15.230.67.192/26,US,US-OR,Umatilla,
 3.4.15.8/29,US,US-OR,Umatilla,
-3.33.40.0/24,US,US-OR,Umatilla,
 15.230.68.0/26,US,US-OR,Umatilla,
 52.94.9.0/24,US,US-OR,Umatilla,
 52.94.116.0/22,US,US-OR,Umatilla,
@@ -5776,7 +5770,6 @@
 52.119.160.0/20,US,US-OR,Umatilla,
 52.222.0.0/17,US,US-OR,Umatilla,
 64.252.65.0/24,US,US-OR,Umatilla,
-192.157.33.0/24,US,US-OR,Umatilla,
 52.93.240.0/23,US,US-OR,Umatilla,
 18.246.0.0/16,US,US-OR,Umatilla,
 52.94.152.186/32,US,US-OR,Umatilla,
@@ -5798,7 +5791,6 @@
 18.88.128.0/18,US,US-OR,Umatilla,
 52.32.0.0/14,US,US-OR,Umatilla,
 54.239.0.128/28,US,US-OR,Umatilla,
-3.33.42.0/24,US,US-OR,Umatilla,
 15.221.1.0/24,US,US-OR,Umatilla,
 52.94.197.0/24,US,US-OR,Umatilla,
 54.184.0.0/13,US,US-OR,Umatilla,
