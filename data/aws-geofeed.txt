@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-09-11T21:07:36+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-09-11T22:59:01+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2205,6 +2205,8 @@
 13.42.133.192/29,GB,GB-LND,London,
 13.42.133.200/29,GB,GB-LND,London,
 2a05:d07a:c000::/40,GB,GB-LND,London,
+2a05:d027::/36,GB,GB-LND,London,
+2a05:d017::/36,GB,GB-LND,London,
 2600:9000:520c::/48,GB,GB-LND,London,
 2a05:d07b:c000::/40,GB,GB-LND,London,
 2a05:d030:c000::/40,GB,GB-LND,London,
@@ -4105,6 +4107,7 @@
 15.248.144.0/21,NZ,NZ-AUK,Auckland,
 96.0.72.0/21,NZ,NZ-AUK,Auckland,
 182.24.0.0/14,NZ,NZ-AUK,Auckland,
+15.190.240.0/22,NZ,NZ-AUK,Auckland,
 3.102.0.0/15,NZ,NZ-AUK,Auckland,
 2406:da32:2800::/40,NZ,NZ-AUK,Auckland,
 2406:da61:2800::/40,NZ,NZ-AUK,Auckland,
@@ -6249,6 +6252,7 @@
 2600:1ffd:8508::/48,US,US-OR,Umatilla,
 2600:1f1c:4000::/36,US,US-OR,Umatilla,
 2600:1f69:4000::/39,US,US-OR,Umatilla,
+2606:7b40:10ff:a230::/60,US,US-OR,Umatilla,
 2600:f0f0:5502::/48,US,US-OR,Umatilla,
 2620:107:4004::/48,US,US-OR,Umatilla,
 2600:1f32:2000::/40,US,US-OR,Umatilla,
@@ -6265,6 +6269,7 @@
 2600:f0f0:5500::/48,US,US-OR,Umatilla,
 2606:7b40:1000:2270::/60,US,US-OR,Umatilla,
 2620:107:4000:4203::/64,US,US-OR,Umatilla,
+2606:7b40:10ff:d230::/60,US,US-OR,Umatilla,
 2600:1ff7:40c1::/48,US,US-OR,Umatilla,
 2600:1f22::/36,US,US-OR,Umatilla,
 2600:1ff7:4081::/48,US,US-OR,Umatilla,
