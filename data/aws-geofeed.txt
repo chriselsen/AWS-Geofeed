@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-09-11T18:21:56+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-09-11T19:38:50+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -318,6 +318,7 @@
 2406:da70:c000::/56,AU,AU-NSW,Sydney,
 2406:da1c:7ff:f800::/56,AU,AU-NSW,Sydney,
 2406:da1c:fff:f800::/56,AU,AU-NSW,Sydney,
+2406:da1c:90e:4a00::/56,AU,AU-NSW,Sydney,
 13.248.67.0/24,AU,AU-VIC,Melbourne,
 150.222.51.160/27,AU,AU-VIC,Melbourne,
 3.5.40.0/22,AU,AU-VIC,Melbourne,
@@ -747,6 +748,7 @@
 2600:1f70:e000::/56,BR,BR-SP,Sao Paulo,
 2600:1f1e:7ff:f800::/56,BR,BR-SP,Sao Paulo,
 2600:1f1e:fff:f800::/56,BR,BR-SP,Sao Paulo,
+2600:1f1e:d1d:e700::/56,BR,BR-SP,Sao Paulo,
 15.177.100.0/24,CA,CA-AB,Calgary,
 40.178.0.0/15,CA,CA-AB,Calgary,
 18.99.128.0/20,CA,CA-AB,Calgary,
@@ -1737,6 +1739,7 @@
 2a05:d03a:4000:300::/56,DE,DE-HE,Frankfurt,
 2a05:d03a:4000:400::/56,DE,DE-HE,Frankfurt,
 2a05:d03a:4000::/56,DE,DE-HE,Frankfurt,
+2a05:d014:17a8:8b00::/56,DE,DE-HE,Frankfurt,
 15.220.152.0/21,DE,DE-HH,Hamburg,
 15.220.144.0/23,DE,DE-HH,Hamburg,
 15.145.0.0/23,DE,DE-NW,Dortmund,
@@ -3144,6 +3147,7 @@
 2406:da70:a000:300::/56,IN,IN-MH,Mumbai,
 2406:da70:a000:400::/56,IN,IN-MH,Mumbai,
 2406:da70:a000::/56,IN,IN-MH,Mumbai,
+2406:da1a:74a:4b00::/56,IN,IN-MH,Mumbai,
 98.131.0.0/16,IN,IN-TG,Hyderabad,
 52.93.115.0/24,IN,IN-TG,Hyderabad,
 15.177.94.0/24,IN,IN-TG,Hyderabad,
@@ -4025,6 +4029,7 @@
 2406:da70:2000:300::/56,KR,KR-11,Seoul,
 2406:da70:2000:400::/56,KR,KR-11,Seoul,
 2406:da70:2000::/56,KR,KR-11,Seoul,
+2406:da12:1e1:d900::/56,KR,KR-11,Seoul,
 2406:da25::/36,KR,KR-30,Daejeon,
 2406:da15::/36,KR,KR-30,Daejeon,
 15.220.184.0/21,MX,MX-QUE,,
