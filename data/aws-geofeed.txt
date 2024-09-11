@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-09-11T19:38:50+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-09-11T21:07:36+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -988,6 +988,7 @@
 2600:1f70:1000:300::/56,CA,CA-QC,Montreal,
 2600:1f70:1000:400::/56,CA,CA-QC,Montreal,
 2600:1f70:1000::/56,CA,CA-QC,Montreal,
+2600:1f11:ae3:700::/56,CA,CA-QC,Montreal,
 56.242.0.0/16,CH,CH-ZH,Zurich,
 52.95.139.0/24,CH,CH-ZH,Zurich,
 13.248.68.0/24,CH,CH-ZH,Zurich,
@@ -2010,6 +2011,7 @@
 2a05:d03a:2000:300::/56,FR,FR-IDF,Paris,
 2a05:d03a:2000:400::/56,FR,FR-IDF,Paris,
 2a05:d03a:2000::/56,FR,FR-IDF,Paris,
+2a05:d012:c9e:d600::/56,FR,FR-IDF,Paris,
 52.93.153.170/32,GB,GB-LND,London,
 52.95.150.0/24,GB,GB-LND,London,
 52.93.153.148/32,GB,GB-LND,London,
@@ -2241,6 +2243,7 @@
 2a05:d03a:c000:300::/56,GB,GB-LND,London,
 2a05:d03a:c000:400::/56,GB,GB-LND,London,
 2a05:d03a:c000::/56,GB,GB-LND,London,
+2a05:d01c:4ac:3100::/56,GB,GB-LND,London,
 15.145.20.0/22,GB,GB-MAN,Manchester,
 15.145.24.0/23,GB,GB-MAN,Manchester,
 18.99.176.0/20,HK,,Hong Kong,
@@ -4099,6 +4102,7 @@
 96.0.40.0/21,NG,NG-LA,Lagos,
 96.0.36.0/22,NG,NG-LA,Lagos,
 96.0.80.0/22,NZ,NZ-AUK,Auckland,
+15.248.144.0/21,NZ,NZ-AUK,Auckland,
 96.0.72.0/21,NZ,NZ-AUK,Auckland,
 182.24.0.0/14,NZ,NZ-AUK,Auckland,
 3.102.0.0/15,NZ,NZ-AUK,Auckland,
@@ -4282,6 +4286,7 @@
 2a05:d03a:6000:200::/56,SE,SE-AB,Stockholm,
 2a05:d03a:6000:400::/56,SE,SE-AB,Stockholm,
 2a05:d03a:6000::/56,SE,SE-AB,Stockholm,
+2a05:d016:494:f00::/56,SE,SE-AB,Stockholm,
 150.222.78.0/24,SG,SG-01,Singapore,
 150.222.43.0/26,SG,SG-01,Singapore,
 150.222.14.0/24,SG,SG-01,Singapore,
@@ -5730,6 +5735,7 @@
 2600:1f70:6000:300::/56,US,US-OH,Columbus,
 2600:1f70:6000:400::/56,US,US-OH,Columbus,
 2600:1f70:6000::/56,US,US-OH,Columbus,
+2600:1f16:138f:cf00::/56,US,US-OH,Columbus,
 15.220.202.0/23,US,US-OR,Portland,
 15.220.0.0/20,US,US-OR,Portland,
 15.220.224.0/23,US,US-OR,Portland,
