@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-09-12T16:01:54+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-09-12T18:00:04+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -401,6 +401,7 @@
 2406:daa0:f000::/40,AU,AU-VIC,Melbourne,
 2406:da38:f000::/40,AU,AU-VIC,Melbourne,
 2406:da68:f000::/40,AU,AU-VIC,Melbourne,
+2406:da1f:b4f:4600::/56,AU,AU-VIC,Melbourne,
 96.0.0.0/21,AU,AU-WA,Perth,
 96.0.8.0/22,AU,AU-WA,Perth,
 15.185.0.0/16,BH,,Bahrain,
@@ -1062,6 +1063,7 @@
 2a05:d03a:9000::/40,CH,CH-ZH,Zurich,
 2a05:d036:9000::/40,CH,CH-ZH,Zurich,
 2a05:d07c:9000::/40,CH,CH-ZH,Zurich,
+2a05:d019:1d6:2100::/56,CH,CH-ZH,Zurich,
 96.0.131.0/24,CL,CL-RM,Santiago,
 96.0.56.0/22,CL,CL-RM,Santiago,
 96.0.152.0/21,CL,CL-RM,Santiago,
@@ -1859,6 +1861,7 @@
 2a05:d050:1000::/40,ES,ES-AR,Aragon,
 2606:f40:fffb::/48,ES,ES-AR,Aragon,
 2a05:d000:1000::/40,ES,ES-AR,Aragon,
+2a05:d011:cbe:f700::/56,ES,ES-AR,Aragon,
 15.220.168.0/21,FI,FI-18,Helsinki,
 15.220.148.0/22,FI,FI-18,Helsinki,
 35.180.0.0/16,FR,FR-IDF,Paris,
@@ -2942,6 +2945,7 @@
 2a05:d07e:5000::/40,IL,IL-TA,Tel Aviv,
 2a05:d07b:5000::/40,IL,IL-TA,Tel Aviv,
 2a05:d031:5000::/40,IL,IL-TA,Tel Aviv,
+2a05:d025:451:7d00::/56,IL,IL-TA,Tel Aviv,
 15.220.216.0/22,IN,IN-DL,Delhi,
 15.220.227.0/24,IN,IN-DL,Delhi,
 15.220.136.0/21,IN,IN-DL,Delhi,
@@ -3423,6 +3427,7 @@
 2a05:d03a:a000:200::/56,IT,IT-MI,Milan,
 2a05:d03a:a000:400::/56,IT,IT-MI,Milan,
 2a05:d03a:a000::/56,IT,IT-MI,Milan,
+2a05:d01a:c03:4a00::/56,IT,IT-MI,Milan,
 15.221.34.0/24,JP,JP-13,Tokyo,
 52.144.229.64/26,JP,JP-13,Tokyo,
 13.248.70.0/24,JP,JP-13,Tokyo,
@@ -3856,6 +3861,7 @@
 2406:dab8:6000::/40,JP,JP-27,Osaka,
 2406:da00:6000::/40,JP,JP-27,Osaka,
 2406:da70:6000::/56,JP,JP-27,Osaka,
+2406:da16:856:a500::/56,JP,JP-27,Osaka,
 3.5.140.0/22,KR,KR-11,Seoul,
 52.219.60.0/23,KR,KR-11,Seoul,
 43.249.45.0/24,KR,KR-11,Seoul,
@@ -4110,6 +4116,7 @@
 96.0.40.0/21,NG,NG-LA,Lagos,
 96.0.36.0/22,NG,NG-LA,Lagos,
 96.0.80.0/22,NZ,NZ-AUK,Auckland,
+15.190.128.0/20,NZ,NZ-AUK,Auckland,
 15.248.144.0/21,NZ,NZ-AUK,Auckland,
 96.0.72.0/21,NZ,NZ-AUK,Auckland,
 182.24.0.0/14,NZ,NZ-AUK,Auckland,
