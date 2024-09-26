@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-09-26T01:58:45+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-09-26T02:59:37+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1335,13 +1335,34 @@
 51.0.28.0/24,DE,DE-BE,Berlin
 65.176.0.0/14,DE,DE-BE,Berlin
 83.118.240.0/22,DE,DE-BE,Berlin
+2001:3fc7:1800::/40,DE,DE-BE,Berlin
+2001:3fc5:8800::/40,DE,DE-BE,Berlin
+2001:3fc3:2800::/40,DE,DE-BE,Berlin
+2001:3fc7:5800::/40,DE,DE-BE,Berlin
+2001:3fc7:9800::/40,DE,DE-BE,Berlin
+2001:3fc3:4800::/40,DE,DE-BE,Berlin
+2001:3fc5:800::/40,DE,DE-BE,Berlin
 2a05:d013::/36,DE,DE-BE,Berlin
+2001:3fc3:6800::/40,DE,DE-BE,Berlin
+2001:3fc3:a800::/40,DE,DE-BE,Berlin
+2001:3fc7:4800::/40,DE,DE-BE,Berlin
+2001:3fc7:800::/40,DE,DE-BE,Berlin
+2001:3fc7:7800::/40,DE,DE-BE,Berlin
 2001:3fc1:8000::/36,DE,DE-BE,Berlin
+2001:3fc7:e800::/40,DE,DE-BE,Berlin
+2001:3fc0:800::/40,DE,DE-BE,Berlin
+2001:3fc7:6800::/40,DE,DE-BE,Berlin
 2001:3fc3:1800::/40,DE,DE-BE,Berlin
+2001:3fc7:f800::/40,DE,DE-BE,Berlin
+2001:3fc7:a800::/40,DE,DE-BE,Berlin
+2001:3fc3:8800::/40,DE,DE-BE,Berlin
 2001:3fc3:5800::/40,DE,DE-BE,Berlin
+2001:3fc7:2800::/40,DE,DE-BE,Berlin
 2001:3fc3:800::/40,DE,DE-BE,Berlin
+2001:3fc7:8800::/40,DE,DE-BE,Berlin
 2a05:d023::/36,DE,DE-BE,Berlin
 2001:3fc2:8000::/36,DE,DE-BE,Berlin
+2001:3fc7:b800::/40,DE,DE-BE,Berlin
 15.145.16.0/22,DE,DE-BE,Berlin,
 15.145.4.0/23,DE,DE-BE,Berlin,
 15.145.2.0/23,DE,DE-BY,Munich,
