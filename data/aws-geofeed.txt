@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-10-03T21:02:53+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-10-03T22:30:02+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -546,6 +546,7 @@
 54.233.0.0/18,BR,BR-SP,Sao Paulo,
 15.221.6.0/24,BR,BR-SP,Sao Paulo,
 56.125.0.0/16,BR,BR-SP,Sao Paulo,
+3.4.12.32/32,BR,BR-SP,Sao Paulo,
 18.96.64.0/19,BR,BR-SP,Sao Paulo,
 18.229.0.0/16,BR,BR-SP,Sao Paulo,
 15.230.0.6/31,BR,BR-SP,Sao Paulo,
@@ -572,6 +573,7 @@
 52.93.127.161/32,BR,BR-SP,Sao Paulo,
 15.251.0.20/32,BR,BR-SP,Sao Paulo,
 15.230.250.0/24,BR,BR-SP,Sao Paulo,
+3.4.12.31/32,BR,BR-SP,Sao Paulo,
 173.83.213.0/24,BR,BR-SP,Sao Paulo,
 56.127.0.0/16,BR,BR-SP,Sao Paulo,
 13.248.114.0/24,BR,BR-SP,Sao Paulo,
@@ -1430,6 +1432,7 @@
 150.222.5.0/24,DE,DE-HE,Frankfurt,
 15.230.15.150/31,DE,DE-HE,Frankfurt,
 52.58.0.0/15,DE,DE-HE,Frankfurt,
+3.4.12.34/32,DE,DE-HE,Frankfurt,
 15.230.15.74/31,DE,DE-HE,Frankfurt,
 15.230.15.8/32,DE,DE-HE,Frankfurt,
 15.230.15.255/32,DE,DE-HE,Frankfurt,
@@ -1490,6 +1493,7 @@
 150.222.139.124/30,DE,DE-HE,Frankfurt,
 15.230.15.154/31,DE,DE-HE,Frankfurt,
 52.93.127.237/32,DE,DE-HE,Frankfurt,
+3.4.12.33/32,DE,DE-HE,Frankfurt,
 3.64.0.0/12,DE,DE-HE,Frankfurt,
 15.230.15.108/31,DE,DE-HE,Frankfurt,
 151.148.35.0/24,DE,DE-HE,Frankfurt,
