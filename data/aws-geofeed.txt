@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-10-02T21:29:43+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-10-03T03:01:11+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -4798,9 +4798,9 @@
 2406:da60:c800::/40,TW,TW-TPE,Taipei,
 2406:daf0:c800::/40,TW,TW-TPE,Taipei,
 2406:daf9:c800::/40,TW,TW-TPE,Taipei,
+2406:da00:c800::/40,TW,TW-TPE,Taipei,
 2406:da36:c800::/40,TW,TW-TPE,Taipei,
 2406:dab8:c800::/40,TW,TW-TPE,Taipei,
-2406:da00:c800::/64,TW,TW-TPE,Taipei,
 2406:dafb:c800::/40,TW,TW-TPE,Taipei,
 2406:daf1:c800::/40,TW,TW-TPE,Taipei,
 2406:daf2:c800::/40,TW,TW-TPE,Taipei,
