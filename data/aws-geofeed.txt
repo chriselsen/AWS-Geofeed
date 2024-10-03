@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-10-03T22:30:02+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-10-03T23:30:22+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -4219,6 +4219,7 @@
 96.0.80.0/22,NZ,NZ-AUK,Auckland,
 15.190.128.0/20,NZ,NZ-AUK,Auckland,
 15.248.144.0/21,NZ,NZ-AUK,Auckland,
+16.15.8.0/22,NZ,NZ-AUK,Auckland,
 16.12.81.0/24,NZ,NZ-AUK,Auckland,
 96.0.72.0/21,NZ,NZ-AUK,Auckland,
 16.12.82.0/23,NZ,NZ-AUK,Auckland,
