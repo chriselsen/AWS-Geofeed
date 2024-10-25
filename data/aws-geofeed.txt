@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-10-25T00:37:38+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-10-25T02:10:42+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1802,6 +1802,7 @@
 150.222.50.32/27,ES,ES-AR,Aragon,
 52.95.136.0/23,ES,ES-AR,Aragon,
 150.222.50.64/27,ES,ES-AR,Aragon,
+16.15.12.0/23,ES,ES-AR,Aragon,
 35.71.120.0/24,ES,ES-AR,Aragon,
 15.177.97.0/24,ES,ES-AR,Aragon,
 52.95.138.0/24,ES,ES-AR,Aragon,
@@ -6456,7 +6457,6 @@
 2606:f40:400::/39,US,US-OR,Umatilla,
 2606:7b40:10ff:a220::/60,US,US-OR,Umatilla,
 2606:7b40:1000:8000::/56,US,US-OR,Umatilla,
-2602:f7db::/44,US,US-OR,Umatilla,
 2606:7b40:1800::/48,US,US-OR,Umatilla,
 2606:7b40:1000:2000::/56,US,US-OR,Umatilla,
 2600:1f38:4000::/39,US,US-OR,Umatilla,
@@ -7379,7 +7379,6 @@
 2600:f0f0:1000::/44,US,US-VA,Ashburn,
 2600:1ffd:807b::/48,US,US-VA,Ashburn,
 2600:f0f0:5503::/48,US,US-VA,Ashburn,
-2602:f7db:10::/44,US,US-VA,Ashburn,
 2620:107:4000:8001::/64,US,US-VA,Ashburn,
 2600:1ff9:8140::/46,US,US-VA,Ashburn,
 2600:9000:5203::/48,US,US-VA,Ashburn,
