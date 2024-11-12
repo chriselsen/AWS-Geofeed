@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-11-11T19:40:08+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-11-12T01:01:28+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -537,6 +537,7 @@
 15.230.0.12/31,BR,BR-SP,Sao Paulo,
 64.252.79.0/24,BR,BR-SP,Sao Paulo,
 52.93.126.235/32,BR,BR-SP,Sao Paulo,
+3.4.12.49/32,BR,BR-SP,Sao Paulo,
 52.95.240.0/24,BR,BR-SP,Sao Paulo,
 52.93.146.0/24,BR,BR-SP,Sao Paulo,
 18.231.0.0/16,BR,BR-SP,Sao Paulo,
@@ -596,6 +597,7 @@
 52.93.127.71/32,BR,BR-SP,Sao Paulo,
 15.230.63.0/31,BR,BR-SP,Sao Paulo,
 52.93.126.206/32,BR,BR-SP,Sao Paulo,
+3.4.15.152/29,BR,BR-SP,Sao Paulo,
 69.107.7.112/29,BR,BR-SP,Sao Paulo,
 150.222.44.128/27,BR,BR-SP,Sao Paulo,
 54.20.0.0/15,BR,BR-SP,Sao Paulo,
@@ -638,6 +640,7 @@
 13.248.104.0/24,BR,BR-SP,Sao Paulo,
 52.94.148.0/22,BR,BR-SP,Sao Paulo,
 15.230.73.64/26,BR,BR-SP,Sao Paulo,
+3.4.12.50/32,BR,BR-SP,Sao Paulo,
 52.95.255.0/28,BR,BR-SP,Sao Paulo,
 150.222.51.32/27,BR,BR-SP,Sao Paulo,
 35.71.106.0/24,BR,BR-SP,Sao Paulo,
@@ -1423,11 +1426,13 @@
 15.230.15.170/31,DE,DE-HE,Frankfurt,
 15.230.15.32/31,DE,DE-HE,Frankfurt,
 5.60.32.0/22,DE,DE-HE,Frankfurt,
+3.4.12.52/32,DE,DE-HE,Frankfurt,
 52.219.211.0/24,DE,DE-HE,Frankfurt,
 52.93.127.238/32,DE,DE-HE,Frankfurt,
 15.230.15.160/31,DE,DE-HE,Frankfurt,
 63.180.0.0/14,DE,DE-HE,Frankfurt,
 15.230.15.168/31,DE,DE-HE,Frankfurt,
+3.4.12.51/32,DE,DE-HE,Frankfurt,
 15.230.15.200/31,DE,DE-HE,Frankfurt,
 15.230.15.30/32,DE,DE-HE,Frankfurt,
 150.222.5.0/24,DE,DE-HE,Frankfurt,
@@ -1485,6 +1490,7 @@
 15.230.15.202/31,DE,DE-HE,Frankfurt,
 15.230.15.5/32,DE,DE-HE,Frankfurt,
 15.230.15.206/31,DE,DE-HE,Frankfurt,
+3.4.15.160/29,DE,DE-HE,Frankfurt,
 15.230.15.214/31,DE,DE-HE,Frankfurt,
 15.230.15.130/31,DE,DE-HE,Frankfurt,
 15.230.15.116/31,DE,DE-HE,Frankfurt,
@@ -2744,6 +2750,7 @@
 52.93.41.0/24,IE,IE-D,Dublin,
 52.93.43.0/24,IE,IE-D,Dublin,
 52.93.183.80/28,IE,IE-D,Dublin,
+3.4.12.53/32,IE,IE-D,Dublin,
 34.248.0.0/13,IE,IE-D,Dublin,
 67.220.224.0/20,IE,IE-D,Dublin,
 108.128.0.0/13,IE,IE-D,Dublin,
@@ -4802,6 +4809,7 @@
 15.248.128.0/21,TW,TW-TPE,Taipei,
 104.255.59.216/32,TW,TW-TPE,Taipei,
 104.255.59.212/32,TW,TW-TPE,Taipei,
+150.222.53.224/27,TW,TW-TPE,Taipei,
 3.5.196.0/22,TW,TW-TPE,Taipei,
 15.220.80.0/20,TW,TW-TPE,Taipei,
 104.255.59.214/32,TW,TW-TPE,Taipei,
