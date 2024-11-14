@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-11-14T19:31:35+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-11-14T20:39:52+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -5830,6 +5830,7 @@
 18.254.61.128/26,US,US-OH,Columbus,
 182.30.13.192/26,US,US-OH,Columbus,
 182.30.157.0/26,US,US-OH,Columbus,
+182.30.85.0/26,US,US-OH,Columbus,
 182.30.85.128/25,US,US-OH,Columbus,
 3.12.23.128/26,US,US-OH,Columbus,
 3.128.56.128/26,US,US-OH,Columbus,
@@ -6679,6 +6680,7 @@
 15.230.87.0/24,US,US-VA,Ashburn,
 150.222.227.0/24,US,US-VA,Ashburn,
 52.119.206.0/23,US,US-VA,Ashburn,
+142.4.164.0/24,US,US-VA,Ashburn,
 52.93.24.0/21,US,US-VA,Ashburn,
 52.93.127.218/32,US,US-VA,Ashburn,
 205.251.244.0/23,US,US-VA,Ashburn,
@@ -7014,6 +7016,7 @@
 104.255.56.15/32,US,US-VA,Ashburn,
 69.107.7.64/29,US,US-VA,Ashburn,
 15.230.206.0/24,US,US-VA,Ashburn,
+142.4.165.0/24,US,US-VA,Ashburn,
 142.4.178.0/24,US,US-VA,Ashburn,
 3.208.0.0/12,US,US-VA,Ashburn,
 15.221.0.0/24,US,US-VA,Ashburn,
@@ -7388,7 +7391,6 @@
 2600:f0f0:f00:400::/56,US,US-VA,Ashburn,
 2620:107:4000:9002::/64,US,US-VA,Ashburn,
 2600:f0f0:1:fd00::/56,US,US-VA,Ashburn,
-2600:f0f3:ce00::/42,US,US-VA,Ashburn,
 2600:1f36:8000::/39,US,US-VA,Ashburn,
 2600:1f10:c000::/36,US,US-VA,Ashburn,
 2600:f0f0:500::/48,US,US-VA,Ashburn,
@@ -7409,6 +7411,7 @@
 2620:107:4000:900f::/64,US,US-VA,Ashburn,
 2620:107:4000:9013::/64,US,US-VA,Ashburn,
 2600:f0f0:0:100::/56,US,US-VA,Ashburn,
+2600:f0f3:ce40::/48,US,US-VA,Ashburn,
 2600:f0f0:600:200::/55,US,US-VA,Ashburn,
 2620:107:4000:ff::/64,US,US-VA,Ashburn,
 2600:1f19:4000::/36,US,US-VA,Ashburn,
@@ -7428,6 +7431,7 @@
 2600:9000:5203::/48,US,US-VA,Ashburn,
 2600:9000:5210::/48,US,US-VA,Ashburn,
 2600:1ff0:8000::/39,US,US-VA,Ashburn,
+2600:f0f3:ce00::/48,US,US-VA,Ashburn,
 2600:1f2f:4000::/36,US,US-VA,Ashburn,
 2600:1ff9:8180::/46,US,US-VA,Ashburn,
 2605:9cc0:1ff0:800::/56,US,US-VA,Ashburn,
