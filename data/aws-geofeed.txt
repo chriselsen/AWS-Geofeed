@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-11-21T16:11:32+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2024-11-21T21:43:21+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -7512,6 +7512,7 @@
 2600:9000:5210::/48,US,US-VA,Ashburn,
 2600:1ff0:8000::/39,US,US-VA,Ashburn,
 2600:f0f3:ce00::/48,US,US-VA,Ashburn,
+2602:f7db::/44,US,US-VA,Ashburn,
 2600:1f2f:4000::/36,US,US-VA,Ashburn,
 2600:1ff9:8180::/46,US,US-VA,Ashburn,
 2605:9cc0:1ff0:800::/56,US,US-VA,Ashburn,
