@@ -72,6 +72,7 @@ us-west-2-wl1-den-wlz-1 US,US-CO,Denver,
 us-west-2-wl1-sea-wlz-1 US,US-WA,Seattle,
 us-west-2-wl1-phx-wlz-1 US,US-AZ,Phoenix,
 us-west-2-wl1-lax-wlz-1 US,US-CA,Los Angeles,
+us-east-1-foe-wlz-1 US,US-KS,Lenexa,
 ## Vodafone 
 eu-west-2-wl1-lon-wlz-1 GB,GB-LND,London,
 eu-west-2-wl1-man-wlz-1 GB,GB-MAN,Manchester,
