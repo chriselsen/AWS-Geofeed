@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-07-01T19:15:56+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-07-01T21:16:09+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -877,6 +877,7 @@
 150.222.52.160/27,CA,CA-AB,Calgary,
 3.5.172.0/22,CA,CA-AB,Calgary,
 56.115.0.0/16,CA,CA-AB,Calgary,
+35.96.251.0/24,CA,CA-AB,Calgary,
 35.96.44.0/24,CA,CA-AB,Calgary,
 76.223.170.0/28,CA,CA-AB,Calgary,
 52.94.250.48/28,CA,CA-AB,Calgary,
@@ -2227,6 +2228,7 @@
 52.93.126.251/32,FR,FR-IDF,Paris,
 15.177.74.0/24,FR,FR-IDF,Paris,
 54.239.40.133/32,FR,FR-IDF,Paris,
+35.96.250.0/24,FR,FR-IDF,Paris,
 52.144.210.64/26,FR,FR-IDF,Paris,
 99.77.135.0/24,FR,FR-IDF,Paris,
 3.5.224.0/22,FR,FR-IDF,Paris,
@@ -2540,7 +2542,6 @@
 13.40.0.0/14,GB,GB-LND,London,
 52.93.153.64/32,GB,GB-LND,London,
 52.93.229.129/32,GB,GB-LND,London,
-35.96.250.0/24,GB,GB-LND,London,
 15.230.9.14/31,GB,GB-LND,London,
 150.222.29.0/24,GB,GB-LND,London,
 52.93.152.194/32,GB,GB-LND,London,
@@ -6990,6 +6991,7 @@
 15.230.67.192/26,US,US-OR,Umatilla,
 3.4.15.8/29,US,US-OR,Umatilla,
 15.230.68.0/26,US,US-OR,Umatilla,
+168.185.7.0/24,US,US-OR,Umatilla,
 52.94.9.0/24,US,US-OR,Umatilla,
 52.94.116.0/22,US,US-OR,Umatilla,
 52.144.194.64/26,US,US-OR,Umatilla,
