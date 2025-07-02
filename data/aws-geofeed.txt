@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-07-02T03:17:02+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-07-02T19:15:56+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -7497,6 +7497,7 @@
 2600:1f32:2000::/40,US,US-OR,Umatilla,
 2600:1ff1:4000::/39,US,US-OR,Umatilla,
 2600:f0f0:1126::/48,US,US-OR,Umatilla,
+2600:f0f2:7013::/48,US,US-OR,Umatilla,
 2600:1ff2:2000::/40,US,US-OR,Umatilla,
 2600:9000:5204::/48,US,US-OR,Umatilla,
 2600:f0f0:5511::/48,US,US-OR,Umatilla,
@@ -8482,6 +8483,7 @@
 2600:1ffd:807b::/48,US,US-VA,Ashburn,
 2600:f0f0:5503::/48,US,US-VA,Ashburn,
 2620:107:4000:8001::/64,US,US-VA,Ashburn,
+2600:f0f2:7011::/48,US,US-VA,Ashburn,
 2600:f0f0:551d::/48,US,US-VA,Ashburn,
 2600:9000:5203::/48,US,US-VA,Ashburn,
 2600:1ff3:8000::/39,US,US-VA,Ashburn,
@@ -8493,6 +8495,7 @@
 2600:f0f0:11::/48,US,US-VA,Ashburn,
 2605:9cc0:1ff0:800::/56,US,US-VA,Ashburn,
 2600:f0f0:0:204::/62,US,US-VA,Ashburn,
+2600:f0f2:7012::/48,US,US-VA,Ashburn,
 2600:f0f0:0:21c::/62,US,US-VA,Ashburn,
 2600:1f01:4806::/47,US,US-VA,Ashburn,
 2605:9cc0:1ff0:400::/56,US,US-VA,Ashburn,
@@ -8507,6 +8510,7 @@
 2600:f0f0:f00:500::/56,US,US-VA,Ashburn,
 2600:f0f0:f00::/56,US,US-VA,Ashburn,
 2606:f40:fffc::/48,US,US-VA,Ashburn,
+2600:f0f2:7010::/48,US,US-VA,Ashburn,
 2600:1f01:4850::/47,US,US-VA,Ashburn,
 2600:1ff5:8000::/39,US,US-VA,Ashburn,
 2620:107:4000:900e::/64,US,US-VA,Ashburn,
@@ -8563,7 +8567,6 @@
 2600:f0f0:600::/55,US,US-VA,Ashburn,
 2600:f0f0:f00:300::/56,US,US-VA,Ashburn,
 2606:f40:8000::/39,US,US-VA,Ashburn,
-2600:f0f2:7010::/46,US,US-VA,Ashburn,
 2600:1f29:4000::/36,US,US-VA,Ashburn,
 2600:1ff2:8000::/39,US,US-VA,Ashburn,
 2600:f0f0:551b::/48,US,US-VA,Ashburn,
