@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-07-03T05:44:48+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-07-08T05:46:43+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -6149,6 +6149,7 @@
 155.146.144.0/20,US,US-CO,Denver,
 15.181.16.0/20,US,US-CO,Denver,
 15.220.205.0/24,US,US-CO,Denver,
+216.244.1.0/24,US,US-CO,Denver,
 15.181.251.0/24,US,US-CO,Denver,
 15.181.250.0/24,US,US-CO,Denver,
 15.220.40.0/22,US,US-CO,Denver,
