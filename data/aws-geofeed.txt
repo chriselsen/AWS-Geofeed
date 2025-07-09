@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-07-09T05:18:00+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-07-09T19:18:59+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -4741,6 +4741,7 @@
 78.12.79.192/28,MX,MX-QUE,Queretaro,
 78.12.79.208/28,MX,MX-QUE,Queretaro,
 78.12.16.0/24,MX,MX-QUE,Queretaro,
+78.12.207.8/29,MX,MX-QUE,Queretaro,
 2600:1f69:7400::/40,MX,MX-QUE,Queretaro,
 2600:1ff0:7400::/40,MX,MX-QUE,Queretaro,
 2600:1ffc:7400::/40,MX,MX-QUE,Queretaro,
@@ -4769,6 +4770,7 @@
 2600:1ff9:7400::/40,MX,MX-QUE,Queretaro,
 2600:1ff7:7400::/40,MX,MX-QUE,Queretaro,
 2600:1ffe:7400::/40,MX,MX-QUE,Queretaro,
+2600:1f17:4ee0:b800::/56,MX,MX-QUE,Queretaro,
 15.190.32.0/20,MY,MY-14,Kuala Lumpur,
 16.12.44.0/24,MY,MY-14,Kuala Lumpur,
 99.151.160.0/21,MY,MY-14,Kuala Lumpur,
@@ -5507,6 +5509,7 @@
 43.208.66.128/28,TH,TH-10,Bangkok,
 43.208.66.144/28,TH,TH-10,Bangkok,
 43.208.28.0/24,TH,TH-10,Bangkok,
+43.209.155.96/29,TH,TH-10,Bangkok,
 2406:daef:4800::/40,TH,TH-10,Bangkok,
 2406:da00:4800::/40,TH,TH-10,Bangkok,
 2406:da38:4800::/40,TH,TH-10,Bangkok,
@@ -5535,6 +5538,7 @@
 2406:daed:4800::/40,TH,TH-10,Bangkok,
 2406:daf3:4800::/40,TH,TH-10,Bangkok,
 2406:dafe:4800::/40,TH,TH-10,Bangkok,
+2406:da14:85c5:5b00::/56,TH,TH-10,Bangkok,
 15.190.244.0/22,TW,TW-TPE,Taipei,
 16.12.80.0/24,TW,TW-TPE,Taipei,
 5.60.0.0/20,TW,TW-TPE,Taipei,
