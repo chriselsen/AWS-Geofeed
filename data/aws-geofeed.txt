@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-07-14T19:17:07+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-07-14T20:58:50+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1232,7 +1232,6 @@
 150.222.88.0/24,CN,CN-BJ,Beijing,
 54.222.71.0/24,CN,CN-BJ,Beijing,
 43.195.0.0/16,CN,CN-BJ,Beijing,
-54.222.89.0/24,CN,CN-BJ,Beijing,
 71.137.0.0/18,CN,CN-BJ,Beijing,
 71.132.0.0/18,CN,CN-BJ,Beijing,
 54.222.76.0/22,CN,CN-BJ,Beijing,
@@ -1330,6 +1329,7 @@
 2400:7fc0:2c00::/40,CN,CN-BJ,Beijing,
 2400:7fc0::/40,CN,CN-BJ,Beijing,
 240f:80fc:8000::/40,CN,CN-BJ,Beijing,
+2400:7fc0:ec00::/40,CN,CN-BJ,Beijing,
 2400:7fc0:2200::/40,CN,CN-BJ,Beijing,
 240f:8018::/36,CN,CN-BJ,Beijing,
 2400:7fc0:4000:100::/56,CN,CN-BJ,Beijing,
@@ -1617,7 +1617,6 @@
 15.230.65.0/26,DE,DE-HE,Frankfurt,
 35.96.96.0/20,DE,DE-HE,Frankfurt,
 136.18.18.0/24,DE,DE-HE,Frankfurt,
-3.33.35.0/24,DE,DE-HE,Frankfurt,
 15.230.15.138/31,DE,DE-HE,Frankfurt,
 52.95.255.128/28,DE,DE-HE,Frankfurt,
 150.222.10.0/24,DE,DE-HE,Frankfurt,
@@ -5414,6 +5413,7 @@
 2600:1ffd:8422::/48,SG,SG-01,Singapore,
 2600:f0f0:1107::/48,SG,SG-01,Singapore,
 2406:daf4:8000::/40,SG,SG-01,Singapore,
+2406:daec:8800::/40,SG,SG-01,Singapore,
 2406:daf6:8000::/40,SG,SG-01,Singapore,
 2406:da1a:8000::/36,SG,SG-01,Singapore,
 2406:da68:8800::/40,SG,SG-01,Singapore,
@@ -8166,7 +8166,6 @@
 150.222.25.39/32,US,US-VA,Ashburn,
 161.188.64.0/20,US,US-VA,Ashburn,
 205.251.240.0/22,US,US-VA,Ashburn,
-3.33.34.0/24,US,US-VA,Ashburn,
 69.107.7.32/29,US,US-VA,Ashburn,
 52.144.192.64/26,US,US-VA,Ashburn,
 52.93.60.0/24,US,US-VA,Ashburn,
