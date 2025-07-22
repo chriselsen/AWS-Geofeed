@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-07-22T17:46:52+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-07-22T20:22:16+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -47,6 +47,7 @@
 3.29.202.240/28,AE,AE-DU,Dubai,
 51.112.11.64/28,AE,AE-DU,Dubai,
 51.112.11.80/28,AE,AE-DU,Dubai,
+51.112.196.0/22,AE,AE-DU,Dubai,
 3.29.40.128/26,AE,AE-DU,Dubai,
 3.29.40.192/26,AE,AE-DU,Dubai,
 3.29.40.64/26,AE,AE-DU,Dubai,
@@ -2071,6 +2072,7 @@
 18.101.84.0/23,ES,ES-AR,Aragon,
 18.100.209.224/28,ES,ES-AR,Aragon,
 18.100.209.240/28,ES,ES-AR,Aragon,
+51.48.16.0/22,ES,ES-AR,Aragon,
 99.77.55.49/32,ES,ES-AR,Aragon,
 99.77.55.46/32,ES,ES-AR,Aragon,
 99.77.55.41/32,ES,ES-AR,Aragon,
@@ -3937,6 +3939,7 @@
 18.102.160.0/22,IT,IT-MI,Milan,
 35.152.74.144/28,IT,IT-MI,Milan,
 35.152.74.160/28,IT,IT-MI,Milan,
+35.152.232.0/22,IT,IT-MI,Milan,
 15.161.135.64/27,IT,IT-MI,Milan,
 15.161.135.96/27,IT,IT-MI,Milan,
 15.160.55.112/29,IT,IT-MI,Milan,
@@ -4815,6 +4818,7 @@
 43.217.174.0/23,MY,MY-14,Kuala Lumpur,
 43.216.87.0/28,MY,MY-14,Kuala Lumpur,
 43.216.87.16/28,MY,MY-14,Kuala Lumpur,
+43.217.232.0/22,MY,MY-14,Kuala Lumpur,
 43.216.39.0/24,MY,MY-14,Kuala Lumpur,
 43.216.87.48/29,MY,MY-14,Kuala Lumpur,
 43.216.226.176/30,MY,MY-14,Kuala Lumpur,
