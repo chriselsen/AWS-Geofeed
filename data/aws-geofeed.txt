@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-08-14T22:45:09+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-08-15T00:46:37+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2515,6 +2515,7 @@
 3.4.12.44/32,GB,GB-LND,London,
 216.39.152.0/21,GB,GB-LND,London,
 15.230.190.0/25,GB,GB-LND,London,
+13.134.208.0/23,GB,GB-LND,London,
 13.40.1.192/26,GB,GB-LND,London,
 13.41.1.160/27,GB,GB-LND,London,
 13.43.44.0/22,GB,GB-LND,London,
@@ -4025,6 +4026,7 @@
 52.93.127.175/32,JP,JP-13,Tokyo,
 15.230.59.0/24,JP,JP-13,Tokyo,
 18.180.0.0/15,JP,JP-13,Tokyo,
+3.2.66.0/24,JP,JP-13,Tokyo,
 176.32.64.0/19,JP,JP-13,Tokyo,
 15.230.99.0/24,JP,JP-13,Tokyo,
 52.93.127.255/32,JP,JP-13,Tokyo,
@@ -4206,6 +4208,7 @@
 2600:f0f0:1101::/48,JP,JP-13,Tokyo,
 2600:f0fb:f025::/48,JP,JP-13,Tokyo,
 2600:1ffd:812f::/48,JP,JP-13,Tokyo,
+2600:f0f0:6102::/48,JP,JP-13,Tokyo,
 2600:f0f0:5533::/48,JP,JP-13,Tokyo,
 2606:7b40:1b05:c000::/56,JP,JP-13,Tokyo,
 2400:6700::/48,JP,JP-13,Tokyo,
@@ -6519,6 +6522,7 @@
 15.230.39.148/31,US,US-OH,Columbus,
 15.230.71.128/26,US,US-OH,Columbus,
 52.93.199.37/32,US,US-OH,Columbus,
+16.64.102.0/23,US,US-OH,Columbus,
 16.64.36.0/23,US,US-OH,Columbus,
 18.252.126.0/25,US,US-OH,Columbus,
 18.252.165.0/26,US,US-OH,Columbus,
