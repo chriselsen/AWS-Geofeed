@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-08-18T17:25:00+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-08-18T23:01:03+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -635,7 +635,6 @@
 35.50.176.0/24,BR,BR-SP,Sao Paulo,
 99.151.112.0/21,BR,BR-SP,Sao Paulo,
 99.82.164.0/24,BR,BR-SP,Sao Paulo,
-216.244.8.0/24,BR,BR-SP,Sao Paulo,
 64.252.78.0/24,BR,BR-SP,Sao Paulo,
 52.93.127.70/32,BR,BR-SP,Sao Paulo,
 150.222.9.0/24,BR,BR-SP,Sao Paulo,
@@ -7052,6 +7051,7 @@
 56.136.0.192/26,US,US-OR,Umatilla,
 56.136.121.0/25,US,US-OR,Umatilla,
 56.136.224.0/23,US,US-OR,Umatilla,
+56.137.38.0/23,US,US-OR,Umatilla,
 18.246.100.0/22,US,US-OR,Umatilla,
 18.246.112.0/22,US,US-OR,Umatilla,
 18.246.116.0/22,US,US-OR,Umatilla,
@@ -7493,7 +7493,6 @@
 139.56.28.0/23,US,US-TN,Nashville,
 161.188.0.0/20,US,US-TN,Nashville,
 15.181.241.0/24,US,US-TX,Dallas,
-216.244.9.0/24,US,US-TX,Dallas,
 15.181.224.0/21,US,US-TX,Dallas,
 15.181.192.0/19,US,US-TX,Dallas,
 96.0.96.0/22,US,US-TX,Dallas,
