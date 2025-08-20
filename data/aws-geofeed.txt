@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-08-20T17:45:31+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-08-20T19:17:59+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -3711,6 +3711,7 @@
 99.150.112.0/21,IN,IN-TG,Hyderabad,
 98.130.0.0/16,IN,IN-TG,Hyderabad,
 13.248.64.0/24,IN,IN-TG,Hyderabad,
+3.2.90.0/24,IN,IN-TG,Hyderabad,
 35.71.108.0/24,IN,IN-TG,Hyderabad,
 16.113.0.0/16,IN,IN-TG,Hyderabad,
 104.255.59.125/32,IN,IN-TG,Hyderabad,
@@ -3945,6 +3946,7 @@
 2a01:578:0:7400::/56,IT,IT-MI,Milan,
 2a05:d050:a000::/40,IT,IT-MI,Milan,
 2a05:d032:a000::/40,IT,IT-MI,Milan,
+2600:f0f0:611d::/48,IT,IT-MI,Milan,
 2a05:d072:a000::/40,IT,IT-MI,Milan,
 2a05:d06f:a000::/40,IT,IT-MI,Milan,
 2a05:d01a::/36,IT,IT-MI,Milan,
@@ -4720,6 +4722,7 @@
 2600:1f00:7400::/40,MX,MX-QUE,Queretaro,
 2600:1ff6:7400::/40,MX,MX-QUE,Queretaro,
 2600:1f27:4000::/36,MX,MX-QUE,Queretaro,
+2600:f0f0:611e::/48,MX,MX-QUE,Queretaro,
 2600:1f32:7400::/40,MX,MX-QUE,Queretaro,
 2600:1f17:4000::/36,MX,MX-QUE,Queretaro,
 2600:1fff:7400::/40,MX,MX-QUE,Queretaro,
