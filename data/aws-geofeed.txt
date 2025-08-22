@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-08-21T23:17:06+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-08-22T04:17:33+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -134,6 +134,7 @@
 54.239.0.112/28,AU,AU-NSW,Sydney,
 54.240.204.0/22,AU,AU-NSW,Sydney,
 15.193.164.0/22,AU,AU-NSW,Sydney,
+69.107.9.208/29,AU,AU-NSW,Sydney,
 35.96.128.0/20,AU,AU-NSW,Sydney,
 15.230.149.8/31,AU,AU-NSW,Sydney,
 99.83.120.0/22,AU,AU-NSW,Sydney,
@@ -176,6 +177,7 @@
 52.64.0.0/17,AU,AU-NSW,Sydney,
 52.119.210.0/23,AU,AU-NSW,Sydney,
 35.55.10.0/24,AU,AU-NSW,Sydney,
+69.107.9.216/29,AU,AU-NSW,Sydney,
 15.230.78.128/26,AU,AU-NSW,Sydney,
 104.255.59.88/32,AU,AU-NSW,Sydney,
 15.230.149.10/32,AU,AU-NSW,Sydney,
@@ -1187,9 +1189,12 @@
 2a05:d07c:9000::/40,CH,CH-ZH,Zurich,
 2a05:d019:1d6:2100::/56,CH,CH-ZH,Zurich,
 23.254.120.0/21,CL,CL-RM,Santiago,
+13.248.81.0/24,CL,CL-RM,Santiago,
 96.0.131.0/24,CL,CL-RM,Santiago,
 83.160.0.0/15,CL,CL-RM,Santiago,
 96.0.56.0/22,CL,CL-RM,Santiago,
+76.223.170.128/28,CL,CL-RM,Santiago,
+52.94.250.176/28,CL,CL-RM,Santiago,
 15.190.160.0/20,CL,CL-RM,Santiago,
 15.190.232.0/22,CL,CL-RM,Santiago,
 96.0.152.0/21,CL,CL-RM,Santiago,
@@ -4072,6 +4077,7 @@
 150.222.38.128/26,JP,JP-13,Tokyo,
 52.93.121.196/32,JP,JP-13,Tokyo,
 52.219.172.0/22,JP,JP-13,Tokyo,
+69.107.9.200/29,JP,JP-13,Tokyo,
 52.93.127.244/32,JP,JP-13,Tokyo,
 57.180.0.0/14,JP,JP-13,Tokyo,
 3.4.15.72/29,JP,JP-13,Tokyo,
@@ -4116,6 +4122,7 @@
 52.93.121.198/32,JP,JP-13,Tokyo,
 52.93.150.0/24,JP,JP-13,Tokyo,
 52.93.127.249/32,JP,JP-13,Tokyo,
+69.107.9.192/29,JP,JP-13,Tokyo,
 3.4.12.27/32,JP,JP-13,Tokyo,
 52.93.127.146/32,JP,JP-13,Tokyo,
 15.230.129.0/24,JP,JP-13,Tokyo,
