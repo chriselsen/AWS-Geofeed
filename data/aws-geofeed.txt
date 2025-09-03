@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-09-02T21:19:08+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-09-03T02:48:11+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -565,6 +565,7 @@
 16.24.91.120/30,BH,,Bahrain,
 16.24.91.70/31,BH,,Bahrain,
 2a05:d070:e000::/40,BH,,Bahrain,
+2600:f0f0:e06::/48,BH,,Bahrain,
 2a05:d059:e000::/40,BH,,Bahrain,
 2600:f0f0:552e::/48,BH,,Bahrain,
 2a05:d078:e000::/40,BH,,Bahrain,
@@ -581,6 +582,7 @@
 2a05:d073:e000::/40,BH,,Bahrain,
 2a05:d076:e000::/40,BH,,Bahrain,
 2600:f0f0:e05::/48,BH,,Bahrain,
+2600:f0f0:e07::/48,BH,,Bahrain,
 2a05:d040:e000::/40,BH,,Bahrain,
 2600:f0f0:e04::/48,BH,,Bahrain,
 2a05:d074:e000::/40,BH,,Bahrain,
@@ -7435,6 +7437,7 @@
 2606:f40:4400::/39,US,US-OR,Umatilla,
 2606:7b40:1800::/48,US,US-OR,Umatilla,
 2606:7b40:1b0f:c200::/56,US,US-OR,Umatilla,
+2600:f0f0:e03::/48,US,US-OR,Umatilla,
 2606:7b40:1000:2000::/56,US,US-OR,Umatilla,
 2600:1f38:4000::/39,US,US-OR,Umatilla,
 2600:1f00:2000::/40,US,US-OR,Umatilla,
@@ -7527,6 +7530,7 @@
 2600:f0f2:7013::/48,US,US-OR,Umatilla,
 2600:1ff2:2000::/40,US,US-OR,Umatilla,
 2600:9000:5204::/48,US,US-OR,Umatilla,
+2600:f0f0:e02::/48,US,US-OR,Umatilla,
 2600:f0f0:5511::/48,US,US-OR,Umatilla,
 2606:7b40:10ff:c000::/56,US,US-OR,Umatilla,
 2606:7b40:10ff:d210::/60,US,US-OR,Umatilla,
