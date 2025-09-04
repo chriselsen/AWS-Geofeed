@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-09-04T00:46:20+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-09-04T02:17:39+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -360,6 +360,7 @@
 2406:daa0:c000::/40,AU,AU-NSW,Sydney,
 2406:daf2:c000::/40,AU,AU-NSW,Sydney,
 2600:9000:5209::/48,AU,AU-NSW,Sydney,
+2600:f0f0:c049::/48,AU,AU-NSW,Sydney,
 2600:f0f0:1:1400::/56,AU,AU-NSW,Sydney,
 2600:f0f0:4106::/48,AU,AU-NSW,Sydney,
 2406:da70:c000:100::/56,AU,AU-NSW,Sydney,
@@ -2660,6 +2661,7 @@
 13.42.133.192/29,GB,GB-LND,London,
 13.42.133.200/29,GB,GB-LND,London,
 2a05:d07a:c000::/40,GB,GB-LND,London,
+2600:f0f0:c045::/48,GB,GB-LND,London,
 2a05:d027::/36,GB,GB-LND,London,
 2a05:d017::/36,GB,GB-LND,London,
 2600:9000:520c::/48,GB,GB-LND,London,
@@ -4348,6 +4350,7 @@
 2406:da60:4000::/40,JP,JP-13,Tokyo,
 2600:1ffd:8143::/48,JP,JP-13,Tokyo,
 2600:f0f2:7016::/48,JP,JP-13,Tokyo,
+2600:f0f0:c047::/48,JP,JP-13,Tokyo,
 2600:f0f2:7108::/48,JP,JP-13,Tokyo,
 2400:6500:0:7100::/56,JP,JP-13,Tokyo,
 2600:f004::/40,JP,JP-13,Tokyo,
@@ -4713,6 +4716,7 @@
 2406:daf4:2000::/40,KR,KR-11,Seoul,
 2606:f40:2400::/40,KR,KR-11,Seoul,
 2600:f0f0:5402::/48,KR,KR-11,Seoul,
+2600:f0f0:c046::/48,KR,KR-11,Seoul,
 2406:da70:2000::/40,KR,KR-11,Seoul,
 2406:da36:2000::/40,KR,KR-11,Seoul,
 2406:da12::/36,KR,KR-11,Seoul,
@@ -5472,6 +5476,7 @@
 2606:f40:a800::/40,SG,SG-01,Singapore,
 2400:6500:0:7000::/56,SG,SG-01,Singapore,
 2406:dafa:8000::/40,SG,SG-01,Singapore,
+2600:f0f0:c048::/48,SG,SG-01,Singapore,
 2600:f0f0:731::/48,SG,SG-01,Singapore,
 2600:f0fb:f105::/48,SG,SG-01,Singapore,
 2600:1ffd:85b2::/48,SG,SG-01,Singapore,
