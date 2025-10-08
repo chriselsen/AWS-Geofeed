@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-10-08T01:20:58+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-10-08T03:18:00+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -5054,11 +5054,14 @@
 15.190.236.0/22,SA,SA-01,Riyadh,
 52.94.250.160/28,SA,SA-01,Riyadh,
 15.248.152.0/21,SA,SA-01,Riyadh,
+150.222.55.32/27,SA,SA-01,Riyadh,
+150.222.55.0/27,SA,SA-01,Riyadh,
 16.12.86.0/24,SA,SA-01,Riyadh,
 15.177.106.0/24,SA,SA-01,Riyadh,
 15.190.144.0/20,SA,SA-01,Riyadh,
 13.248.80.0/24,SA,SA-01,Riyadh,
 16.12.84.0/23,SA,SA-01,Riyadh,
+150.222.55.64/27,SA,SA-01,Riyadh,
 16.15.16.0/22,SA,SA-01,Riyadh,
 23.254.16.0/21,SA,SA-01,Riyadh,
 35.52.0.0/15,SA,SA-01,Riyadh,
