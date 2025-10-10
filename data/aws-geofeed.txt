@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-10-10T07:20:10+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-10-10T15:25:52+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -8005,6 +8005,7 @@
 52.93.90.165/32,US,US-VA,Ashburn,
 52.93.91.112/32,US,US-VA,Ashburn,
 52.200.0.0/13,US,US-VA,Ashburn,
+75.22.192.0/18,US,US-VA,Ashburn,
 15.230.214.0/24,US,US-VA,Ashburn,
 34.224.0.0/12,US,US-VA,Ashburn,
 52.93.86.194/32,US,US-VA,Ashburn,
@@ -8274,6 +8275,7 @@
 3.80.0.0/12,US,US-VA,Ashburn,
 52.93.65.0/24,US,US-VA,Ashburn,
 52.93.126.213/32,US,US-VA,Ashburn,
+75.47.0.0/18,US,US-VA,Ashburn,
 52.144.200.128/26,US,US-VA,Ashburn,
 54.240.196.0/24,US,US-VA,Ashburn,
 150.222.66.0/24,US,US-VA,Ashburn,
@@ -8712,6 +8714,7 @@
 2600:1ff9:2c00::/40,US,US-VA,Ashburn,
 2600:1f2f:4000::/36,US,US-VA,Ashburn,
 2600:f0f0:11::/48,US,US-VA,Ashburn,
+2600:1f25:c000::/36,US,US-VA,Ashburn,
 2605:9cc0:1ff0:800::/56,US,US-VA,Ashburn,
 2600:f0f0:0:204::/62,US,US-VA,Ashburn,
 2600:f0f2:7012::/48,US,US-VA,Ashburn,
@@ -8781,6 +8784,7 @@
 2600:1f2b:4000::/36,US,US-VA,Ashburn,
 2605:9cc0:1ff0:900::/56,US,US-VA,Ashburn,
 2600:f0f0:f00:200::/56,US,US-VA,Ashburn,
+2600:1f19:c000::/36,US,US-VA,Ashburn,
 2605:9cc0:1ff0:8000::/56,US,US-VA,Ashburn,
 2600:1f60:8000::/39,US,US-VA,Ashburn,
 2600:f0fb:f024::/48,US,US-VA,Ashburn,
@@ -8790,6 +8794,7 @@
 2600:1ffa:8000::/40,US,US-VA,Ashburn,
 2600:1ffc:8000::/39,US,US-VA,Ashburn,
 2600:1f00:8000::/40,US,US-VA,Ashburn,
+2600:1f15:c000::/36,US,US-VA,Ashburn,
 2600:1ff9:8000::/39,US,US-VA,Ashburn,
 2620:107:4000:900c::/64,US,US-VA,Ashburn,
 2600:1f30:8000::/39,US,US-VA,Ashburn,
@@ -8797,6 +8802,7 @@
 2600:f0f0:600::/55,US,US-VA,Ashburn,
 2600:f0f0:f00:300::/56,US,US-VA,Ashburn,
 2606:f40:8000::/39,US,US-VA,Ashburn,
+2600:1f29:c000::/36,US,US-VA,Ashburn,
 2600:1f29:4000::/36,US,US-VA,Ashburn,
 2600:1ff2:8000::/39,US,US-VA,Ashburn,
 2600:f0f0:551b::/48,US,US-VA,Ashburn,
