@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-10-14T04:01:22+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-10-14T22:47:43+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -842,6 +842,7 @@
 2600:f0f0:e15::/48,BR,BR-SP,Sao Paulo,
 2600:1ffe:e000::/40,BR,BR-SP,Sao Paulo,
 2600:1ff6:e000::/40,BR,BR-SP,Sao Paulo,
+2606:7b40:1b09:100::/56,BR,BR-SP,Sao Paulo,
 2804:800:ff00::/48,BR,BR-SP,Sao Paulo,
 2600:1f61:e000::/40,BR,BR-SP,Sao Paulo,
 2600:f0f0:5521::/48,BR,BR-SP,Sao Paulo,
@@ -871,6 +872,7 @@
 2600:f00d:8000::/40,BR,BR-SP,Sao Paulo,
 2600:1f70:e000::/40,BR,BR-SP,Sao Paulo,
 2600:1f00:e000::/40,BR,BR-SP,Sao Paulo,
+2606:7b40:1b09:200::/56,BR,BR-SP,Sao Paulo,
 2600:1ffc:e000::/40,BR,BR-SP,Sao Paulo,
 2606:f40:ffed::/48,BR,BR-SP,Sao Paulo,
 2600:1ff8:e000::/40,BR,BR-SP,Sao Paulo,
@@ -2054,6 +2056,7 @@
 2a05:d072:b000::/40,DE,DE-HE,Frankfurt,
 2606:f40:fff9::/48,DE,DE-HE,Frankfurt,
 2a05:d030:b000::/40,DE,DE-HE,Frankfurt,
+2606:7b40:1b0c:100::/56,DE,DE-HE,Frankfurt,
 2a05:d079:f000::/40,DE,DE-HE,Frankfurt,
 2600:1ffd:80d0::/48,DE,DE-HE,Frankfurt,
 2a05:d05b:4000::/40,DE,DE-HE,Frankfurt,
@@ -2132,8 +2135,10 @@
 15.193.148.0/22,ES,ES-AR,Aragon,
 15.177.97.0/24,ES,ES-AR,Aragon,
 52.95.138.0/24,ES,ES-AR,Aragon,
+104.255.58.43/32,ES,ES-AR,Aragon,
 35.42.0.0/16,ES,ES-AR,Aragon,
 52.94.249.240/28,ES,ES-AR,Aragon,
+104.255.58.0/32,ES,ES-AR,Aragon,
 51.92.0.0/16,ES,ES-AR,Aragon,
 13.248.65.0/24,ES,ES-AR,Aragon,
 51.94.0.0/15,ES,ES-AR,Aragon,
@@ -3432,6 +3437,7 @@
 2a05:d078:8000::/40,IE,IE-D,Dublin,
 2a05:d074:8000::/40,IE,IE-D,Dublin,
 2a05:d040:8000::/40,IE,IE-D,Dublin,
+2606:7b40:1b0d:4100::/56,IE,IE-D,Dublin,
 2a05:d06f:8000::/40,IE,IE-D,Dublin,
 2606:f40:fff2::/48,IE,IE-D,Dublin,
 2600:f0f0:c043::/48,IE,IE-D,Dublin,
@@ -6997,6 +7003,7 @@
 2600:f0f0:1122::/48,US,US-OH,Columbus,
 2600:f0f2:7014::/48,US,US-OH,Columbus,
 2600:1ffd:833b::/48,US,US-OH,Columbus,
+2606:7b40:1b0f:4100::/56,US,US-OH,Columbus,
 2620:107:4000:4704::/64,US,US-OH,Columbus,
 2620:107:4000:9::/64,US,US-OH,Columbus,
 2600:f0f0:551f::/48,US,US-OH,Columbus,
@@ -7591,6 +7598,7 @@
 2606:f40:ffff::/48,US,US-OR,Umatilla,
 2606:7b40:10ff:d220::/60,US,US-OR,Umatilla,
 2600:9000:5211::/48,US,US-OR,Umatilla,
+2606:7b40:1b0f:c300::/56,US,US-OR,Umatilla,
 2600:1f38:2000::/40,US,US-OR,Umatilla,
 2606:7b40:10ff:d250::/60,US,US-OR,Umatilla,
 2600:f0f0:1125::/48,US,US-OR,Umatilla,
@@ -8691,6 +8699,7 @@
 2620:107:4000:901b::/64,US,US-VA,Ashburn,
 2600:1f21:8000::/36,US,US-VA,Ashburn,
 2600:1ffd:807f::/48,US,US-VA,Ashburn,
+2606:7b40:1b0f:100::/56,US,US-VA,Ashburn,
 2600:1ffd:80e0::/48,US,US-VA,Ashburn,
 2600:f0f0:a0::/48,US,US-VA,Ashburn,
 2600:1fff:2c00::/40,US,US-VA,Ashburn,
