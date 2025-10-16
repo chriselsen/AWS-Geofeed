@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-10-16T00:52:53+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-10-16T14:17:51+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -96,6 +96,7 @@
 2406:daf0:7000::/40,AE,AE-DU,Dubai,
 2406:dafe:7000::/40,AE,AE-DU,Dubai,
 2406:dafd:7000::/40,AE,AE-DU,Dubai,
+2406:da27:4::/48,AE,AE-DU,Dubai,
 2406:da17:1db:b00::/56,AE,AE-DU,Dubai,
 15.220.120.0/21,AR,AR-B,Buenos Aires,
 52.95.36.0/22,AU,AU-NSW,Sydney,
@@ -2255,6 +2256,7 @@
 2606:f40:fffb::/48,ES,ES-AR,Aragon,
 2a05:d000:1000::/40,ES,ES-AR,Aragon,
 2a05:d059:1000::/40,ES,ES-AR,Aragon,
+2a05:d021:c::/48,ES,ES-AR,Aragon,
 2a05:d011:cbe:f700::/56,ES,ES-AR,Aragon,
 15.220.168.0/21,FI,FI-18,Helsinki,
 15.220.148.0/22,FI,FI-18,Helsinki,
@@ -4112,6 +4114,7 @@
 2a05:d03a:a000:200::/56,IT,IT-MI,Milan,
 2a05:d03a:a000:400::/56,IT,IT-MI,Milan,
 2a05:d03a:a000::/56,IT,IT-MI,Milan,
+2a05:d02a:4::/48,IT,IT-MI,Milan,
 2a05:d01a:c03:4a00::/56,IT,IT-MI,Milan,
 15.221.34.0/24,JP,JP-13,Tokyo,
 52.144.229.64/26,JP,JP-13,Tokyo,
@@ -4988,6 +4991,7 @@
 2406:daf3:800::/40,MY,MY-14,Kuala Lumpur,
 2406:dafd:800::/40,MY,MY-14,Kuala Lumpur,
 2406:daf4:800::/40,MY,MY-14,Kuala Lumpur,
+2406:da20:8018::/48,MY,MY-14,Kuala Lumpur,
 2406:da10:84f9:9e00::/56,MY,MY-14,Kuala Lumpur,
 96.0.40.0/21,NG,NG-LA,Lagos,
 96.0.36.0/22,NG,NG-LA,Lagos,
