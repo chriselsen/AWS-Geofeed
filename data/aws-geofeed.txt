@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-10-17T20:59:02+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-10-17T22:48:37+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1623,7 +1623,6 @@
 15.230.15.94/31,DE,DE-HE,Frankfurt,
 15.230.15.72/31,DE,DE-HE,Frankfurt,
 3.5.136.0/22,DE,DE-HE,Frankfurt,
-35.96.48.0/24,DE,DE-HE,Frankfurt,
 15.230.15.126/31,DE,DE-HE,Frankfurt,
 15.230.241.0/24,DE,DE-HE,Frankfurt,
 52.219.72.0/22,DE,DE-HE,Frankfurt,
@@ -1745,7 +1744,6 @@
 99.200.0.0/13,DE,DE-HE,Frankfurt,
 99.77.158.0/24,DE,DE-HE,Frankfurt,
 150.222.144.35/32,DE,DE-HE,Frankfurt,
-35.96.50.0/24,DE,DE-HE,Frankfurt,
 150.222.122.0/24,DE,DE-HE,Frankfurt,
 15.230.15.50/31,DE,DE-HE,Frankfurt,
 150.222.152.98/32,DE,DE-HE,Frankfurt,
@@ -1760,7 +1758,6 @@
 3.4.12.33/32,DE,DE-HE,Frankfurt,
 3.64.0.0/12,DE,DE-HE,Frankfurt,
 15.230.15.108/31,DE,DE-HE,Frankfurt,
-35.96.49.0/24,DE,DE-HE,Frankfurt,
 151.148.35.0/24,DE,DE-HE,Frankfurt,
 150.222.36.0/25,DE,DE-HE,Frankfurt,
 52.94.198.48/28,DE,DE-HE,Frankfurt,
@@ -1805,7 +1802,6 @@
 99.78.168.0/23,DE,DE-HE,Frankfurt,
 150.222.144.38/32,DE,DE-HE,Frankfurt,
 150.222.152.34/32,DE,DE-HE,Frankfurt,
-35.96.51.0/24,DE,DE-HE,Frankfurt,
 15.230.15.190/31,DE,DE-HE,Frankfurt,
 99.150.16.0/21,DE,DE-HE,Frankfurt,
 3.120.0.0/14,DE,DE-HE,Frankfurt,
@@ -1853,6 +1849,7 @@
 150.222.152.39/32,DE,DE-HE,Frankfurt,
 15.230.15.4/32,DE,DE-HE,Frankfurt,
 15.248.142.0/24,DE,DE-HE,Frankfurt,
+35.96.48.0/22,DE,DE-HE,Frankfurt,
 52.219.140.0/24,DE,DE-HE,Frankfurt,
 63.184.0.0/13,DE,DE-HE,Frankfurt,
 18.153.0.0/16,DE,DE-HE,Frankfurt,
@@ -8998,6 +8995,7 @@
 2406:da11::/36,ZA,ZA-WC,Cape Town,
 2406:daf8:1000::/40,ZA,ZA-WC,Cape Town,
 2600:f0f0:4144::/48,ZA,ZA-WC,Cape Town,
+2631:1:4800::/48,ZA,ZA-WC,Cape Town,
 2406:da00:1000::/40,ZA,ZA-WC,Cape Town,
 2406:da21::/36,ZA,ZA-WC,Cape Town,
 2406:da32:1000::/40,ZA,ZA-WC,Cape Town,
