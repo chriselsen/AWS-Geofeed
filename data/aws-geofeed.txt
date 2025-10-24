@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-10-24T04:51:26+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-10-24T06:49:48+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -853,6 +853,7 @@
 2600:f0f0:5522::/48,BR,BR-SP,Sao Paulo,
 2600:1f1e::/36,BR,BR-SP,Sao Paulo,
 2600:1fff:e000::/40,BR,BR-SP,Sao Paulo,
+2631:1:4900::/48,BR,BR-SP,Sao Paulo,
 2600:1fef:e000::/40,BR,BR-SP,Sao Paulo,
 2600:1ffd:83d2::/48,BR,BR-SP,Sao Paulo,
 2600:f0f0:1119::/48,BR,BR-SP,Sao Paulo,
@@ -2229,6 +2230,7 @@
 2a05:d032:1000::/40,ES,ES-AR,Aragon,
 2a05:d031:1000::/40,ES,ES-AR,Aragon,
 2a05:d07c:1000::/40,ES,ES-AR,Aragon,
+2631:1:4d00::/48,ES,ES-AR,Aragon,
 2606:f40:2100::/40,ES,ES-AR,Aragon,
 2a05:d070:1000::/40,ES,ES-AR,Aragon,
 2a05:d05b:1000::/40,ES,ES-AR,Aragon,
@@ -3456,6 +3458,7 @@
 2a05:d07a:8000::/40,IE,IE-D,Dublin,
 2600:f0f0:610b::/48,IE,IE-D,Dublin,
 2606:f40:fff0::/48,IE,IE-D,Dublin,
+2631:1:4d41::/48,IE,IE-D,Dublin,
 2a05:d059:8000::/40,IE,IE-D,Dublin,
 2a05:d000:8000::/40,IE,IE-D,Dublin,
 2a05:d079:8000::/40,IE,IE-D,Dublin,
@@ -4100,6 +4103,7 @@
 2a05:d076:a000::/40,IT,IT-MI,Milan,
 2a05:d07f:a000::/40,IT,IT-MI,Milan,
 2a05:d073:a000::/40,IT,IT-MI,Milan,
+2631:1:4cc0::/48,IT,IT-MI,Milan,
 2a05:d040:a000::/40,IT,IT-MI,Milan,
 2a05:d03a:a000:100::/56,IT,IT-MI,Milan,
 2a05:d03a:a000:200::/56,IT,IT-MI,Milan,
@@ -7027,6 +7031,7 @@
 2600:1ff0:5000::/40,US,US-OH,Columbus,
 2600:1ffa:6000::/40,US,US-OH,Columbus,
 2600:1f70:5000::/40,US,US-OH,Columbus,
+2631:1:4f40::/48,US,US-OH,Columbus,
 2600:1f16:8000::/36,US,US-OH,Columbus,
 2600:1ff8:6000::/40,US,US-OH,Columbus,
 2600:1fbb:6000::/40,US,US-OH,Columbus,
@@ -8818,6 +8823,7 @@
 2600:1f19:c000::/36,US,US-VA,Ashburn,
 2605:9cc0:1ff0:8000::/56,US,US-VA,Ashburn,
 2600:1f60:8000::/39,US,US-VA,Ashburn,
+2631:1:4f00::/48,US,US-VA,Ashburn,
 2600:f0fb:f024::/48,US,US-VA,Ashburn,
 2406:da00:ff00::/48,US,US-VA,Ashburn,
 2600:f0f1:8801::/48,US,US-VA,Ashburn,
