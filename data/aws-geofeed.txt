@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-10-25T01:51:53+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-10-27T02:46:51+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -3204,6 +3204,7 @@
 15.230.19.0/24,IE,IE-D,Dublin,
 35.50.195.0/24,IE,IE-D,Dublin,
 150.102.0.0/16,IE,IE-D,Dublin,
+150.247.44.0/24,IE,IE-D,Dublin,
 208.86.90.0/23,IE,IE-D,Dublin,
 15.230.188.0/25,IE,IE-D,Dublin,
 3.4.13.48/28,IE,IE-D,Dublin,
@@ -5118,6 +5119,7 @@
 150.222.203.0/24,SE,SE-AB,Stockholm,
 15.230.96.0/24,SE,SE-AB,Stockholm,
 150.222.42.64/26,SE,SE-AB,Stockholm,
+150.247.42.0/24,SE,SE-AB,Stockholm,
 99.77.137.0/24,SE,SE-AB,Stockholm,
 52.95.227.0/24,SE,SE-AB,Stockholm,
 13.50.0.0/16,SE,SE-AB,Stockholm,
@@ -5256,6 +5258,7 @@
 2a01:578:0:7502::1/128,SE,SE-AB,Stockholm,
 2600:f0f0:1127::/48,SE,SE-AB,Stockholm,
 2a05:d036:6000::/40,SE,SE-AB,Stockholm,
+2600:1f01:4914::/47,SE,SE-AB,Stockholm,
 2600:1f01:48d0::/47,SE,SE-AB,Stockholm,
 2600:f0f0:1129::/48,SE,SE-AB,Stockholm,
 2600:f0f2:701f::/48,SE,SE-AB,Stockholm,
@@ -8091,6 +8094,7 @@
 52.93.127.122/32,US,US-VA,Ashburn,
 98.88.0.0/13,US,US-VA,Ashburn,
 150.222.24.35/32,US,US-VA,Ashburn,
+150.247.43.0/24,US,US-VA,Ashburn,
 52.94.132.0/22,US,US-VA,Ashburn,
 104.255.56.16/32,US,US-VA,Ashburn,
 104.255.56.29/32,US,US-VA,Ashburn,
