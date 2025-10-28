@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-10-28T00:06:38+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-10-28T03:21:22+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1246,7 +1246,9 @@
 96.0.48.0/21,CL,CL-RM,Santiago,
 2600:1fbb:ec00::/40,CL,CL-RM,Santiago,
 2600:1f32:ec00::/40,CL,CL-RM,Santiago,
+2620:107:4000:8300::/56,CL,CL-RM,Santiago,
 2600:1ff4:ec00::/40,CL,CL-RM,Santiago,
+2600:1f00:ec00::/64,CL,CL-RM,Santiago,
 2600:1ffe:ec00::/40,CL,CL-RM,Santiago,
 2600:1ff3:ec00::/40,CL,CL-RM,Santiago,
 2600:1f38:ec00::/40,CL,CL-RM,Santiago,
