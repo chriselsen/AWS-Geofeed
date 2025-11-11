@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-11-10T14:53:04+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-11-11T00:52:50+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1800,6 +1800,7 @@
 15.230.15.27/32,DE,DE-HE,Frankfurt,
 15.230.15.96/31,DE,DE-HE,Frankfurt,
 52.94.204.0/23,DE,DE-HE,Frankfurt,
+216.198.194.0/23,DE,DE-HE,Frankfurt,
 216.244.16.0/21,DE,DE-HE,Frankfurt,
 15.230.15.13/32,DE,DE-HE,Frankfurt,
 52.29.0.0/16,DE,DE-HE,Frankfurt,
