@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-11-12T03:49:47+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-11-12T07:24:35+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -442,6 +442,7 @@
 16.51.86.8/29,AU,AU-VIC,Melbourne,
 2406:daef:f000::/40,AU,AU-VIC,Melbourne,
 2406:da70:f000::/40,AU,AU-VIC,Melbourne,
+2606:7b40:10ff:80::/59,AU,AU-VIC,Melbourne,
 2406:daf0:f000::/40,AU,AU-VIC,Melbourne,
 2406:da36:f000::/40,AU,AU-VIC,Melbourne,
 2406:da61:f000::/40,AU,AU-VIC,Melbourne,
@@ -868,6 +869,7 @@
 2606:f40:be00::/40,BR,BR-SP,Sao Paulo,
 2600:1ff3:e000::/40,BR,BR-SP,Sao Paulo,
 2600:f0f0:e17::/48,BR,BR-SP,Sao Paulo,
+2606:7b40:10ff:40::/59,BR,BR-SP,Sao Paulo,
 2600:f0f0:610c::/48,BR,BR-SP,Sao Paulo,
 2600:1ff2:e000::/40,BR,BR-SP,Sao Paulo,
 2600:f0f0:1:1e00::/56,BR,BR-SP,Sao Paulo,
@@ -2048,6 +2050,7 @@
 2a05:d079:b000::/40,DE,DE-HE,Frankfurt,
 2600:1ffd:80e1::/48,DE,DE-HE,Frankfurt,
 2606:f40:fff8::/48,DE,DE-HE,Frankfurt,
+2606:7b40:10ff:a0::/59,DE,DE-HE,Frankfurt,
 2600:f0f2:7103::/48,DE,DE-HE,Frankfurt,
 2a05:d074:b000::/40,DE,DE-HE,Frankfurt,
 2a05:d06f:4000::/40,DE,DE-HE,Frankfurt,
@@ -4486,6 +4489,7 @@
 2600:f0f0:82::/48,JP,JP-13,Tokyo,
 2600:1f01:4908::/47,JP,JP-13,Tokyo,
 2406:da24::/36,JP,JP-13,Tokyo,
+2606:7b40:10ff:c0::/59,JP,JP-13,Tokyo,
 2406:daf9:4000::/40,JP,JP-13,Tokyo,
 2606:f40:2200::/40,JP,JP-13,Tokyo,
 2406:daff:4000::/40,JP,JP-13,Tokyo,
@@ -7101,6 +7105,7 @@
 2600:1ff2:5000::/40,US,US-OH,Columbus,
 2600:f0f0:1120::/48,US,US-OH,Columbus,
 2600:1f01:4844::/47,US,US-OH,Columbus,
+2606:7b40:10ff:20::/59,US,US-OH,Columbus,
 2600:f0fb:f020::/48,US,US-OH,Columbus,
 2620:107:4000:900b::/64,US,US-OH,Columbus,
 2600:1ffd:831b::/48,US,US-OH,Columbus,
@@ -7661,6 +7666,7 @@
 2606:7b40:1b0f:f400::/56,US,US-OR,Umatilla,
 2606:7b40:f000:1500::/56,US,US-OR,Umatilla,
 2606:f40:c400::/39,US,US-OR,Umatilla,
+2606:7b40:10ff::/59,US,US-OR,Umatilla,
 2606:7b40:1a2f:c310::/60,US,US-OR,Umatilla,
 2620:107:4000:9003::/64,US,US-OR,Umatilla,
 2606:8140:100::/40,US,US-OR,Umatilla,
@@ -9064,6 +9070,7 @@
 2406:dabb:1000::/40,ZA,ZA-WC,Cape Town,
 2406:daea:1000::/40,ZA,ZA-WC,Cape Town,
 2406:dab9:1000::/40,ZA,ZA-WC,Cape Town,
+2606:7b40:10ff:60::/59,ZA,ZA-WC,Cape Town,
 2406:daef:1000::/40,ZA,ZA-WC,Cape Town,
 2406:da61:1000::/40,ZA,ZA-WC,Cape Town,
 2406:dafe:1000::/40,ZA,ZA-WC,Cape Town,
