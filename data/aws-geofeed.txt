@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-12-15T04:59:31+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-12-15T18:57:47+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2562,6 +2562,7 @@
 52.93.138.0/24,GB,GB-LND,London,
 52.93.229.103/32,GB,GB-LND,London,
 150.222.134.0/24,GB,GB-LND,London,
+35.34.96.0/24,GB,GB-LND,London,
 52.93.153.102/32,GB,GB-LND,London,
 52.144.211.128/26,GB,GB-LND,London,
 52.93.153.132/32,GB,GB-LND,London,
@@ -2676,6 +2677,7 @@
 3.5.244.0/22,GB,GB-LND,London,
 52.93.153.67/32,GB,GB-LND,London,
 52.93.229.68/32,GB,GB-LND,London,
+69.107.11.40/29,GB,GB-LND,London,
 52.93.153.173/32,GB,GB-LND,London,
 52.93.229.102/32,GB,GB-LND,London,
 52.93.152.199/32,GB,GB-LND,London,
@@ -2707,6 +2709,7 @@
 150.222.45.128/25,GB,GB-LND,London,
 3.4.12.44/32,GB,GB-LND,London,
 216.39.152.0/21,GB,GB-LND,London,
+69.107.11.32/29,GB,GB-LND,London,
 15.230.190.0/25,GB,GB-LND,London,
 13.134.208.0/23,GB,GB-LND,London,
 13.40.1.192/26,GB,GB-LND,London,
@@ -7204,6 +7207,7 @@
 35.111.254.0/24,US,US-OR,Umatilla,
 52.119.208.0/23,US,US-OR,Umatilla,
 15.205.0.0/16,US,US-OR,Umatilla,
+43.226.27.0/24,US,US-OR,Umatilla,
 52.95.100.0/22,US,US-OR,Umatilla,
 52.119.252.0/22,US,US-OR,Umatilla,
 54.148.0.0/15,US,US-OR,Umatilla,
