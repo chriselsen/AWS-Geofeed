@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-12-19T18:30:30+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-12-19T20:08:41+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -7896,6 +7896,7 @@
 2600:1f1c:4000::/36,US,US-OR,Umatilla,
 2600:1ff3:2000::/40,US,US-OR,Umatilla,
 2600:f0f0:5510::/48,US,US-OR,Umatilla,
+2600:f0f0:5::/48,US,US-OR,Umatilla,
 2600:f0f0:5513::/48,US,US-OR,Umatilla,
 2606:7b40:10ff:a230::/60,US,US-OR,Umatilla,
 2600:f0f0:5502::/48,US,US-OR,Umatilla,
