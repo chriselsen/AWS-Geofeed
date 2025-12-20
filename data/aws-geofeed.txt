@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-12-19T20:08:41+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2025-12-20T01:20:42+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2946,6 +2946,7 @@
 43.198.192.104/29,HK,,Hong Kong,
 43.199.26.124/31,HK,,Hong Kong,
 43.199.26.128/30,HK,,Hong Kong,
+2600:f0f1:4280::/42,HK,,Hong Kong,
 2406:daef:e000::/40,HK,,Hong Kong,
 2406:daf8:e000::/40,HK,,Hong Kong,
 2406:da30:e000::/40,HK,,Hong Kong,
@@ -3869,6 +3870,7 @@
 2600:f0f1:8802::/48,IN,IN-MH,Mumbai,
 2600:f0f0:4102::/48,IN,IN-MH,Mumbai,
 2600:1f01:4912::/47,IN,IN-MH,Mumbai,
+2600:f0f1:40c0::/42,IN,IN-MH,Mumbai,
 2406:da38:a000::/40,IN,IN-MH,Mumbai,
 2406:daf4:a000::/40,IN,IN-MH,Mumbai,
 2600:1f01:4800::/47,IN,IN-MH,Mumbai,
@@ -4534,6 +4536,7 @@
 2406:daf2:4000::/40,JP,JP-13,Tokyo,
 2600:f0f0:1100::/48,JP,JP-13,Tokyo,
 2406:dafa:4000::/40,JP,JP-13,Tokyo,
+2600:f0f1:4440::/42,JP,JP-13,Tokyo,
 2406:da13::/36,JP,JP-13,Tokyo,
 2600:f0f0:82::/48,JP,JP-13,Tokyo,
 2600:1f01:4908::/47,JP,JP-13,Tokyo,
@@ -4714,6 +4717,7 @@
 2600:f0f2:710a::/48,JP,JP-27,Osaka,
 2406:da30:6000::/40,JP,JP-27,Osaka,
 2406:da00:6000::/40,JP,JP-27,Osaka,
+2600:f0f1:4340::/42,JP,JP-27,Osaka,
 2406:da70:6000::/56,JP,JP-27,Osaka,
 2406:da16:856:a500::/56,JP,JP-27,Osaka,
 2406:da16:c46:6600::/56,JP,JP-27,Osaka,
@@ -4915,6 +4919,7 @@
 2600:f0fb:f10a::/48,KR,KR-11,Seoul,
 2406:da61:2000::/40,KR,KR-11,Seoul,
 2600:f0f0:5400::/48,KR,KR-11,Seoul,
+2600:f0f1:4300::/42,KR,KR-11,Seoul,
 2406:daf9:2000::/40,KR,KR-11,Seoul,
 2606:f40:ffd2::/48,KR,KR-11,Seoul,
 2406:dafe:2000::/40,KR,KR-11,Seoul,
@@ -9198,6 +9203,7 @@
 2606:7b40:1b08:100::/56,ZA,ZA-WC,Cape Town,
 2406:daf3:1000::/40,ZA,ZA-WC,Cape Town,
 2600:f0f0:6119::/48,ZA,ZA-WC,Cape Town,
+2600:f0f1:4180::/42,ZA,ZA-WC,Cape Town,
 2406:da11::/36,ZA,ZA-WC,Cape Town,
 2406:daf8:1000::/40,ZA,ZA-WC,Cape Town,
 2600:f0f0:4144::/48,ZA,ZA-WC,Cape Town,
