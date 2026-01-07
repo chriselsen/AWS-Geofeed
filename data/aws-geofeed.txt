@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-07T00:51:18+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-07T02:21:12+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -4631,6 +4631,7 @@
 54.239.1.48/28,JP,JP-27,Osaka,
 173.83.218.0/24,JP,JP-27,Osaka,
 13.248.28.0/22,JP,JP-27,Osaka,
+1.178.101.0/24,JP,JP-27,Osaka,
 56.156.0.0/15,JP,JP-27,Osaka,
 15.230.75.64/26,JP,JP-27,Osaka,
 52.94.249.96/28,JP,JP-27,Osaka,
@@ -4694,6 +4695,7 @@
 15.168.105.144/29,JP,JP-27,Osaka,
 15.168.105.152/29,JP,JP-27,Osaka,
 2406:da60:6000::/40,JP,JP-27,Osaka,
+2600:f0f1:83::/48,JP,JP-27,Osaka,
 2406:da70:6000::/40,JP,JP-27,Osaka,
 2406:daa0:6000::/40,JP,JP-27,Osaka,
 2400:6500:0:7600::/56,JP,JP-27,Osaka,
@@ -5136,6 +5138,7 @@
 52.94.250.144/28,NZ,NZ-AUK,Auckland,
 16.12.82.0/23,NZ,NZ-AUK,Auckland,
 46.168.0.0/15,NZ,NZ-AUK,Auckland,
+1.178.102.0/24,NZ,NZ-AUK,Auckland,
 104.255.59.239/32,NZ,NZ-AUK,Auckland,
 23.254.8.0/21,NZ,NZ-AUK,Auckland,
 182.24.0.0/14,NZ,NZ-AUK,Auckland,
@@ -5158,6 +5161,7 @@
 3.103.24.192/28,NZ,NZ-AUK,Auckland,
 3.102.38.0/24,NZ,NZ-AUK,Auckland,
 2406:da32:2800::/40,NZ,NZ-AUK,Auckland,
+2600:f0f1:84::/48,NZ,NZ-AUK,Auckland,
 2406:da61:2800::/40,NZ,NZ-AUK,Auckland,
 2406:daf6:2800::/40,NZ,NZ-AUK,Auckland,
 2406:dafe:2800::/40,NZ,NZ-AUK,Auckland,
