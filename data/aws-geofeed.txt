@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-07T03:51:45+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-07T16:18:04+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1321,6 +1321,7 @@
 54.223.0.0/16,CN,CN-BJ,Beijing,
 15.230.49.0/24,CN,CN-BJ,Beijing,
 150.222.89.0/24,CN,CN-BJ,Beijing,
+54.222.32.0/22,CN,CN-BJ,Beijing,
 52.81.0.0/16,CN,CN-BJ,Beijing,
 54.222.52.0/22,CN,CN-BJ,Beijing,
 54.222.112.0/20,CN,CN-BJ,Beijing,
@@ -1339,6 +1340,7 @@
 54.222.65.0/24,CN,CN-BJ,Beijing,
 71.136.64.0/18,CN,CN-BJ,Beijing,
 43.196.0.0/16,CN,CN-BJ,Beijing,
+54.222.36.0/22,CN,CN-BJ,Beijing,
 54.222.48.0/22,CN,CN-BJ,Beijing,
 15.230.41.0/24,CN,CN-BJ,Beijing,
 54.222.68.0/23,CN,CN-BJ,Beijing,
@@ -1450,6 +1452,7 @@
 69.230.192.0/18,CN,CN-NX,Ningxia,
 52.93.127.99/32,CN,CN-NX,Ningxia,
 52.82.168.0/24,CN,CN-NX,Ningxia,
+52.82.176.0/22,CN,CN-NX,Ningxia,
 52.93.127.105/32,CN,CN-NX,Ningxia,
 52.82.184.0/23,CN,CN-NX,Ningxia,
 52.82.170.0/24,CN,CN-NX,Ningxia,
@@ -1464,6 +1467,7 @@
 43.192.0.0/16,CN,CN-NX,Ningxia,
 52.93.127.95/32,CN,CN-NX,Ningxia,
 52.93.127.100/32,CN,CN-NX,Ningxia,
+52.82.180.0/22,CN,CN-NX,Ningxia,
 161.189.0.0/16,CN,CN-NX,Ningxia,
 52.93.127.102/32,CN,CN-NX,Ningxia,
 52.82.0.0/17,CN,CN-NX,Ningxia,
@@ -1579,11 +1583,15 @@
 51.0.128.0/21,DE,DE-BE,Berlin
 51.72.0.0/15,DE,DE-BE,Berlin
 51.166.0.0/15,DE,DE-BE,Berlin
+51.0.140.0/23,DE,DE-BE,Berlin
 51.0.0.0/20,DE,DE-BE,Berlin
 83.118.240.0/21,DE,DE-BE,Berlin
 51.224.0.0/15,DE,DE-BE,Berlin
 51.0.252.0/24,DE,DE-BE,Berlin
+51.0.142.0/23,DE,DE-BE,Berlin
 51.0.29.128/28,DE,DE-BE,Berlin
+51.0.136.0/23,DE,DE-BE,Berlin
+51.0.138.0/23,DE,DE-BE,Berlin
 51.0.29.0/28,DE,DE-BE,Berlin
 150.222.54.32/27,DE,DE-BE,Berlin
 51.0.24.0/22,DE,DE-BE,Berlin
@@ -1627,6 +1635,10 @@
 2001:3fc7:c800::/40,DE,DE-BE,Berlin
 2001:3fc2:8000::/36,DE,DE-BE,Berlin
 2001:3fc6:0:100::/56,DE,DE-BE,Berlin
+2001:3fc6:8::/47,DE,DE-BE,Berlin
+2001:3fc6:a::/47,DE,DE-BE,Berlin
+2001:3fc6:c::/47,DE,DE-BE,Berlin
+2001:3fc6:e::/47,DE,DE-BE,Berlin
 15.145.16.0/22,DE,DE-BE,Berlin,
 15.145.4.0/23,DE,DE-BE,Berlin,
 15.145.2.0/23,DE,DE-BY,Munich,
@@ -1924,6 +1936,7 @@
 18.194.0.0/15,DE,DE-HE,Frankfurt,
 99.82.163.0/24,DE,DE-HE,Frankfurt,
 104.255.58.63/32,DE,DE-HE,Frankfurt,
+52.46.184.0/22,DE,DE-HE,Frankfurt,
 52.93.111.0/24,DE,DE-HE,Frankfurt,
 150.222.144.97/32,DE,DE-HE,Frankfurt,
 15.230.15.6/32,DE,DE-HE,Frankfurt,
@@ -1988,6 +2001,8 @@
 18.156.54.0/23,DE,DE-HE,Frankfurt,
 18.192.216.0/22,DE,DE-HE,Frankfurt,
 52.59.127.0/24,DE,DE-HE,Frankfurt,
+18.196.222.0/24,DE,DE-HE,Frankfurt,
+18.196.223.0/24,DE,DE-HE,Frankfurt,
 18.192.142.0/23,DE,DE-HE,Frankfurt,
 18.199.68.0/22,DE,DE-HE,Frankfurt,
 18.199.72.0/22,DE,DE-HE,Frankfurt,
@@ -7050,6 +7065,8 @@
 18.254.140.0/22,US,US-OH,Columbus,
 18.254.148.0/22,US,US-OH,Columbus,
 3.146.84.0/22,US,US-OH,Columbus,
+3.4.24.0/23,US,US-OH,Columbus,
+3.4.26.0/23,US,US-OH,Columbus,
 13.59.250.0/26,US,US-OH,Columbus,
 18.216.170.128/25,US,US-OH,Columbus,
 3.128.93.0/24,US,US-OH,Columbus,
@@ -7418,6 +7435,7 @@
 15.193.136.0/22,US,US-OR,Umatilla,
 35.34.97.0/24,US,US-OR,Umatilla,
 150.222.196.0/24,US,US-OR,Umatilla,
+52.46.180.0/22,US,US-OR,Umatilla,
 216.198.231.0/24,US,US-OR,Umatilla,
 13.248.112.0/24,US,US-OR,Umatilla,
 15.230.92.0/24,US,US-OR,Umatilla,
@@ -7582,6 +7600,8 @@
 35.80.92.0/22,US,US-OR,Umatilla,
 44.234.54.0/23,US,US-OR,Umatilla,
 54.244.46.0/23,US,US-OR,Umatilla,
+34.217.143.0/24,US,US-OR,Umatilla,
+34.217.142.0/24,US,US-OR,Umatilla,
 34.216.51.0/25,US,US-OR,Umatilla,
 34.223.12.224/27,US,US-OR,Umatilla,
 34.223.80.192/26,US,US-OR,Umatilla,
