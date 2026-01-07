@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-07T16:18:04+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-07T22:17:17+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -497,6 +497,7 @@
 99.82.128.0/20,BH,,Bahrain,
 150.222.45.64/27,BH,,Bahrain,
 35.50.210.0/24,BH,,Bahrain,
+1.178.16.0/24,BH,,Bahrain,
 99.77.147.0/24,BH,,Bahrain,
 99.77.236.0/24,BH,,Bahrain,
 99.82.144.0/21,BH,,Bahrain,
@@ -628,6 +629,7 @@
 2600:1f01:4910::/47,BH,,Bahrain,
 2a05:d000:e000::/40,BH,,Bahrain,
 2a05:d079:e000::/40,BH,,Bahrain,
+2600:f0f1:86::/48,BH,,Bahrain,
 2a01:578:0:7601::1/128,BH,,Bahrain,
 2a01:578:0:7602::1/128,BH,,Bahrain,
 2a05:d07c:e000::/40,BH,,Bahrain,
@@ -4059,6 +4061,7 @@
 54.240.236.45/32,IT,IT-MI,Milan,
 54.240.236.33/32,IT,IT-MI,Milan,
 54.240.236.49/32,IT,IT-MI,Milan,
+1.178.17.0/24,IT,IT-MI,Milan,
 52.93.133.133/32,IT,IT-MI,Milan,
 54.240.236.10/32,IT,IT-MI,Milan,
 15.230.187.0/24,IT,IT-MI,Milan,
@@ -4206,6 +4209,7 @@
 2600:f0f1:4400::/42,IT,IT-MI,Milan,
 2a05:d030:a000::/40,IT,IT-MI,Milan,
 2a05:d038:a000::/40,IT,IT-MI,Milan,
+2600:f0f1:87::/48,IT,IT-MI,Milan,
 2a05:d059:a000::/40,IT,IT-MI,Milan,
 2a05:d036:a000::/40,IT,IT-MI,Milan,
 2a05:d079:a000::/40,IT,IT-MI,Milan,
@@ -5078,6 +5082,7 @@
 56.70.0.0/16,MY,MY-14,Kuala Lumpur,
 94.38.0.0/15,MY,MY-14,Kuala Lumpur,
 76.223.170.32/28,MY,MY-14,Kuala Lumpur,
+1.178.102.0/24,MY,MY-14,Kuala Lumpur,
 104.255.59.200/32,MY,MY-14,Kuala Lumpur,
 56.68.0.0/17,MY,MY-14,Kuala Lumpur,
 104.255.61.0/32,MY,MY-14,Kuala Lumpur,
@@ -5109,6 +5114,7 @@
 2406:daef:800::/40,MY,MY-14,Kuala Lumpur,
 2406:dafc:800::/40,MY,MY-14,Kuala Lumpur,
 2406:da61:800::/40,MY,MY-14,Kuala Lumpur,
+2600:f0f1:84::/48,MY,MY-14,Kuala Lumpur,
 2406:daf2:800::/40,MY,MY-14,Kuala Lumpur,
 2406:da38:800::/40,MY,MY-14,Kuala Lumpur,
 2406:dab9:800::/40,MY,MY-14,Kuala Lumpur,
@@ -5155,7 +5161,6 @@
 52.94.250.144/28,NZ,NZ-AUK,Auckland,
 16.12.82.0/23,NZ,NZ-AUK,Auckland,
 46.168.0.0/15,NZ,NZ-AUK,Auckland,
-1.178.102.0/24,NZ,NZ-AUK,Auckland,
 104.255.59.239/32,NZ,NZ-AUK,Auckland,
 23.254.8.0/21,NZ,NZ-AUK,Auckland,
 182.24.0.0/14,NZ,NZ-AUK,Auckland,
@@ -5178,7 +5183,6 @@
 3.103.24.192/28,NZ,NZ-AUK,Auckland,
 3.102.38.0/24,NZ,NZ-AUK,Auckland,
 2406:da32:2800::/40,NZ,NZ-AUK,Auckland,
-2600:f0f1:84::/48,NZ,NZ-AUK,Auckland,
 2406:da61:2800::/40,NZ,NZ-AUK,Auckland,
 2406:daf6:2800::/40,NZ,NZ-AUK,Auckland,
 2406:dafe:2800::/40,NZ,NZ-AUK,Auckland,
