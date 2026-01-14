@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-14T13:18:28+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-14T20:50:13+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -6962,6 +6962,7 @@
 15.230.39.76/31,US,US-OH,Columbus,
 15.230.71.192/26,US,US-OH,Columbus,
 108.166.244.39/32,US,US-OH,Columbus,
+103.13.189.0/24,US,US-OH,Columbus,
 108.166.244.14/32,US,US-OH,Columbus,
 108.166.244.33/32,US,US-OH,Columbus,
 13.58.0.0/15,US,US-OH,Columbus,
@@ -7288,6 +7289,7 @@
 2600:1f28:c000::/36,US,US-OH,Columbus,
 2620:107:4000:7a00::/56,US,US-OH,Columbus,
 2600:1f00:6000::/40,US,US-OH,Columbus,
+2600:f0f0:78::/45,US,US-OH,Columbus,
 2600:1f26::/36,US,US-OH,Columbus,
 2600:1fa0:5000::/40,US,US-OH,Columbus,
 2600:1fb9:6000::/40,US,US-OH,Columbus,
@@ -7384,6 +7386,7 @@
 150.222.182.15/32,US,US-OR,Umatilla,
 35.50.133.0/24,US,US-OR,Umatilla,
 64.252.72.0/24,US,US-OR,Umatilla,
+103.13.188.0/24,US,US-OR,Umatilla,
 1.178.65.0/24,US,US-OR,Umatilla,
 3.4.3.0/24,US,US-OR,Umatilla,
 52.93.12.0/24,US,US-OR,Umatilla,
@@ -7576,7 +7579,6 @@
 35.96.245.0/24,US,US-OR,Umatilla,
 52.94.197.0/24,US,US-OR,Umatilla,
 54.184.0.0/13,US,US-OR,Umatilla,
-103.13.188.0/23,US,US-OR,Umatilla,
 16.147.0.0/16,US,US-OR,Umatilla,
 52.94.152.188/32,US,US-OR,Umatilla,
 52.94.152.192/32,US,US-OR,Umatilla,
@@ -7841,6 +7843,7 @@
 18.98.20.128/25,US,US-OR,Umatilla,
 18.246.107.128/29,US,US-OR,Umatilla,
 18.246.107.8/29,US,US-OR,Umatilla,
+2600:f0f0:70::/45,US,US-OR,Umatilla,
 2600:f0f2:7017::/48,US,US-OR,Umatilla,
 2606:7b40:10ff:d200::/60,US,US-OR,Umatilla,
 2600:1f01:4874::/47,US,US-OR,Umatilla,
@@ -7875,7 +7878,6 @@
 2600:f0f0:5516::/48,US,US-OR,Umatilla,
 2620:107:4000:4205::/64,US,US-OR,Umatilla,
 2600:f0f0:0:300::/56,US,US-OR,Umatilla,
-2600:f0f0:70::/44,US,US-OR,Umatilla,
 2606:7b40:10ff:7270::/60,US,US-OR,Umatilla,
 2600:1f16:c000::/36,US,US-OR,Umatilla,
 2600:1f21:c000::/36,US,US-OR,Umatilla,
