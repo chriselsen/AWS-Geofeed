@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-14T22:19:51+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-15T01:18:30+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -612,6 +612,7 @@
 2a05:d02e::/36,BH,,Bahrain,
 2a05:d072:e000::/40,BH,,Bahrain,
 2600:f0f0:552c::/48,BH,,Bahrain,
+2600:f0f0:e1e::/48,BH,,Bahrain,
 2a05:d031:e000::/40,BH,,Bahrain,
 2600:f0f0:552f::/48,BH,,Bahrain,
 2600:f0f0:552b::/48,BH,,Bahrain,
@@ -623,6 +624,7 @@
 2a05:d040:e000::/40,BH,,Bahrain,
 2600:f0f0:e04::/48,BH,,Bahrain,
 2a05:d074:e000::/40,BH,,Bahrain,
+2600:f0f0:e1f::/48,BH,,Bahrain,
 2600:f0f0:552d::/48,BH,,Bahrain,
 2a05:d06f:e000::/40,BH,,Bahrain,
 2a05:d038:e000::/40,BH,,Bahrain,
@@ -631,6 +633,7 @@
 2a01:578:0:7600::1/128,BH,,Bahrain,
 2600:f0f0:6111::/48,BH,,Bahrain,
 2a05:d07e:e000::/40,BH,,Bahrain,
+2600:f0f0:e20::/48,BH,,Bahrain,
 2600:f0f0:8107::/48,BH,,Bahrain,
 2600:f0f0:552a::/48,BH,,Bahrain,
 2600:f0f1:4040::/42,BH,,Bahrain,
@@ -3576,6 +3579,7 @@
 2a05:d06b:8000::/40,IE,IE-D,Dublin,
 2600:f0f0:1113::/48,IE,IE-D,Dublin,
 2600:f0f0:1114::/48,IE,IE-D,Dublin,
+2600:f0f0:e1b::/48,IE,IE-D,Dublin,
 2a05:d031:8000::/40,IE,IE-D,Dublin,
 2a01:578:0:7000::/56,IE,IE-D,Dublin,
 2600:f0f0:5528::/48,IE,IE-D,Dublin,
@@ -3599,6 +3603,7 @@
 2600:f0f0:4108::/48,IE,IE-D,Dublin,
 2a05:d028::/36,IE,IE-D,Dublin,
 2a05:d07c:8000::/40,IE,IE-D,Dublin,
+2600:f0f0:e1d::/48,IE,IE-D,Dublin,
 2606:7b40:1b0d:4000::/56,IE,IE-D,Dublin,
 2600:1ffd:83ad::/48,IE,IE-D,Dublin,
 2600:f00e::/39,IE,IE-D,Dublin,
@@ -3614,6 +3619,7 @@
 2a05:d000:8000::/40,IE,IE-D,Dublin,
 2a05:d079:8000::/40,IE,IE-D,Dublin,
 2a05:d070:8000::/40,IE,IE-D,Dublin,
+2600:f0f0:e1c::/48,IE,IE-D,Dublin,
 2a05:d038:8000::/40,IE,IE-D,Dublin,
 2600:f0f2:7015::/48,IE,IE-D,Dublin,
 2631:1:4d40::/48,IE,IE-D,Dublin,
@@ -6880,6 +6886,7 @@
 15.230.39.168/31,US,US-OH,Columbus,
 15.230.39.204/31,US,US-OH,Columbus,
 18.97.128.0/18,US,US-OH,Columbus,
+35.111.164.0/24,US,US-OH,Columbus,
 99.78.176.0/21,US,US-OH,Columbus,
 15.230.39.16/31,US,US-OH,Columbus,
 15.230.39.78/31,US,US-OH,Columbus,
