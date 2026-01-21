@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-21T20:17:07+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-21T21:49:08+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -4646,6 +4646,7 @@
 2606:7b40:1b05:c000::/56,JP,JP-13,Tokyo,
 2631:1:45c0::/48,JP,JP-13,Tokyo,
 2400:6700::/48,JP,JP-13,Tokyo,
+2606:7b40:1b05:c100::/56,JP,JP-13,Tokyo,
 2406:dab9:4000::/40,JP,JP-13,Tokyo,
 2406:da36:4000::/40,JP,JP-13,Tokyo,
 2406:daef:4000::/40,JP,JP-13,Tokyo,
