@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-22T21:50:49+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-22T23:20:55+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1310,6 +1310,7 @@
 16.15.24.0/22,CL,CL-RM,Santiago,
 76.223.170.128/28,CL,CL-RM,Santiago,
 52.94.250.176/28,CL,CL-RM,Santiago,
+83.162.0.0/15,CL,CL-RM,Santiago,
 150.222.55.96/27,CL,CL-RM,Santiago,
 15.190.160.0/20,CL,CL-RM,Santiago,
 15.190.232.0/22,CL,CL-RM,Santiago,
@@ -2973,6 +2974,7 @@
 16.12.8.0/24,HK,,Hong Kong,
 54.240.241.0/24,HK,,Hong Kong,
 54.46.0.0/17,HK,,Hong Kong,
+76.162.0.0/15,HK,,Hong Kong,
 52.93.156.0/22,HK,,Hong Kong,
 150.222.48.0/26,HK,,Hong Kong,
 99.150.88.0/21,HK,,Hong Kong,
@@ -5397,6 +5399,7 @@
 52.95.227.0/24,SE,SE-AB,Stockholm,
 13.50.0.0/16,SE,SE-AB,Stockholm,
 13.62.0.0/15,SE,SE-AB,Stockholm,
+86.112.0.0/15,SE,SE-AB,Stockholm,
 16.196.0.0/16,SE,SE-AB,Stockholm,
 51.21.0.0/16,SE,SE-AB,Stockholm,
 35.71.98.0/24,SE,SE-AB,Stockholm,
@@ -6042,6 +6045,7 @@
 72.242.0.0/15,TW,TW-TPE,Taipei,
 52.94.250.128/28,TW,TW-TPE,Taipei,
 54.54.0.0/16,TW,TW-TPE,Taipei,
+15.143.0.0/16,TW,TW-TPE,Taipei,
 104.255.59.215/32,TW,TW-TPE,Taipei,
 43.212.62.0/23,TW,TW-TPE,Taipei,
 43.212.65.0/24,TW,TW-TPE,Taipei,
