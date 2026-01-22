@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-22T20:18:53+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-22T21:50:49+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2250,6 +2250,7 @@
 15.177.97.0/24,ES,ES-AR,Aragon,
 52.95.138.0/24,ES,ES-AR,Aragon,
 104.255.58.43/32,ES,ES-AR,Aragon,
+89.60.0.0/15,ES,ES-AR,Aragon,
 35.42.0.0/16,ES,ES-AR,Aragon,
 52.94.249.240/28,ES,ES-AR,Aragon,
 104.255.58.0/32,ES,ES-AR,Aragon,
@@ -4487,6 +4488,7 @@
 15.230.129.0/24,JP,JP-13,Tokyo,
 150.247.36.0/24,JP,JP-13,Tokyo,
 13.230.0.0/15,JP,JP-13,Tokyo,
+32.232.0.0/16,JP,JP-13,Tokyo,
 18.176.0.0/15,JP,JP-13,Tokyo,
 52.93.66.0/24,JP,JP-13,Tokyo,
 52.93.72.0/23,JP,JP-13,Tokyo,
@@ -5684,6 +5686,7 @@
 15.230.4.130/32,SG,SG-01,Singapore,
 96.0.136.0/21,SG,SG-01,Singapore,
 52.93.127.111/32,SG,SG-01,Singapore,
+16.158.0.0/15,SG,SG-01,Singapore,
 52.219.128.0/22,SG,SG-01,Singapore,
 69.107.7.0/29,SG,SG-01,Singapore,
 173.83.219.0/24,SG,SG-01,Singapore,
@@ -7482,6 +7485,7 @@
 16.146.0.0/16,US,US-OR,Umatilla,
 150.222.176.0/22,US,US-OR,Umatilla,
 16.12.104.0/21,US,US-OR,Umatilla,
+32.184.0.0/13,US,US-OR,Umatilla,
 99.77.152.0/24,US,US-OR,Umatilla,
 35.96.7.0/24,US,US-OR,Umatilla,
 54.240.248.0/21,US,US-OR,Umatilla,
