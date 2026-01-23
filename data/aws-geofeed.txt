@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-23T00:49:02+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-23T20:19:12+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1632,6 +1632,7 @@
 83.118.240.0/21,DE,DE-BE,Berlin
 51.224.0.0/15,DE,DE-BE,Berlin
 51.0.252.0/24,DE,DE-BE,Berlin
+51.172.0.0/15,DE,DE-BE,Berlin
 51.0.142.0/23,DE,DE-BE,Berlin
 51.0.29.128/28,DE,DE-BE,Berlin
 51.0.136.0/23,DE,DE-BE,Berlin
@@ -1655,6 +1656,7 @@
 2001:3fc7:1800::/40,DE,DE-BE,Berlin
 2001:3fc5:8800::/40,DE,DE-BE,Berlin
 2001:3fc3:2800::/40,DE,DE-BE,Berlin
+2001:3fc6:1::/48,DE,DE-BE,Berlin
 2001:3fc4:800::/40,DE,DE-BE,Berlin
 2001:3fc7:5800::/40,DE,DE-BE,Berlin
 2001:3fc7:9800::/40,DE,DE-BE,Berlin
@@ -2720,6 +2722,7 @@
 52.93.153.174/32,GB,GB-LND,London,
 52.93.229.134/32,GB,GB-LND,London,
 64.252.83.0/24,GB,GB-LND,London,
+65.176.0.0/15,GB,GB-LND,London,
 52.93.153.175/32,GB,GB-LND,London,
 52.93.153.130/32,GB,GB-LND,London,
 3.4.12.46/32,GB,GB-LND,London,
@@ -5938,6 +5941,7 @@
 2406:da18:fff:f800::/56,SG,SG-01,Singapore,
 2406:da28:28::/48,SG,SG-01,Singapore,
 2406:da18:752:6600::/56,SG,SG-01,Singapore,
+65.178.0.0/15,TH,TH-10,Bangkok,
 3.5.60.0/22,TH,TH-10,Bangkok,
 104.255.59.208/32,TH,TH-10,Bangkok,
 13.248.77.0/24,TH,TH-10,Bangkok,
@@ -8730,6 +8734,7 @@
 52.93.90.197/32,US,US-VA,Ashburn,
 52.93.243.0/24,US,US-VA,Ashburn,
 52.93.249.0/24,US,US-VA,Ashburn,
+184.192.0.0/12,US,US-VA,Ashburn,
 207.171.160.0/20,US,US-VA,Ashburn,
 54.26.166.0/24,US,US-VA,Ashburn,
 31.220.236.0/24,US,US-VA,Ashburn,
