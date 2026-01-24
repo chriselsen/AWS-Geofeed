@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-24T00:50:54+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-01-24T03:50:38+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -193,6 +193,7 @@
 52.64.0.0/17,AU,AU-NSW,Sydney,
 52.119.210.0/23,AU,AU-NSW,Sydney,
 35.55.10.0/24,AU,AU-NSW,Sydney,
+40.35.0.0/16,AU,AU-NSW,Sydney,
 69.107.9.216/29,AU,AU-NSW,Sydney,
 15.230.78.128/26,AU,AU-NSW,Sydney,
 104.255.59.88/32,AU,AU-NSW,Sydney,
@@ -224,6 +225,7 @@
 52.94.152.178/32,AU,AU-NSW,Sydney,
 99.78.170.0/23,AU,AU-NSW,Sydney,
 35.71.97.0/24,AU,AU-NSW,Sydney,
+40.32.0.0/16,AU,AU-NSW,Sydney,
 136.18.23.0/24,AU,AU-NSW,Sydney,
 52.62.0.0/15,AU,AU-NSW,Sydney,
 18.98.192.0/19,AU,AU-NSW,Sydney,
@@ -959,6 +961,8 @@
 35.96.44.0/24,CA,CA-AB,Calgary,
 1.178.26.0/24,CA,CA-AB,Calgary,
 76.223.170.0/28,CA,CA-AB,Calgary,
+40.201.0.0/16,CA,CA-AB,Calgary,
+40.188.0.0/16,CA,CA-AB,Calgary,
 52.94.250.48/28,CA,CA-AB,Calgary,
 16.12.56.0/23,CA,CA-AB,Calgary,
 150.222.52.128/27,CA,CA-AB,Calgary,
