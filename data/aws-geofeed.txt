@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-02-10T02:21:08+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-02-10T03:52:17+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -5356,6 +5356,7 @@
 2406:daf3:2800::/40,NZ,NZ-AUK,Auckland,
 2406:dabb:2800::/40,NZ,NZ-AUK,Auckland,
 2406:da60:2800::/40,NZ,NZ-AUK,Auckland,
+2606:7b40:1b05::/56,NZ,NZ-AUK,Auckland,
 2406:da22:8000::/36,NZ,NZ-AUK,Auckland,
 2600:f0f2:7021::/48,NZ,NZ-AUK,Auckland,
 2406:daf8:2800::/40,NZ,NZ-AUK,Auckland,
@@ -8090,6 +8091,7 @@
 2606:f40:400::/39,US,US-OR,Umatilla,
 2606:7b40:10ff:a220::/60,US,US-OR,Umatilla,
 2606:7b40:1000:8000::/56,US,US-OR,Umatilla,
+2606:7b40:1a3f:c330::/60,US,US-OR,Umatilla,
 2606:7b40:1000:7240::/60,US,US-OR,Umatilla,
 2606:8140:400::/40,US,US-OR,Umatilla,
 2606:7b40:f000:1700::/56,US,US-OR,Umatilla,
