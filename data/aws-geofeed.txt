@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-02-09T23:21:26+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-02-10T02:21:08+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2167,6 +2167,7 @@
 2a05:d000:4000::/40,DE,DE-HE,Frankfurt,
 2a05:d072:4000::/40,DE,DE-HE,Frankfurt,
 2631:0:8::/48,DE,DE-HE,Frankfurt,
+2606:7b40:1a2c:330::/60,DE,DE-HE,Frankfurt,
 2a05:d030:4000::/40,DE,DE-HE,Frankfurt,
 2a05:d031:b000::/40,DE,DE-HE,Frankfurt,
 2a05:d01b::/36,DE,DE-HE,Frankfurt,
@@ -3206,6 +3207,7 @@
 2600:f0f1:89::/48,ID,ID-JK,Jakarta,
 2400:6500:0:7800::/56,ID,ID-JK,Jakarta,
 2620:107:4000:a900::/58,ID,ID-JK,Jakarta,
+2606:7b40:1b07:8000::/56,ID,ID-JK,Jakarta,
 2406:daff:9000::/40,ID,ID-JK,Jakarta,
 2406:da61:9000::/40,ID,ID-JK,Jakarta,
 2406:daf8:9000::/40,ID,ID-JK,Jakarta,
@@ -8047,6 +8049,7 @@
 2620:108:d000::/44,US,US-OR,Umatilla,
 2600:1ffa:4000::/40,US,US-OR,Umatilla,
 2620:107:4000:7400::/56,US,US-OR,Umatilla,
+2606:7b40:1a2f:c330::/60,US,US-OR,Umatilla,
 2620:107:4000:9012::/64,US,US-OR,Umatilla,
 2606:7b40:1000:7200::/60,US,US-OR,Umatilla,
 2606:7b40:10ff:b000::/56,US,US-OR,Umatilla,
