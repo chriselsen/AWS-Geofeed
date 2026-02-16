@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-02-16T21:21:55+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-02-16T22:52:31+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -215,6 +215,7 @@
 15.230.222.0/24,AU,AU-NSW,Sydney,
 15.221.20.0/22,AU,AU-NSW,Sydney,
 150.222.43.96/27,AU,AU-NSW,Sydney,
+16.214.40.0/22,AU,AU-NSW,Sydney,
 52.64.128.0/17,AU,AU-NSW,Sydney,
 52.93.33.11/32,AU,AU-NSW,Sydney,
 3.4.12.2/32,AU,AU-NSW,Sydney,
@@ -785,6 +786,7 @@
 15.230.73.0/26,BR,BR-SP,Sao Paulo,
 15.251.0.24/32,BR,BR-SP,Sao Paulo,
 15.230.63.4/31,BR,BR-SP,Sao Paulo,
+16.214.48.0/22,BR,BR-SP,Sao Paulo,
 150.222.0.0/24,BR,BR-SP,Sao Paulo,
 52.67.0.0/16,BR,BR-SP,Sao Paulo,
 54.233.64.0/18,BR,BR-SP,Sao Paulo,
@@ -1962,6 +1964,7 @@
 15.230.15.10/32,DE,DE-HE,Frankfurt,
 52.219.44.0/22,DE,DE-HE,Frankfurt,
 52.219.169.0/24,DE,DE-HE,Frankfurt,
+51.102.0.0/16,DE,DE-HE,Frankfurt,
 54.239.0.160/28,DE,DE-HE,Frankfurt,
 150.222.144.66/32,DE,DE-HE,Frankfurt,
 150.222.139.116/30,DE,DE-HE,Frankfurt,
@@ -3505,6 +3508,7 @@
 52.93.41.0/24,IE,IE-D,Dublin,
 35.97.130.0/24,IE,IE-D,Dublin,
 52.93.43.0/24,IE,IE-D,Dublin,
+16.214.16.0/22,IE,IE-D,Dublin,
 52.93.183.80/28,IE,IE-D,Dublin,
 3.4.12.53/32,IE,IE-D,Dublin,
 34.248.0.0/13,IE,IE-D,Dublin,
@@ -4395,6 +4399,7 @@
 15.221.34.0/24,JP,JP-13,Tokyo,
 52.144.229.64/26,JP,JP-13,Tokyo,
 13.248.70.0/24,JP,JP-13,Tokyo,
+16.214.32.0/22,JP,JP-13,Tokyo,
 52.144.225.128/26,JP,JP-13,Tokyo,
 43.206.0.0/15,JP,JP-13,Tokyo,
 54.248.0.0/15,JP,JP-13,Tokyo,
@@ -4972,6 +4977,7 @@
 35.50.237.0/24,KR,KR-11,Seoul,
 18.98.128.0/19,KR,KR-11,Seoul,
 99.78.184.0/22,KR,KR-11,Seoul,
+16.214.52.0/22,KR,KR-11,Seoul,
 52.93.248.0/24,KR,KR-11,Seoul,
 150.222.41.0/26,KR,KR-11,Seoul,
 13.125.0.0/16,KR,KR-11,Seoul,
@@ -6949,6 +6955,7 @@
 15.230.39.242/31,US,US-OH,Columbus,
 104.255.57.176/32,US,US-OH,Columbus,
 15.230.39.66/31,US,US-OH,Columbus,
+16.214.56.0/22,US,US-OH,Columbus,
 35.96.254.0/24,US,US-OH,Columbus,
 52.93.199.47/32,US,US-OH,Columbus,
 18.190.0.0/16,US,US-OH,Columbus,
