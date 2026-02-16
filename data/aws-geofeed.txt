@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-02-16T19:51:52+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-02-16T21:21:55+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1852,6 +1852,7 @@
 15.230.15.5/32,DE,DE-HE,Frankfurt,
 150.222.152.103/32,DE,DE-HE,Frankfurt,
 15.230.15.206/31,DE,DE-HE,Frankfurt,
+16.214.28.0/22,DE,DE-HE,Frankfurt,
 3.4.15.160/29,DE,DE-HE,Frankfurt,
 15.230.15.214/31,DE,DE-HE,Frankfurt,
 15.230.15.130/31,DE,DE-HE,Frankfurt,
@@ -2304,6 +2305,7 @@
 16.15.12.0/22,ES,ES-AR,Aragon,
 3.2.83.0/24,ES,ES-AR,Aragon,
 35.44.0.0/15,ES,ES-AR,Aragon,
+16.214.24.0/22,ES,ES-AR,Aragon,
 54.239.1.192/28,ES,ES-AR,Aragon,
 18.100.0.0/15,ES,ES-AR,Aragon,
 150.222.50.96/27,ES,ES-AR,Aragon,
@@ -2835,6 +2837,7 @@
 52.93.229.101/32,GB,GB-LND,London,
 52.144.211.194/31,GB,GB-LND,London,
 15.230.43.0/24,GB,GB-LND,London,
+16.214.20.0/22,GB,GB-LND,London,
 52.93.153.98/32,GB,GB-LND,London,
 52.93.229.133/32,GB,GB-LND,London,
 52.93.153.178/32,GB,GB-LND,London,
@@ -4106,6 +4109,7 @@
 104.255.59.125/32,IN,IN-TG,Hyderabad,
 15.249.0.0/16,IN,IN-TG,Hyderabad,
 15.227.0.0/16,IN,IN-TG,Hyderabad,
+16.214.44.0/22,IN,IN-TG,Hyderabad,
 99.87.8.0/21,IN,IN-TG,Hyderabad,
 150.222.50.128/27,IN,IN-TG,Hyderabad,
 40.195.0.0/16,IN,IN-TG,Hyderabad,
@@ -5648,6 +5652,7 @@
 47.128.0.0/14,SG,SG-01,Singapore,
 52.93.127.112/32,SG,SG-01,Singapore,
 122.248.192.0/18,SG,SG-01,Singapore,
+16.214.36.0/22,SG,SG-01,Singapore,
 15.221.36.0/22,SG,SG-01,Singapore,
 3.4.15.56/29,SG,SG-01,Singapore,
 16.12.48.0/21,SG,SG-01,Singapore,
@@ -6337,6 +6342,7 @@
 15.251.0.2/32,US,US-CA,San Francisco,
 52.93.178.181/32,US,US-CA,San Francisco,
 64.252.123.0/24,US,US-CA,San Francisco,
+16.214.4.0/22,US,US-CA,San Francisco,
 176.32.112.0/21,US,US-CA,San Francisco,
 52.93.53.1/32,US,US-CA,San Francisco,
 52.93.178.192/32,US,US-CA,San Francisco,
@@ -7576,6 +7582,7 @@
 16.12.104.0/21,US,US-OR,Umatilla,
 32.184.0.0/13,US,US-OR,Umatilla,
 99.77.152.0/24,US,US-OR,Umatilla,
+16.214.8.0/22,US,US-OR,Umatilla,
 35.96.7.0/24,US,US-OR,Umatilla,
 54.240.248.0/21,US,US-OR,Umatilla,
 64.73.192.128/27,US,US-OR,Umatilla,
@@ -9038,6 +9045,7 @@
 52.93.91.104/32,US,US-VA,Ashburn,
 52.93.123.99/32,US,US-VA,Ashburn,
 3.3.2.0/24,US,US-VA,Ashburn,
+16.214.0.0/22,US,US-VA,Ashburn,
 64.73.198.32/27,US,US-VA,Ashburn,
 23.228.228.0/22,US,US-VA,Ashburn,
 52.93.84.161/32,US,US-VA,Ashburn,
