@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-02-17T22:25:50+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-02-18T00:23:08+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -800,6 +800,7 @@
 52.95.255.0/28,BR,BR-SP,Sao Paulo,
 150.222.51.32/27,BR,BR-SP,Sao Paulo,
 35.71.106.0/24,BR,BR-SP,Sao Paulo,
+15.129.30.0/24,BR,BR-SP,Sao Paulo,
 3.5.232.0/22,BR,BR-SP,Sao Paulo,
 88.106.0.0/15,BR,BR-SP,Sao Paulo,
 54.207.0.0/16,BR,BR-SP,Sao Paulo,
@@ -5434,6 +5435,7 @@
 2a05:d032:800::/40,SA,SA-01,Riyadh,
 2a05:d03a:800::/40,SA,SA-01,Riyadh,
 2a05:d038:800::/40,SA,SA-01,Riyadh,
+2a05:d000:800::/40,SA,SA-01,Riyadh,
 2a05:d020:8000::/36,SA,SA-01,Riyadh,
 2a05:d05b:800::/40,SA,SA-01,Riyadh,
 2a05:d059:800::/40,SA,SA-01,Riyadh,
@@ -5444,7 +5446,6 @@
 2a05:d040:800::/40,SA,SA-01,Riyadh,
 2a05:d030:800::/40,SA,SA-01,Riyadh,
 2a05:d078:800::/40,SA,SA-01,Riyadh,
-2a05:d000:800::/64,SA,SA-01,Riyadh,
 2a05:d072:800::/40,SA,SA-01,Riyadh,
 2a05:d036:800::/40,SA,SA-01,Riyadh,
 2a01:578:0:7a00::/56,SA,SA-01,Riyadh,
