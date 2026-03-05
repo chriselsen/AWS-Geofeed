@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-03-05T01:24:10+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-03-05T03:04:25+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -5378,6 +5378,7 @@
 150.222.54.224/27,NZ,NZ-AUK,Auckland,
 15.190.240.0/22,NZ,NZ-AUK,Auckland,
 3.102.0.0/15,NZ,NZ-AUK,Auckland,
+3.2.102.0/24,NZ,NZ-AUK,Auckland,
 3.102.47.0/24,NZ,NZ-AUK,Auckland,
 3.102.48.0/24,NZ,NZ-AUK,Auckland,
 3.102.49.0/24,NZ,NZ-AUK,Auckland,
@@ -5396,6 +5397,7 @@
 2406:daeb:2800::/40,NZ,NZ-AUK,Auckland,
 2406:da61:2800::/40,NZ,NZ-AUK,Auckland,
 2406:daf6:2800::/40,NZ,NZ-AUK,Auckland,
+2600:f0f0:6126::/48,NZ,NZ-AUK,Auckland,
 2406:dafe:2800::/40,NZ,NZ-AUK,Auckland,
 2406:da38:2800::/40,NZ,NZ-AUK,Auckland,
 2406:daff:2800::/40,NZ,NZ-AUK,Auckland,
@@ -6126,6 +6128,7 @@
 104.255.59.216/32,TW,TW-TPE,Taipei,
 104.255.59.212/32,TW,TW-TPE,Taipei,
 150.222.53.224/27,TW,TW-TPE,Taipei,
+3.2.101.0/24,TW,TW-TPE,Taipei,
 3.5.196.0/22,TW,TW-TPE,Taipei,
 15.220.80.0/20,TW,TW-TPE,Taipei,
 104.255.59.214/32,TW,TW-TPE,Taipei,
@@ -6185,6 +6188,7 @@
 2400:6500:0:7e00::/56,TW,TW-TPE,Taipei,
 2406:dabb:c800::/40,TW,TW-TPE,Taipei,
 2406:da2c:8000::/36,TW,TW-TPE,Taipei,
+2600:f0f0:6125::/48,TW,TW-TPE,Taipei,
 2406:dafc:c800::/40,TW,TW-TPE,Taipei,
 2406:daff:c800::/40,TW,TW-TPE,Taipei,
 2406:daa0:c800::/40,TW,TW-TPE,Taipei,
