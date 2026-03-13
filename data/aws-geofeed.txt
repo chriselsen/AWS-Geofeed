@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-03-12T18:33:20+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-03-13T00:28:19+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1858,7 +1858,6 @@
 52.95.255.128/28,DE,DE-HE,Frankfurt,
 150.222.10.0/24,DE,DE-HE,Frankfurt,
 15.230.15.142/31,DE,DE-HE,Frankfurt,
-83.119.128.0/18,DE,DE-HE,Frankfurt,
 150.222.144.71/32,DE,DE-HE,Frankfurt,
 54.239.54.0/23,DE,DE-HE,Frankfurt,
 15.230.15.31/32,DE,DE-HE,Frankfurt,
@@ -2205,7 +2204,6 @@
 2a01:578:0:7100::/56,DE,DE-HE,Frankfurt,
 2600:f002:c000::/40,DE,DE-HE,Frankfurt,
 2600:1f01:4902::/65,DE,DE-HE,Frankfurt,
-2a05:d02b::/36,DE,DE-HE,Frankfurt,
 2600:f0f0:810c::/48,DE,DE-HE,Frankfurt,
 2a05:d079:b000::/40,DE,DE-HE,Frankfurt,
 2600:1ffd:80e1::/48,DE,DE-HE,Frankfurt,
@@ -2225,7 +2223,6 @@
 2a05:d030:4000::/40,DE,DE-HE,Frankfurt,
 2a05:d031:b000::/40,DE,DE-HE,Frankfurt,
 2a05:d05a:b000::/40,DE,DE-HE,Frankfurt,
-2a05:d01b::/36,DE,DE-HE,Frankfurt,
 2a05:d078:b000::/40,DE,DE-HE,Frankfurt,
 2a05:d07c:4000::/40,DE,DE-HE,Frankfurt,
 2406:dafc:ffa0::/46,DE,DE-HE,Frankfurt,
@@ -2262,7 +2259,6 @@
 2606:f40:5800::/40,DE,DE-HE,Frankfurt,
 2600:f0fb:f103::/48,DE,DE-HE,Frankfurt,
 2a05:d07a:4000::/40,DE,DE-HE,Frankfurt,
-2a05:d07f:b000::/40,DE,DE-HE,Frankfurt,
 2600:1f01:4902:1:8000::/65,DE,DE-HE,Frankfurt,
 2a05:d033:4000::/40,DE,DE-HE,Frankfurt,
 2a05:d05a:4000::/40,DE,DE-HE,Frankfurt,
@@ -2275,7 +2271,6 @@
 2a05:d073:b000::/40,DE,DE-HE,Frankfurt,
 2a05:d040:b000::/40,DE,DE-HE,Frankfurt,
 2a05:d040:4000::/40,DE,DE-HE,Frankfurt,
-2a05:d06a:b000::/40,DE,DE-HE,Frankfurt,
 2600:1f01:4902:100::/56,DE,DE-HE,Frankfurt,
 2a05:d032:4000::/40,DE,DE-HE,Frankfurt,
 2a05:d050:4000::/40,DE,DE-HE,Frankfurt,
@@ -6232,6 +6227,11 @@
 2406:daf3:4800::/40,TH,TH-10,Bangkok,
 2406:dafe:4800::/40,TH,TH-10,Bangkok,
 2406:da14:85c5:5b00::/56,TH,TH-10,Bangkok,
+83.119.128.0/18,TR,TR-34,Istanbul,
+2a05:d02b::/36,TR,TR-34,Istanbul,
+2a05:d01b::/36,TR,TR-34,Istanbul,
+2a05:d07f:b000::/40,TR,TR-34,Istanbul,
+2a05:d06a:b000::/40,TR,TR-34,Istanbul,
 15.190.244.0/22,TW,TW-TPE,Taipei,
 16.12.80.0/24,TW,TW-TPE,Taipei,
 5.60.0.0/20,TW,TW-TPE,Taipei,
