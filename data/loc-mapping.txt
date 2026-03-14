@@ -37,7 +37,7 @@ ap-northeast-2 KR,KR-11,Seoul,
 ap-northeast-3 JP,JP-27,Osaka,
 # AWS China Regions
 cn-north-1 CN,CN-BJ,Beijing,
-cn-northwest-1 CN,CN-NX,Zhongwei,
+cn-northwest-1 CN,CN-NX,Yinchuan,
 # AWS GovCloud Regions
 us-gov-west-1 US,US-OR,Boardman,
 us-gov-east-1 US,US-OH,Columbus,
