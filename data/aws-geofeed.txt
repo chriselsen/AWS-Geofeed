@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-03-18T05:36:28+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-03-18T17:25:56+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -7421,6 +7421,7 @@
 52.93.199.37/32,US,US-OH,Columbus,
 16.64.102.0/23,US,US-OH,Columbus,
 16.64.36.0/23,US,US-OH,Columbus,
+16.65.74.0/23,US,US-OH,Columbus,
 18.252.126.0/25,US,US-OH,Columbus,
 18.252.165.0/26,US,US-OH,Columbus,
 18.252.58.0/23,US,US-OH,Columbus,
@@ -8238,6 +8239,7 @@
 2606:7b40:10ff:d270::/60,US,US-OR,Boardman,
 2600:1f36:2000::/40,US,US-OR,Boardman,
 2600:1feb:2000::/40,US,US-OR,Boardman,
+2606:7b40:a3e:3400::/54,US,US-OR,Boardman,
 2631:0:a::/48,US,US-OR,Boardman,
 2600:f0f0:85::/48,US,US-OR,Boardman,
 2606:7b40:1b0f:f400::/56,US,US-OR,Boardman,
@@ -8350,6 +8352,7 @@
 2606:7b40:1b0f:fd00::/56,US,US-OR,Boardman,
 2600:f0f0:5517::/48,US,US-OR,Boardman,
 2606:7b40:1b0f:ef00::/56,US,US-OR,Boardman,
+2606:7b40:a3e:6800::/54,US,US-OR,Boardman,
 2606:7b40:1000:7280::/60,US,US-OR,Boardman,
 2606:7b40:1a2f:c200::/60,US,US-OR,Boardman,
 2606:7b40:1b0f:f200::/56,US,US-OR,Boardman,
@@ -8363,6 +8366,7 @@
 2600:f0f2:7148::/48,US,US-OR,Boardman,
 2606:7b40:10ff:d000::/56,US,US-OR,Boardman,
 2606:7b40:10ff:ff00::/56,US,US-OR,Boardman,
+2606:7b40:a3e:400::/54,US,US-OR,Boardman,
 2606:7b40:10ff:7000::/56,US,US-OR,Boardman,
 2600:1ff4:2000::/40,US,US-OR,Boardman,
 2606:7b40:1a3f:c320::/60,US,US-OR,Boardman,
@@ -8442,6 +8446,7 @@
 2620:107:4005::/48,US,US-OR,Boardman,
 2600:1fb9:2000::/40,US,US-OR,Boardman,
 2600:f0f0:e09::/48,US,US-OR,Boardman,
+2606:7b40:a3e:3800::/54,US,US-OR,Boardman,
 2620:107:4000:9900:50:84::/96,US,US-OR,Boardman,
 2600:1fe9:2000::/40,US,US-OR,Boardman,
 2606:7b40:1000:3000::/56,US,US-OR,Boardman,
