@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-03-18T23:26:25+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-03-19T01:25:25+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2217,7 +2217,6 @@
 2a05:d074:b000::/40,DE,DE-HE,Frankfurt am Main,
 2a05:d06f:4000::/40,DE,DE-HE,Frankfurt am Main,
 2600:f0f0:1:1700::/56,DE,DE-HE,Frankfurt am Main,
-2a05:d06b:b000::/40,DE,DE-HE,Frankfurt am Main,
 2a05:d000:4000::/40,DE,DE-HE,Frankfurt am Main,
 2a05:d072:4000::/40,DE,DE-HE,Frankfurt am Main,
 2631:0:8::/48,DE,DE-HE,Frankfurt am Main,
@@ -6232,6 +6231,7 @@
 2406:da14:85c5:5b00::/56,TH,TH-10,Bangkok,
 83.119.128.0/18,TR,TR-34,Istanbul,
 2a05:d02b::/36,TR,TR-34,Istanbul,
+2a05:d06b:b000::/40,TR,TR-34,Istanbul,
 2a05:d01b::/36,TR,TR-34,Istanbul,
 2a05:d07f:b000::/40,TR,TR-34,Istanbul,
 2a05:d06a:b000::/40,TR,TR-34,Istanbul,
@@ -9627,6 +9627,7 @@
 2600:1f29:c000::/36,US,US-VA,Ashburn,
 2600:1f29:4000::/36,US,US-VA,Ashburn,
 2600:1ff2:8000::/39,US,US-VA,Ashburn,
+2600:f0f1:10::/47,US,US-VA,Ashburn,
 2600:f0f0:551b::/48,US,US-VA,Ashburn,
 2600:1ffe:2c00::/40,US,US-VA,Ashburn,
 2600:1fa0:8000::/39,US,US-VA,Ashburn,
