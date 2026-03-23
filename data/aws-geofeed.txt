@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-03-23T20:56:00+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-03-23T22:56:36+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -7701,6 +7701,7 @@
 56.137.0.0/16,US,US-OR,Boardman,
 69.107.11.56/29,US,US-OR,Boardman,
 15.221.7.0/24,US,US-OR,Boardman,
+104.255.57.179/32,US,US-OR,Boardman,
 35.96.11.0/24,US,US-OR,Boardman,
 18.236.0.0/15,US,US-OR,Boardman,
 35.96.60.0/23,US,US-OR,Boardman,
@@ -8402,7 +8403,6 @@
 2600:1f33:4000::/39,US,US-OR,Boardman,
 2606:7b40:a3e:200::/60,US,US-OR,Boardman,
 2600:1f32:2000::/40,US,US-OR,Boardman,
-2600:1ff1:4000::/39,US,US-OR,Boardman,
 2600:f0f0:1126::/48,US,US-OR,Boardman,
 2600:f0f2:7013::/48,US,US-OR,Boardman,
 2600:1ff2:2000::/40,US,US-OR,Boardman,
@@ -8608,6 +8608,7 @@
 15.230.18.0/24,US,US-VA,Ashburn,
 52.93.127.201/32,US,US-VA,Ashburn,
 64.252.125.0/24,US,US-VA,Ashburn,
+104.255.56.60/32,US,US-VA,Ashburn,
 150.222.79.0/24,US,US-VA,Ashburn,
 3.224.0.0/12,US,US-VA,Ashburn,
 52.93.88.195/32,US,US-VA,Ashburn,
@@ -9134,6 +9135,7 @@
 52.93.127.168/32,US,US-VA,Ashburn,
 54.239.104.0/23,US,US-VA,Ashburn,
 104.255.56.0/32,US,US-VA,Ashburn,
+104.255.56.57/32,US,US-VA,Ashburn,
 15.230.147.0/24,US,US-VA,Ashburn,
 52.93.88.165/32,US,US-VA,Ashburn,
 150.222.206.0/24,US,US-VA,Ashburn,
@@ -9464,7 +9466,6 @@
 2600:1f10:c000::/36,US,US-VA,Ashburn,
 2600:f0f0:500::/48,US,US-VA,Ashburn,
 2620:107:4000:9016::/64,US,US-VA,Ashburn,
-2600:1ff1:8000::/39,US,US-VA,Ashburn,
 2600:f0f0:6000::/44,US,US-VA,Ashburn,
 2600:1f18::/33,US,US-VA,Ashburn,
 2600:1fea:8000::/39,US,US-VA,Ashburn,
@@ -9556,7 +9557,6 @@
 2600:1fe9:8000::/39,US,US-VA,Ashburn,
 2600:f0f2:7010::/48,US,US-VA,Ashburn,
 2600:1f01:4850::/47,US,US-VA,Ashburn,
-2600:1ff5:8000::/39,US,US-VA,Ashburn,
 2620:107:4000:900e::/64,US,US-VA,Ashburn,
 2600:f0f0:5518::/48,US,US-VA,Ashburn,
 2600:1f01:4900:100::/56,US,US-VA,Ashburn,
@@ -9574,7 +9574,6 @@
 2600:f0f1:8b00::/48,US,US-VA,Ashburn,
 2600:f000::/39,US,US-VA,Ashburn,
 2600:f0f0:0:208::/62,US,US-VA,Ashburn,
-2600:1fb8:8000::/39,US,US-VA,Ashburn,
 2600:1f12:c000::/36,US,US-VA,Ashburn,
 2600:1f14:4000::/36,US,US-VA,Ashburn,
 2600:1ffd:803f::/48,US,US-VA,Ashburn,
