@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-03-24T01:09:05+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-03-24T02:54:55+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2322,6 +2322,7 @@
 18.96.192.0/19,ES,ES-Z,Zaragoza,
 150.222.50.32/27,ES,ES-Z,Zaragoza,
 52.95.136.0/23,ES,ES-Z,Zaragoza,
+40.143.64.0/21,ES,ES-Z,Zaragoza,
 150.222.50.64/27,ES,ES-Z,Zaragoza,
 136.18.2.0/24,ES,ES-Z,Zaragoza,
 1.178.22.0/24,ES,ES-Z,Zaragoza,
@@ -7046,6 +7047,7 @@
 108.166.244.10/32,US,US-OH,Columbus,
 15.230.39.40/31,US,US-OH,Columbus,
 52.93.62.0/24,US,US-OH,Columbus,
+24.110.8.0/23,US,US-OH,Columbus,
 3.5.88.0/22,US,US-OH,Columbus,
 15.230.135.0/24,US,US-OH,Columbus,
 64.252.76.0/24,US,US-OH,Columbus,
