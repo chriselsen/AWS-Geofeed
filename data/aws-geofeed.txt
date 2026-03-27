@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-03-27T21:01:29+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-03-27T22:54:58+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1821,6 +1821,7 @@
 15.230.15.168/31,DE,DE-HE,Frankfurt am Main,
 3.4.12.51/32,DE,DE-HE,Frankfurt am Main,
 15.230.15.200/31,DE,DE-HE,Frankfurt am Main,
+35.97.160.0/20,DE,DE-HE,Frankfurt am Main,
 150.222.152.35/32,DE,DE-HE,Frankfurt am Main,
 15.230.15.30/32,DE,DE-HE,Frankfurt am Main,
 35.96.47.0/24,DE,DE-HE,Frankfurt am Main,
@@ -2004,6 +2005,7 @@
 150.222.144.37/32,DE,DE-HE,Frankfurt am Main,
 15.230.15.10/32,DE,DE-HE,Frankfurt am Main,
 52.219.44.0/22,DE,DE-HE,Frankfurt am Main,
+136.18.56.0/21,DE,DE-HE,Frankfurt am Main,
 52.219.169.0/24,DE,DE-HE,Frankfurt am Main,
 51.102.0.0/16,DE,DE-HE,Frankfurt am Main,
 54.239.0.160/28,DE,DE-HE,Frankfurt am Main,
@@ -2183,6 +2185,7 @@
 3.77.79.232/29,DE,DE-HE,Frankfurt am Main,
 2a05:d05b:b000::/40,DE,DE-HE,Frankfurt am Main,
 2a05:d07d:4000::/40,DE,DE-HE,Frankfurt am Main,
+2631:0:1400::/39,DE,DE-HE,Frankfurt am Main,
 2a05:d02f::/36,DE,DE-HE,Frankfurt am Main,
 2a05:d070:b000::/40,DE,DE-HE,Frankfurt am Main,
 2600:1ffd:80a7::/48,DE,DE-HE,Frankfurt am Main,
@@ -2270,6 +2273,7 @@
 2a05:d040:b000::/40,DE,DE-HE,Frankfurt am Main,
 2a05:d040:4000::/40,DE,DE-HE,Frankfurt am Main,
 2600:1f01:4902:100::/56,DE,DE-HE,Frankfurt am Main,
+2631:0:200::/39,DE,DE-HE,Frankfurt am Main,
 2a05:d032:4000::/40,DE,DE-HE,Frankfurt am Main,
 2a05:d050:4000::/40,DE,DE-HE,Frankfurt am Main,
 2a05:d06f:b000::/40,DE,DE-HE,Frankfurt am Main,
@@ -2345,6 +2349,7 @@
 99.151.64.0/21,ES,ES-Z,Zaragoza,
 99.77.32.0/20,ES,ES-Z,Zaragoza,
 51.93.0.0/16,ES,ES-Z,Zaragoza,
+40.138.216.0/22,ES,ES-Z,Zaragoza,
 3.5.32.0/22,ES,ES-Z,Zaragoza,
 35.96.37.0/24,ES,ES-Z,Zaragoza,
 3.5.126.0/23,ES,ES-Z,Zaragoza,
@@ -7568,6 +7573,7 @@
 2600:1f00:5000::/40,US,US-OH,Columbus,
 2600:1f38:5000::/40,US,US-OH,Columbus,
 2600:1ffc:5000::/40,US,US-OH,Columbus,
+2600:f0f1:8b03::/48,US,US-OH,Columbus,
 2600:1f36:6000::/40,US,US-OH,Columbus,
 2600:1f60:5000::/40,US,US-OH,Columbus,
 2600:f0f0:cfe::/48,US,US-OH,Columbus,
