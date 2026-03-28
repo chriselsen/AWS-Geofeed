@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-03-27T22:54:58+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-03-28T00:58:16+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2522,7 +2522,6 @@
 15.230.71.64/26,FR,FR-75C,Paris,
 52.46.88.0/22,FR,FR-75C,Paris,
 15.230.156.0/24,FR,FR-75C,Paris,
-35.97.240.0/20,FR,FR-75C,Paris,
 51.0.96.0/21,FR,FR-75C,Paris,
 15.225.0.0/16,FR,FR-75C,Paris,
 54.239.40.132/32,FR,FR-75C,Paris,
@@ -2768,7 +2767,6 @@
 52.93.80.0/24,GB,GB-LND,London,
 52.93.152.164/32,GB,GB-LND,London,
 52.144.133.32/27,GB,GB-LND,London,
-35.97.144.0/20,GB,GB-LND,London,
 52.93.153.69/32,GB,GB-LND,London,
 52.93.229.98/32,GB,GB-LND,London,
 52.219.219.0/24,GB,GB-LND,London,
@@ -3442,6 +3440,7 @@
 52.144.218.0/26,IE,IE-D,Dublin,
 99.80.0.0/15,IE,IE-D,Dublin,
 13.248.121.0/24,IE,IE-D,Dublin,
+35.97.144.0/20,IE,IE-D,Dublin,
 150.222.164.211/32,IE,IE-D,Dublin,
 173.83.214.0/24,IE,IE-D,Dublin,
 52.93.242.0/24,IE,IE-D,Dublin,
@@ -3496,6 +3495,7 @@
 15.230.19.0/24,IE,IE-D,Dublin,
 35.50.195.0/24,IE,IE-D,Dublin,
 150.102.0.0/16,IE,IE-D,Dublin,
+35.97.240.0/20,IE,IE-D,Dublin,
 150.247.44.0/24,IE,IE-D,Dublin,
 208.86.90.0/23,IE,IE-D,Dublin,
 15.230.188.0/25,IE,IE-D,Dublin,
@@ -3773,6 +3773,7 @@
 2a05:d038:8000::/40,IE,IE-D,Dublin,
 2a05:d05a:8000::/40,IE,IE-D,Dublin,
 2600:f0f2:7015::/48,IE,IE-D,Dublin,
+2631:0:1000::/39,IE,IE-D,Dublin,
 2a05:d050:8000::/40,IE,IE-D,Dublin,
 2631:1:101::/48,IE,IE-D,Dublin,
 2606:f40:9000::/39,IE,IE-D,Dublin,
