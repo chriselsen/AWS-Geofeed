@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-04-01T14:31:53+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-04-01T22:02:55+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2184,6 +2184,8 @@
 18.96.39.128/25,DE,DE-HE,Frankfurt am Main,
 3.77.79.224/29,DE,DE-HE,Frankfurt am Main,
 3.77.79.232/29,DE,DE-HE,Frankfurt am Main,
+35.159.219.240/29,DE,DE-HE,Frankfurt am Main,
+35.159.219.248/29,DE,DE-HE,Frankfurt am Main,
 2a05:d05b:b000::/40,DE,DE-HE,Frankfurt am Main,
 2a05:d07d:4000::/40,DE,DE-HE,Frankfurt am Main,
 2631:0:1400::/39,DE,DE-HE,Frankfurt am Main,
@@ -2982,6 +2984,8 @@
 18.98.164.0/25,GB,GB-LND,London,
 13.42.133.192/29,GB,GB-LND,London,
 13.42.133.200/29,GB,GB-LND,London,
+16.60.228.160/29,GB,GB-LND,London,
+16.60.228.168/29,GB,GB-LND,London,
 2a05:d06a:c000::/40,GB,GB-LND,London,
 2a05:d033:c000::/40,GB,GB-LND,London,
 2a05:d07a:c000::/40,GB,GB-LND,London,
@@ -7556,6 +7560,8 @@
 18.97.139.128/25,US,US-OH,Columbus,
 3.145.246.48/29,US,US-OH,Columbus,
 3.145.246.56/29,US,US-OH,Columbus,
+3.146.72.40/29,US,US-OH,Columbus,
+3.149.13.208/29,US,US-OH,Columbus,
 2600:1feb:5000::/40,US,US-OH,Columbus,
 2600:1f15::/36,US,US-OH,Columbus,
 2600:1f1f:c000::/36,US,US-OH,Columbus,
@@ -8198,6 +8204,8 @@
 44.234.73.116/30,US,US-OR,Boardman,
 44.234.73.120/30,US,US-OR,Boardman,
 18.98.20.128/25,US,US-OR,Boardman,
+16.146.161.48/29,US,US-OR,Boardman,
+16.146.161.56/29,US,US-OR,Boardman,
 18.246.107.128/29,US,US-OR,Boardman,
 18.246.107.8/29,US,US-OR,Boardman,
 2600:f0f0:70::/45,US,US-OR,Boardman,
@@ -9464,6 +9472,8 @@
 3.235.189.96/30,US,US-VA,Ashburn,
 44.194.111.224/30,US,US-VA,Ashburn,
 18.97.33.128/25,US,US-VA,Ashburn,
+32.192.104.128/29,US,US-VA,Ashburn,
+32.192.104.24/29,US,US-VA,Ashburn,
 44.216.41.152/29,US,US-VA,Ashburn,
 44.216.41.160/29,US,US-VA,Ashburn,
 3.218.180.0/22,US,US-VA,Ashburn,
