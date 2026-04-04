@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-04-03T21:23:54+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-04-04T00:32:23+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -933,6 +933,7 @@
 2600:1ffd:83d2::/48,BR,BR-SP,Sao Paulo,
 2600:f0f0:1119::/48,BR,BR-SP,Sao Paulo,
 2606:f40:be00::/40,BR,BR-SP,Sao Paulo,
+2631:0:1200::/39,BR,BR-SP,Sao Paulo,
 2600:1ff3:e000::/40,BR,BR-SP,Sao Paulo,
 2600:f0f0:e17::/48,BR,BR-SP,Sao Paulo,
 2606:7b40:10ff:40::/59,BR,BR-SP,Sao Paulo,
@@ -1107,6 +1108,7 @@
 52.60.0.0/16,CA,CA-QC,Montreal,
 52.93.193.192/32,CA,CA-QC,Montreal,
 3.98.0.0/15,CA,CA-QC,Montreal,
+35.98.32.0/20,CA,CA-QC,Montreal,
 16.48.0.0/16,CA,CA-QC,Montreal,
 52.95.146.0/23,CA,CA-QC,Montreal,
 15.177.84.0/24,CA,CA-QC,Montreal,
@@ -1201,6 +1203,7 @@
 2620:107:4000:9015::/64,CA,CA-QC,Montreal,
 2600:1fbb:1000::/40,CA,CA-QC,Montreal,
 2600:1fff:1000::/40,CA,CA-QC,Montreal,
+2631:0:800::/39,CA,CA-QC,Montreal,
 2600:1f36:1000::/40,CA,CA-QC,Montreal,
 2600:1fb9:1000::/40,CA,CA-QC,Montreal,
 2600:1ff9:1000::/40,CA,CA-QC,Montreal,
