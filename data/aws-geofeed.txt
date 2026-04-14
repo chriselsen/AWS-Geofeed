@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-04-14T02:57:25+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-04-14T21:55:28+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1373,6 +1373,7 @@
 3.4.12.58/32,CL,CL-RM,Santiago,
 96.0.131.0/24,CL,CL-RM,Santiago,
 83.160.0.0/15,CL,CL-RM,Santiago,
+1.179.102.0/24,CL,CL-RM,Santiago,
 3.4.15.176/29,CL,CL-RM,Santiago,
 15.177.107.0/24,CL,CL-RM,Santiago,
 150.222.55.128/27,CL,CL-RM,Santiago,
@@ -5595,6 +5596,7 @@
 150.222.55.64/27,SA,SA-01,Riyadh,
 16.15.16.0/22,SA,SA-01,Riyadh,
 23.254.16.0/21,SA,SA-01,Riyadh,
+1.179.101.0/24,SA,SA-01,Riyadh,
 35.52.0.0/15,SA,SA-01,Riyadh,
 2a05:d076:800::/40,SA,SA-01,Riyadh,
 2a05:d031:800::/40,SA,SA-01,Riyadh,
@@ -8587,6 +8589,7 @@
 15.181.192.0/19,US,US-TX,Dallas,
 96.0.96.0/22,US,US-TX,Dallas,
 155.146.96.0/20,US,US-TX,Dallas,
+1.179.103.0/24,US,US-TX,Dallas,
 15.181.240.0/24,US,US-TX,Dallas,
 198.41.99.0/24,US,US-TX,Dallas,
 2600:1f24:4000::/36,US,US-TX,Dallas,
@@ -9115,6 +9118,7 @@
 52.93.126.212/32,US,US-VA,Ashburn,
 54.160.0.0/13,US,US-VA,Ashburn,
 15.230.66.0/25,US,US-VA,Ashburn,
+35.98.80.0/20,US,US-VA,Ashburn,
 52.93.127.164/32,US,US-VA,Ashburn,
 54.234.0.0/15,US,US-VA,Ashburn,
 35.34.100.0/24,US,US-VA,Ashburn,
@@ -9671,6 +9675,7 @@
 2605:9cc0:1fff:fc00::/54,US,US-VA,Ashburn,
 2600:1ff8:8000::/39,US,US-VA,Ashburn,
 2600:1fff:8000::/39,US,US-VA,Ashburn,
+2631:0:e00::/39,US,US-VA,Ashburn,
 2606:f40::/39,US,US-VA,Ashburn,
 2600:f0f1:8a00::/44,US,US-VA,Ashburn,
 2600:1f01:4890::/47,US,US-VA,Ashburn,
