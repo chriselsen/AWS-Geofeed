@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-05-08T00:04:11+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-05-08T01:55:46+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -8663,6 +8663,7 @@
 1.179.103.0/24,US,US-TX,Dallas,
 15.181.240.0/24,US,US-TX,Dallas,
 198.41.99.0/24,US,US-TX,Dallas,
+15.177.108.0/24,US,US-TX,Dallas,
 2600:1f24:4000::/36,US,US-TX,Dallas,
 2600:1f1c:8000::/36,US,US-TX,Dallas,
 2600:1f2c:8000::/36,US,US-TX,Dallas,
