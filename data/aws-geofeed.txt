@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-05-15T03:56:45+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-05-15T05:56:09+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -561,7 +561,6 @@
 15.230.121.8/31,BH,BH-13,Al Manamah,
 99.82.152.0/22,BH,BH-13,Al Manamah,
 15.184.0.0/16,BH,BH-13,Al Manamah,
-13.248.106.192/28,BH,BH-13,Al Manamah,
 69.107.7.128/29,BH,BH-13,Al Manamah,
 69.107.10.104/29,BH,BH-13,Al Manamah,
 99.78.220.66/32,BH,BH-13,Al Manamah,
@@ -1962,6 +1961,7 @@
 150.222.122.0/24,DE,DE-HE,Frankfurt am Main,
 15.230.15.50/31,DE,DE-HE,Frankfurt am Main,
 150.222.152.98/32,DE,DE-HE,Frankfurt am Main,
+13.248.106.192/28,DE,DE-HE,Frankfurt am Main,
 150.222.152.32/32,DE,DE-HE,Frankfurt am Main,
 150.247.32.0/24,DE,DE-HE,Frankfurt am Main,
 150.222.139.124/30,DE,DE-HE,Frankfurt am Main,
