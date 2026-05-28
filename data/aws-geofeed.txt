@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-05-28T09:37:22+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-05-28T21:28:01+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -8530,6 +8530,7 @@
 2600:f0f0:1125::/48,US,US-OR,Boardman,
 2600:1ffc:4000::/39,US,US-OR,Boardman,
 2606:7b40:1b0f:f100::/56,US,US-OR,Boardman,
+2606:7b40:3008::/50,US,US-OR,Boardman,
 2600:1f14::/34,US,US-OR,Boardman,
 2600:f0fb:f000::/44,US,US-OR,Boardman,
 2620:107:4000:9900:50:80::/96,US,US-OR,Boardman,
@@ -8538,6 +8539,7 @@
 2606:f40:400::/39,US,US-OR,Boardman,
 2606:7b40:10ff:a220::/60,US,US-OR,Boardman,
 2606:7b40:1000:8000::/56,US,US-OR,Boardman,
+2606:7b40:3007:c000::/50,US,US-OR,Boardman,
 2606:7b40:1a3f:c330::/60,US,US-OR,Boardman,
 2606:7b40:1000:7240::/60,US,US-OR,Boardman,
 2606:8140:400::/40,US,US-OR,Boardman,
@@ -8595,6 +8597,7 @@
 2600:1f13::/36,US,US-OR,Boardman,
 2600:1fea:4000::/39,US,US-OR,Boardman,
 2600:1ff9:2000::/40,US,US-OR,Boardman,
+2606:7b40:3007:8000::/50,US,US-OR,Boardman,
 2600:f0f0:810e::/48,US,US-OR,Boardman,
 2600:1fff:4000::/39,US,US-OR,Boardman,
 2620:107:4000:4202::/64,US,US-OR,Boardman,
@@ -8639,6 +8642,7 @@
 2606:f40:8400::/39,US,US-OR,Boardman,
 2600:f000:8000::/39,US,US-OR,Boardman,
 2606:7b40:10ff:a200::/60,US,US-OR,Boardman,
+2606:7b40:3007::/50,US,US-OR,Boardman,
 2620:107:4000:4207::/64,US,US-OR,Boardman,
 2606:7b40:10ff:8000::/56,US,US-OR,Boardman,
 2606:7b40:1b0f:f900::/56,US,US-OR,Boardman,
@@ -8657,6 +8661,7 @@
 2606:7b40:3005:8000::/50,US,US-OR,Boardman,
 2620:107:4004::/48,US,US-OR,Boardman,
 2606:7b40:9fd::/48,US,US-OR,Boardman,
+2606:7b40:3007:4000::/50,US,US-OR,Boardman,
 2600:1f33:4000::/39,US,US-OR,Boardman,
 2606:7b40:a3e:200::/60,US,US-OR,Boardman,
 2600:1f32:2000::/40,US,US-OR,Boardman,
@@ -8677,6 +8682,7 @@
 2606:7b40:10ff:a210::/60,US,US-OR,Boardman,
 2606:7b40:3001:4000::/50,US,US-OR,Boardman,
 2600:1f70:2000::/40,US,US-OR,Boardman,
+2606:7b40:3006:c000::/50,US,US-OR,Boardman,
 2606:7b40:f000:1600::/56,US,US-OR,Boardman,
 2631:0:1800::/39,US,US-OR,Boardman,
 2606:7b40:1a2f:c320::/60,US,US-OR,Boardman,
