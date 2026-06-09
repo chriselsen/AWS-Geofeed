@@ -86,6 +86,7 @@ ap-northeast-2-wl1-cjj-wlz-1 KR,KR-30,Daejeon,
 ap-northeast-2-wl1-sel-wlz-1 KR,KR-11,Seoul,
 # LocalZones
 eu-central-1-ams-1 NL,NL-NH,Amsterdam,
+eu-central-1-ath-1 GR,GR-I,Athens,
 eu-south-1-ath-1 GR,GR-I,Athens,
 us-east-1-atl-1 US,US-GA,Atlanta,
 us-east-1-atl-2 US,US-GA,Atlanta,
