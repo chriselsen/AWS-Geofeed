@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-11T20:39:12+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-11T22:28:20+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1094,6 +1094,7 @@
 2600:1f00:a400::/40,CA,CA-AB,Calgary,
 2600:1ff9:a400::/40,CA,CA-AB,Calgary,
 2600:1ff3:a400::/40,CA,CA-AB,Calgary,
+2600:1f2a:401c::/48,CA,CA-AB,Calgary,
 2600:1f1a:4ff6:d500::/56,CA,CA-AB,Calgary,
 2600:1f1a:4040:b100::/56,CA,CA-AB,Calgary,
 15.230.110.0/24,CA,CA-QC,Montreal,
@@ -1403,6 +1404,7 @@
 2a05:d036:9000::/40,CH,CH-ZH,Zurich,
 2600:f0f1:8b::/48,CH,CH-ZH,Zurich,
 2a05:d07c:9000::/40,CH,CH-ZH,Zurich,
+2a05:d029:4::/48,CH,CH-ZH,Zurich,
 2a05:d019:1d6:2100::/56,CH,CH-ZH,Zurich,
 15.248.168.0/21,CL,CL-RM,Santiago,
 23.254.120.0/21,CL,CL-RM,Santiago,
@@ -5202,6 +5204,7 @@
 2406:da00:6000::/40,JP,JP-27,Osaka,
 2600:f0f1:4340::/42,JP,JP-27,Osaka,
 2406:da70:6000::/56,JP,JP-27,Osaka,
+2406:da26:1c::/48,JP,JP-27,Osaka,
 2406:da16:856:a500::/56,JP,JP-27,Osaka,
 2406:da16:c46:6600::/56,JP,JP-27,Osaka,
 3.5.140.0/22,KR,KR-11,Seoul,
@@ -9923,6 +9926,7 @@
 2600:f0f0:e0d::/48,US,US-VA,Ashburn,
 2600:9000:5203::/48,US,US-VA,Ashburn,
 2600:f0f0:8180::/48,US,US-VA,Ashburn,
+2600:f0f0:c102::/48,US,US-VA,Ashburn,
 2600:1ff3:8000::/39,US,US-VA,Ashburn,
 2600:9000:5210::/48,US,US-VA,Ashburn,
 2606:7b40:1b0f:400::/56,US,US-VA,Ashburn,
