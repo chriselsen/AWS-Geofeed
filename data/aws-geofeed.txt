@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-16T14:28:00+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-16T18:29:39+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1808,6 +1808,7 @@
 2001:3fc3:8800::/40,DE,DE-BE,Berlin
 2001:3fc6::/56,DE,DE-BE,Berlin
 2001:3fc5:1000::/40,DE,DE-BE,Berlin
+2001:3fc6:200::/40,DE,DE-BE,Berlin
 2001:3fc7:2800::/40,DE,DE-BE,Berlin
 2001:3fc6:100::/48,DE,DE-BE,Berlin
 2001:3fc6:2::/48,DE,DE-BE,Berlin
