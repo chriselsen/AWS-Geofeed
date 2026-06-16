@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-16T18:29:39+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-16T20:37:45+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -717,11 +717,13 @@
 150.222.228.0/24,BR,BR-SP,Sao Paulo,
 52.94.198.16/28,BR,BR-SP,Sao Paulo,
 52.93.122.203/32,BR,BR-SP,Sao Paulo,
+63.249.157.0/24,BR,BR-SP,Sao Paulo,
 216.198.237.0/24,BR,BR-SP,Sao Paulo,
 99.77.149.0/24,BR,BR-SP,Sao Paulo,
 15.230.0.12/31,BR,BR-SP,Sao Paulo,
 64.252.79.0/24,BR,BR-SP,Sao Paulo,
 52.93.126.235/32,BR,BR-SP,Sao Paulo,
+63.249.158.0/24,BR,BR-SP,Sao Paulo,
 3.4.12.49/32,BR,BR-SP,Sao Paulo,
 52.95.240.0/24,BR,BR-SP,Sao Paulo,
 52.93.146.0/24,BR,BR-SP,Sao Paulo,
@@ -745,6 +747,7 @@
 15.230.63.2/31,BR,BR-SP,Sao Paulo,
 150.222.69.0/24,BR,BR-SP,Sao Paulo,
 3.2.49.0/24,BR,BR-SP,Sao Paulo,
+63.249.159.0/24,BR,BR-SP,Sao Paulo,
 150.222.50.224/27,BR,BR-SP,Sao Paulo,
 1.178.95.0/24,BR,BR-SP,Sao Paulo,
 99.77.234.0/24,BR,BR-SP,Sao Paulo,
@@ -5224,6 +5227,7 @@
 52.219.60.0/23,KR,KR-11,Seoul,
 43.249.45.0/24,KR,KR-11,Seoul,
 52.144.227.192/26,KR,KR-11,Seoul,
+63.249.169.0/24,KR,KR-11,Seoul,
 52.219.204.0/22,KR,KR-11,Seoul,
 3.4.12.73/32,KR,KR-11,Seoul,
 35.50.238.0/24,KR,KR-11,Seoul,
@@ -5255,9 +5259,11 @@
 54.180.0.0/15,KR,KR-11,Seoul,
 52.95.111.0/24,KR,KR-11,Seoul,
 15.230.81.0/24,KR,KR-11,Seoul,
+63.249.167.0/24,KR,KR-11,Seoul,
 52.79.0.0/16,KR,KR-11,Seoul,
 52.93.137.0/24,KR,KR-11,Seoul,
 159.248.200.0/21,KR,KR-11,Seoul,
+63.249.166.0/24,KR,KR-11,Seoul,
 3.5.184.0/21,KR,KR-11,Seoul,
 216.198.215.0/24,KR,KR-11,Seoul,
 54.239.40.152/29,KR,KR-11,Seoul,
@@ -5331,6 +5337,7 @@
 16.187.0.0/16,KR,KR-11,Seoul,
 15.129.46.0/23,KR,KR-11,Seoul,
 3.4.12.11/32,KR,KR-11,Seoul,
+63.249.168.0/24,KR,KR-11,Seoul,
 15.164.243.224/27,KR,KR-11,Seoul,
 15.165.193.128/26,KR,KR-11,Seoul,
 15.165.193.64/26,KR,KR-11,Seoul,
