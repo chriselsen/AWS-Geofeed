@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-16T10:27:46+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-16T14:28:00+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -3540,6 +3540,7 @@
 52.119.240.0/21,IE,IE-D,Dublin,
 162.213.232.0/24,IE,IE-D,Dublin,
 15.230.124.0/24,IE,IE-D,Dublin,
+63.249.151.0/24,IE,IE-D,Dublin,
 35.71.72.0/22,IE,IE-D,Dublin,
 56.55.0.0/16,IE,IE-D,Dublin,
 15.230.223.13/32,IE,IE-D,Dublin,
@@ -3651,6 +3652,7 @@
 56.52.0.0/16,IE,IE-D,Dublin,
 54.239.115.0/25,IE,IE-D,Dublin,
 15.230.182.0/24,IE,IE-D,Dublin,
+63.249.150.0/24,IE,IE-D,Dublin,
 52.92.0.0/17,IE,IE-D,Dublin,
 52.93.127.202/32,IE,IE-D,Dublin,
 150.222.168.33/32,IE,IE-D,Dublin,
@@ -3667,6 +3669,7 @@
 35.55.21.0/24,IE,IE-D,Dublin,
 52.93.127.204/32,IE,IE-D,Dublin,
 54.155.0.0/16,IE,IE-D,Dublin,
+63.249.153.0/24,IE,IE-D,Dublin,
 52.93.127.119/32,IE,IE-D,Dublin,
 52.95.60.0/24,IE,IE-D,Dublin,
 16.188.0.0/16,IE,IE-D,Dublin,
@@ -3725,6 +3728,7 @@
 34.248.0.0/13,IE,IE-D,Dublin,
 150.222.160.38/32,IE,IE-D,Dublin,
 150.222.168.37/32,IE,IE-D,Dublin,
+63.249.152.0/24,IE,IE-D,Dublin,
 67.220.224.0/20,IE,IE-D,Dublin,
 108.128.0.0/13,IE,IE-D,Dublin,
 56.51.0.0/16,IE,IE-D,Dublin,
@@ -6046,6 +6050,7 @@
 15.230.4.19/32,SG,SG-01,Singapore,
 64.252.103.0/24,SG,SG-01,Singapore,
 15.221.8.0/21,SG,SG-01,Singapore,
+63.249.194.0/24,SG,SG-01,Singapore,
 52.74.0.0/16,SG,SG-01,Singapore,
 15.230.4.156/31,SG,SG-01,Singapore,
 13.214.0.0/15,SG,SG-01,Singapore,
@@ -6062,6 +6067,7 @@
 15.230.164.0/24,SG,SG-01,Singapore,
 43.250.192.0/24,SG,SG-01,Singapore,
 99.151.104.0/21,SG,SG-01,Singapore,
+63.249.193.0/24,SG,SG-01,Singapore,
 46.137.224.0/19,SG,SG-01,Singapore,
 52.219.180.0/22,SG,SG-01,Singapore,
 52.93.127.116/32,SG,SG-01,Singapore,
@@ -6116,6 +6122,7 @@
 69.107.7.0/29,SG,SG-01,Singapore,
 173.83.219.0/24,SG,SG-01,Singapore,
 18.140.0.0/15,SG,SG-01,Singapore,
+63.249.192.0/24,SG,SG-01,Singapore,
 216.198.233.0/24,SG,SG-01,Singapore,
 16.15.50.0/23,SG,SG-01,Singapore,
 52.95.212.0/22,SG,SG-01,Singapore,
