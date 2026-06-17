@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-17T00:29:59+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-17T14:29:29+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1109,6 +1109,7 @@
 52.93.193.200/32,CA,CA-QC,Montreal,
 15.129.72.0/23,CA,CA-QC,Montreal,
 52.93.193.199/32,CA,CA-QC,Montreal,
+63.249.202.0/24,CA,CA-QC,Montreal,
 15.222.0.0/15,CA,CA-QC,Montreal,
 35.96.252.0/24,CA,CA-QC,Montreal,
 35.71.119.0/24,CA,CA-QC,Montreal,
@@ -1139,6 +1140,7 @@
 99.79.0.0/16,CA,CA-QC,Montreal,
 150.222.109.0/24,CA,CA-QC,Montreal,
 15.251.0.48/32,CA,CA-QC,Montreal,
+63.249.201.0/24,CA,CA-QC,Montreal,
 52.93.75.0/24,CA,CA-QC,Montreal,
 52.93.193.196/32,CA,CA-QC,Montreal,
 52.93.127.197/32,CA,CA-QC,Montreal,
@@ -1179,6 +1181,7 @@
 35.54.53.0/24,CA,CA-QC,Montreal,
 52.93.193.203/32,CA,CA-QC,Montreal,
 15.175.0.0/16,CA,CA-QC,Montreal,
+63.249.203.0/24,CA,CA-QC,Montreal,
 16.54.0.0/15,CA,CA-QC,Montreal,
 54.239.1.0/28,CA,CA-QC,Montreal,
 150.222.43.192/27,CA,CA-QC,Montreal,
@@ -5110,6 +5113,7 @@
 15.230.75.64/26,JP,JP-27,Osaka,
 52.94.249.96/28,JP,JP-27,Osaka,
 35.50.230.0/24,JP,JP-27,Osaka,
+63.249.172.0/24,JP,JP-27,Osaka,
 150.247.35.0/24,JP,JP-27,Osaka,
 15.230.75.128/26,JP,JP-27,Osaka,
 52.144.233.132/31,JP,JP-27,Osaka,
