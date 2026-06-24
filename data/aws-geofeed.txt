@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-23T18:30:20+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-24T16:26:49+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2429,6 +2429,7 @@
 15.216.0.0/16,ES,ES-Z,Zaragoza,
 35.71.120.0/24,ES,ES-Z,Zaragoza,
 15.217.0.0/16,ES,ES-Z,Zaragoza,
+63.249.207.0/24,ES,ES-Z,Zaragoza,
 35.43.0.0/16,ES,ES-Z,Zaragoza,
 15.193.148.0/22,ES,ES-Z,Zaragoza,
 15.177.97.0/24,ES,ES-Z,Zaragoza,
@@ -3351,6 +3352,7 @@
 108.136.0.0/15,ID,ID-JK,Jakarta,
 150.222.49.128/27,ID,ID-JK,Jakarta,
 35.71.96.0/24,ID,ID-JK,Jakarta,
+63.249.142.0/24,ID,ID-JK,Jakarta,
 15.230.4.17/32,ID,ID-JK,Jakarta,
 15.230.4.166/31,ID,ID-JK,Jakarta,
 104.255.59.138/32,ID,ID-JK,Jakarta,
@@ -4559,6 +4561,7 @@
 35.152.0.0/16,IT,IT-MI,Milan,
 18.99.208.0/20,IT,IT-MI,Milan,
 3.4.12.66/32,IT,IT-MI,Milan,
+63.249.182.0/24,IT,IT-MI,Milan,
 3.4.12.63/32,IT,IT-MI,Milan,
 52.93.133.179/32,IT,IT-MI,Milan,
 16.23.0.0/16,IT,IT-MI,Milan,
@@ -6506,6 +6509,7 @@
 15.248.128.0/21,TW,TW-TPE,Taipei,
 104.255.59.216/32,TW,TW-TPE,Taipei,
 104.255.59.212/32,TW,TW-TPE,Taipei,
+63.249.200.0/24,TW,TW-TPE,Taipei,
 150.222.53.224/27,TW,TW-TPE,Taipei,
 3.2.101.0/24,TW,TW-TPE,Taipei,
 3.5.196.0/22,TW,TW-TPE,Taipei,
