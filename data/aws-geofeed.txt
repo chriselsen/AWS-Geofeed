@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-24T18:28:59+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-24T20:28:09+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -445,6 +445,7 @@
 16.140.0.0/16,AU,AU-VIC,Melbourne,
 56.98.0.0/16,AU,AU-VIC,Melbourne,
 99.151.72.0/21,AU,AU-VIC,Melbourne,
+63.249.181.0/24,AU,AU-VIC,Melbourne,
 69.107.12.168/29,AU,AU-VIC,Melbourne,
 16.27.0.0/16,AU,AU-VIC,Melbourne,
 70.232.64.0/20,AU,AU-VIC,Melbourne,
@@ -1025,6 +1026,7 @@
 13.248.73.0/24,CA,CA-AB,Calgary,
 16.12.58.0/24,CA,CA-AB,Calgary,
 56.114.0.0/16,CA,CA-AB,Calgary,
+63.249.204.0/24,CA,CA-AB,Calgary,
 16.175.0.0/16,CA,CA-AB,Calgary,
 15.248.64.0/21,CA,CA-AB,Calgary,
 150.222.52.160/27,CA,CA-AB,Calgary,
@@ -1346,6 +1348,7 @@
 56.240.0.0/16,CH,CH-ZH,Zurich,
 15.177.98.0/24,CH,CH-ZH,Zurich,
 16.18.0.0/16,CH,CH-ZH,Zurich,
+63.249.215.0/24,CH,CH-ZH,Zurich,
 70.232.120.0/22,CH,CH-ZH,Zurich,
 35.71.121.0/24,CH,CH-ZH,Zurich,
 51.35.0.0/16,CH,CH-ZH,Zurich,
@@ -6514,6 +6517,7 @@
 3.2.101.0/24,TW,TW-TPE,Taipei,
 3.5.196.0/22,TW,TW-TPE,Taipei,
 15.220.80.0/20,TW,TW-TPE,Taipei,
+63.249.198.0/24,TW,TW-TPE,Taipei,
 104.255.59.214/32,TW,TW-TPE,Taipei,
 76.223.170.80/28,TW,TW-TPE,Taipei,
 216.216.0.0/15,TW,TW-TPE,Taipei,
@@ -7576,6 +7580,7 @@
 108.166.244.14/32,US,US-OH,Columbus,
 108.166.244.33/32,US,US-OH,Columbus,
 13.58.0.0/15,US,US-OH,Columbus,
+1.178.86.0/24,US,US-OH,Columbus,
 15.230.39.132/31,US,US-OH,Columbus,
 15.230.39.130/31,US,US-OH,Columbus,
 52.93.199.97/32,US,US-OH,Columbus,
@@ -10143,6 +10148,7 @@
 45.57.128.0/18,VN,VN-43,Hanoi,
 2406:da2a:8000::/36,VN,VN-43,Hanoi,
 2406:da1a:8000::/36,VN,VN-43,Hanoi,
+63.249.148.0/24,ZA,ZA-WC,Cape Town,
 15.103.0.0/16,ZA,ZA-WC,Cape Town,
 99.78.152.0/22,ZA,ZA-WC,Cape Town,
 16.30.0.0/16,ZA,ZA-WC,Cape Town,
