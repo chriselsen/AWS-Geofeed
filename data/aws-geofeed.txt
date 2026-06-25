@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-25T00:30:29+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-25T02:27:58+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1032,6 +1032,7 @@
 150.222.52.160/27,CA,CA-AB,Calgary,
 3.5.172.0/22,CA,CA-AB,Calgary,
 56.115.0.0/16,CA,CA-AB,Calgary,
+63.249.205.0/24,CA,CA-AB,Calgary,
 35.96.251.0/24,CA,CA-AB,Calgary,
 35.96.44.0/24,CA,CA-AB,Calgary,
 1.178.26.0/24,CA,CA-AB,Calgary,
@@ -1325,6 +1326,7 @@
 2600:1f11:e4a:df00::/56,CA,CA-QC,Montreal,
 51.34.0.0/16,CH,CH-ZH,Zurich,
 56.242.0.0/16,CH,CH-ZH,Zurich,
+63.249.213.0/24,CH,CH-ZH,Zurich,
 52.95.139.0/24,CH,CH-ZH,Zurich,
 16.19.0.0/16,CH,CH-ZH,Zurich,
 13.248.68.0/24,CH,CH-ZH,Zurich,
@@ -1348,6 +1350,7 @@
 56.240.0.0/16,CH,CH-ZH,Zurich,
 15.177.98.0/24,CH,CH-ZH,Zurich,
 16.18.0.0/16,CH,CH-ZH,Zurich,
+63.249.214.0/24,CH,CH-ZH,Zurich,
 63.249.215.0/24,CH,CH-ZH,Zurich,
 70.232.120.0/22,CH,CH-ZH,Zurich,
 35.71.121.0/24,CH,CH-ZH,Zurich,
@@ -2431,6 +2434,7 @@
 1.178.22.0/24,ES,ES-Z,Zaragoza,
 15.216.0.0/16,ES,ES-Z,Zaragoza,
 35.71.120.0/24,ES,ES-Z,Zaragoza,
+63.249.208.0/24,ES,ES-Z,Zaragoza,
 15.217.0.0/16,ES,ES-Z,Zaragoza,
 63.249.207.0/24,ES,ES-Z,Zaragoza,
 35.43.0.0/16,ES,ES-Z,Zaragoza,
@@ -2448,6 +2452,7 @@
 99.151.64.0/21,ES,ES-Z,Zaragoza,
 99.77.32.0/20,ES,ES-Z,Zaragoza,
 51.93.0.0/16,ES,ES-Z,Zaragoza,
+63.249.209.0/24,ES,ES-Z,Zaragoza,
 40.138.216.0/22,ES,ES-Z,Zaragoza,
 3.5.32.0/22,ES,ES-Z,Zaragoza,
 35.96.37.0/24,ES,ES-Z,Zaragoza,
@@ -3205,6 +3210,7 @@
 15.129.62.0/23,HK,,Hong Kong,
 43.249.47.0/24,HK,,Hong Kong,
 52.119.248.0/24,HK,,Hong Kong,
+63.249.162.0/24,HK,,Hong Kong,
 216.244.6.0/24,HK,,Hong Kong,
 3.4.12.67/32,HK,,Hong Kong,
 3.4.15.224/29,HK,,Hong Kong,
@@ -5616,6 +5622,7 @@
 104.255.61.0/32,MY,MY-14,Kuala Lumpur,
 104.255.59.196/32,MY,MY-14,Kuala Lumpur,
 216.244.1.0/24,MY,MY-14,Kuala Lumpur,
+63.249.175.0/24,MY,MY-14,Kuala Lumpur,
 150.222.52.192/27,MY,MY-14,Kuala Lumpur,
 56.61.0.0/16,MY,MY-14,Kuala Lumpur,
 35.18.0.0/15,MY,MY-14,Kuala Lumpur,
@@ -5682,6 +5689,7 @@
 96.0.36.0/22,NG,NG-LA,Lagos,
 1.178.27.0/24,NZ,NZ-AUK,Auckland,
 96.0.80.0/22,NZ,NZ-AUK,Auckland,
+63.249.130.0/24,NZ,NZ-AUK,Auckland,
 150.222.54.192/27,NZ,NZ-AUK,Auckland,
 5.60.32.0/20,NZ,NZ-AUK,Auckland,
 13.248.79.0/24,NZ,NZ-AUK,Auckland,
@@ -6529,6 +6537,7 @@
 15.220.56.0/21,TW,TW-TPE,Taipei,
 104.255.59.217/32,TW,TW-TPE,Taipei,
 1.178.31.0/24,TW,TW-TPE,Taipei,
+63.249.199.0/24,TW,TW-TPE,Taipei,
 43.212.0.0/15,TW,TW-TPE,Taipei,
 150.222.54.128/27,TW,TW-TPE,Taipei,
 150.222.54.96/27,TW,TW-TPE,Taipei,
