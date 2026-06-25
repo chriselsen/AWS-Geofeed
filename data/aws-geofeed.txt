@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-25T08:28:12+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-25T16:27:13+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -452,6 +452,7 @@
 104.255.59.132/32,AU,AU-VIC,Melbourne,
 150.222.51.192/27,AU,AU-VIC,Melbourne,
 150.222.51.224/27,AU,AU-VIC,Melbourne,
+63.249.179.0/24,AU,AU-VIC,Melbourne,
 15.230.118.0/24,AU,AU-VIC,Melbourne,
 104.255.59.131/32,AU,AU-VIC,Melbourne,
 45.33.171.0/24,AU,AU-VIC,Melbourne,
@@ -4356,6 +4357,7 @@
 2406:da1a:74a:4b00::/56,IN,IN-MH,Mumbai,
 2406:da1a:9d0:b800::/56,IN,IN-MH,Mumbai,
 63.249.164.0/24,IN,IN-TG,Hyderabad,
+63.249.165.0/24,IN,IN-TG,Hyderabad,
 98.131.0.0/16,IN,IN-TG,Hyderabad,
 52.93.115.0/24,IN,IN-TG,Hyderabad,
 15.177.94.0/24,IN,IN-TG,Hyderabad,
@@ -5528,6 +5530,7 @@
 1.178.29.0/24,MX,MX-QUE,Querétaro,
 104.255.57.98/32,MX,MX-QUE,Querétaro,
 104.255.57.102/32,MX,MX-QUE,Querétaro,
+63.249.189.0/24,MX,MX-QUE,Querétaro,
 35.30.0.0/15,MX,MX-QUE,Querétaro,
 56.56.0.0/16,MX,MX-QUE,Querétaro,
 35.28.0.0/15,MX,MX-QUE,Querétaro,
@@ -10183,6 +10186,7 @@
 52.93.126.146/32,ZA,ZA-WC,Cape Town,
 216.198.232.0/24,ZA,ZA-WC,Cape Town,
 54.239.1.128/28,ZA,ZA-WC,Cape Town,
+63.249.149.0/24,ZA,ZA-WC,Cape Town,
 99.78.128.0/20,ZA,ZA-WC,Cape Town,
 15.230.72.64/26,ZA,ZA-WC,Cape Town,
 16.6.0.0/16,ZA,ZA-WC,Cape Town,
