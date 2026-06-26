@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-25T22:29:37+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-26T00:29:49+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1044,6 +1044,7 @@
 52.94.250.48/28,CA,CA-AB,Calgary,
 16.12.56.0/23,CA,CA-AB,Calgary,
 150.222.52.128/27,CA,CA-AB,Calgary,
+64.66.145.0/24,CA,CA-AB,Calgary,
 3.2.96.0/24,CA,CA-AB,Calgary,
 35.54.57.0/24,CA,CA-AB,Calgary,
 15.190.48.0/20,CA,CA-AB,Calgary,
@@ -7367,6 +7368,7 @@
 52.144.196.192/26,US,US-OH,Columbus,
 15.230.72.0/26,US,US-OH,Columbus,
 52.93.199.103/32,US,US-OH,Columbus,
+64.66.136.0/24,US,US-OH,Columbus,
 104.255.57.166/32,US,US-OH,Columbus,
 108.166.244.35/32,US,US-OH,Columbus,
 52.93.199.34/32,US,US-OH,Columbus,
@@ -8167,6 +8169,7 @@
 108.166.232.0/21,US,US-OR,Boardman,
 52.93.246.222/32,US,US-OR,Boardman,
 54.214.0.0/16,US,US-OR,Boardman,
+64.66.130.0/24,US,US-OR,Boardman,
 52.93.246.220/32,US,US-OR,Boardman,
 34.208.0.0/12,US,US-OR,Boardman,
 108.175.48.0/22,US,US-OR,Boardman,
@@ -8300,6 +8303,7 @@
 3.4.4.0/24,US,US-OR,Boardman,
 52.46.249.0/24,US,US-OR,Boardman,
 40.38.0.0/16,US,US-OR,Boardman,
+64.66.129.0/24,US,US-OR,Boardman,
 150.222.182.17/32,US,US-OR,Boardman,
 35.96.3.0/24,US,US-OR,Boardman,
 150.222.39.64/26,US,US-OR,Boardman,
@@ -9364,6 +9368,7 @@
 3.3.16.0/21,US,US-VA,Ashburn,
 5.60.16.0/24,US,US-VA,Ashburn,
 52.93.127.162/32,US,US-VA,Ashburn,
+64.66.131.0/24,US,US-VA,Ashburn,
 15.221.160.0/22,US,US-VA,Ashburn,
 150.222.24.33/32,US,US-VA,Ashburn,
 15.230.109.0/24,US,US-VA,Ashburn,
