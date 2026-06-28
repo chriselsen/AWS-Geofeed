@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-27T16:31:25+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-28T02:28:05+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -4008,9 +4008,11 @@
 150.222.52.0/27,IL,IL-TA,Tel Aviv-Yafo,
 35.54.60.0/24,IL,IL-TA,Tel Aviv-Yafo,
 15.251.0.28/32,IL,IL-TA,Tel Aviv-Yafo,
+63.249.195.0/24,IL,IL-TA,Tel Aviv-Yafo,
 52.93.32.184/32,IL,IL-TA,Tel Aviv-Yafo,
 54.7.0.0/16,IL,IL-TA,Tel Aviv-Yafo,
 54.8.0.0/16,IL,IL-TA,Tel Aviv-Yafo,
+63.249.197.0/24,IL,IL-TA,Tel Aviv-Yafo,
 150.222.52.64/27,IL,IL-TA,Tel Aviv-Yafo,
 35.71.122.0/24,IL,IL-TA,Tel Aviv-Yafo,
 54.239.1.240/28,IL,IL-TA,Tel Aviv-Yafo,
@@ -4034,6 +4036,7 @@
 15.230.62.0/24,IL,IL-TA,Tel Aviv-Yafo,
 54.5.0.0/16,IL,IL-TA,Tel Aviv-Yafo,
 15.251.0.26/32,IL,IL-TA,Tel Aviv-Yafo,
+63.249.196.0/24,IL,IL-TA,Tel Aviv-Yafo,
 15.248.48.0/21,IL,IL-TA,Tel Aviv-Yafo,
 51.16.0.0/15,IL,IL-TA,Tel Aviv-Yafo,
 15.190.0.0/22,IL,IL-TA,Tel Aviv-Yafo,
