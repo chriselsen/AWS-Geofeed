@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-30T20:32:10+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-06-30T22:30:50+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2354,6 +2354,7 @@
 2a05:d038:4000::/40,DE,DE-HE,Frankfurt am Main,
 2a05:d014::/35,DE,DE-HE,Frankfurt am Main,
 2a05:d032:b000::/40,DE,DE-HE,Frankfurt am Main,
+2606:f40:4901::/48,DE,DE-HE,Frankfurt am Main,
 2606:f40:fff5::/48,DE,DE-HE,Frankfurt am Main,
 2600:1ffd:80f0::/48,DE,DE-HE,Frankfurt am Main,
 2a05:d07e:b000::/40,DE,DE-HE,Frankfurt am Main,
@@ -2385,6 +2386,7 @@
 2a05:d05a:4000::/40,DE,DE-HE,Frankfurt am Main,
 2606:f40:1800::/40,DE,DE-HE,Frankfurt am Main,
 2a05:d078:4000::/40,DE,DE-HE,Frankfurt am Main,
+2606:f40:4300::/40,DE,DE-HE,Frankfurt am Main,
 2600:f0fb:f023::/48,DE,DE-HE,Frankfurt am Main,
 2a05:d050:b000::/40,DE,DE-HE,Frankfurt am Main,
 2600:f00e:600::/40,DE,DE-HE,Frankfurt am Main,
@@ -2568,6 +2570,7 @@
 2a05:d076:1000::/40,ES,ES-Z,Zaragoza,
 2600:f0f1:8c::/48,ES,ES-Z,Zaragoza,
 2600:f00e:400::/40,ES,ES-Z,Zaragoza,
+2606:f40:4902::/48,ES,ES-Z,Zaragoza,
 2a05:d011::/36,ES,ES-Z,Zaragoza,
 2a05:d07d:1000::/40,ES,ES-Z,Zaragoza,
 2a05:d036:1000::/40,ES,ES-Z,Zaragoza,
@@ -2575,6 +2578,7 @@
 2a05:d040:1000::/40,ES,ES-Z,Zaragoza,
 2a05:d073:1000::/40,ES,ES-Z,Zaragoza,
 2600:f003:a200::/40,ES,ES-Z,Zaragoza,
+2606:f40:4600::/40,ES,ES-Z,Zaragoza,
 2606:f40:a100::/40,ES,ES-Z,Zaragoza,
 2a05:d078:1000::/40,ES,ES-Z,Zaragoza,
 2a05:d07e:1000::/40,ES,ES-Z,Zaragoza,
@@ -8754,6 +8758,7 @@
 2606:7b40:1042:3200::/60,US,US-OR,Boardman,
 2600:1fef:2000::/40,US,US-OR,Boardman,
 2606:7b40:3006:8000::/50,US,US-OR,Boardman,
+2606:f40:4200::/40,US,US-OR,Boardman,
 2606:7b40:10ff:d280::/60,US,US-OR,Boardman,
 2606:7b40:3004:c000::/50,US,US-OR,Boardman,
 2620:107:4000:9900:50:82::/96,US,US-OR,Boardman,
@@ -8882,6 +8887,7 @@
 2631:0:1800::/39,US,US-OR,Boardman,
 2606:7b40:1a2f:c320::/60,US,US-OR,Boardman,
 2606:7b40:1b00:700::/56,US,US-OR,Boardman,
+2606:f40:4900::/48,US,US-OR,Boardman,
 2606:7b40:10ff:d2f0::/60,US,US-OR,Boardman,
 2606:7b40:a3e:280::/60,US,US-OR,Boardman,
 2600:1fb9:4000::/39,US,US-OR,Boardman,
