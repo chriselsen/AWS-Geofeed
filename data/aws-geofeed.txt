@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-07-01T00:28:14+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-07-01T04:29:54+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2318,6 +2318,7 @@
 2a01:578:13::/48,DE,DE-HE,Frankfurt am Main,
 2a05:d036:4000::/40,DE,DE-HE,Frankfurt am Main,
 2600:f0f0:720::/48,DE,DE-HE,Frankfurt am Main,
+2600:f008:100::/40,DE,DE-HE,Frankfurt am Main,
 2a05:d07e:4000::/40,DE,DE-HE,Frankfurt am Main,
 2600:f0f0:110f::/48,DE,DE-HE,Frankfurt am Main,
 2a01:578:0:7100::/56,DE,DE-HE,Frankfurt am Main,
@@ -2575,6 +2576,7 @@
 2a05:d07d:1000::/40,ES,ES-Z,Zaragoza,
 2a05:d036:1000::/40,ES,ES-Z,Zaragoza,
 2606:7b40:1b0d:100::/56,ES,ES-Z,Zaragoza,
+2600:f008:200::/40,ES,ES-Z,Zaragoza,
 2a05:d040:1000::/40,ES,ES-Z,Zaragoza,
 2a05:d073:1000::/40,ES,ES-Z,Zaragoza,
 2600:f003:a200::/40,ES,ES-Z,Zaragoza,
@@ -3425,6 +3427,7 @@
 64.66.153.0/24,ID,ID-JK,Jakarta,
 65.4.0.0/16,ID,ID-JK,Jakarta,
 63.249.143.0/24,ID,ID-JK,Jakarta,
+1.178.86.0/24,ID,ID-JK,Jakarta,
 54.239.1.144/28,ID,ID-JK,Jakarta,
 15.232.0.0/16,ID,ID-JK,Jakarta,
 63.249.141.0/24,ID,ID-JK,Jakarta,
@@ -8901,10 +8904,12 @@
 2606:7b40:1f00::/40,US,US-OR,Boardman,
 2606:8140:900::/40,US,US-OR,Boardman,
 2606:7b40:1000:72a0::/60,US,US-OR,Boardman,
+2631:1:200::/40,US,US-OR,Boardman,
 2600:1fba:4000::/39,US,US-OR,Boardman,
 2620:107:4000:7200::/56,US,US-OR,Boardman,
 2600:1ffa:2000::/40,US,US-OR,Boardman,
 2620:107:4000:5::/64,US,US-OR,Boardman,
+2600:f008::/40,US,US-OR,Boardman,
 2631:1:105::/48,US,US-OR,Boardman,
 2600:1fef:4000::/39,US,US-OR,Boardman,
 2600:9000:5202::/48,US,US-OR,Boardman,
