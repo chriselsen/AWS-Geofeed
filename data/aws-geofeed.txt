@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-07-01T12:29:09+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-07-01T14:29:45+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -4695,6 +4695,10 @@
 15.161.135.164/30,IT,IT-MI,Milan,
 15.161.135.64/27,IT,IT-MI,Milan,
 15.161.135.96/27,IT,IT-MI,Milan,
+16.22.121.0/26,IT,IT-MI,Milan,
+16.22.121.64/28,IT,IT-MI,Milan,
+16.22.41.144/28,IT,IT-MI,Milan,
+16.22.41.160/27,IT,IT-MI,Milan,
 2a05:d07a:a000::/40,IT,IT-MI,Milan,
 2a05:d07c:a000::/40,IT,IT-MI,Milan,
 2600:1f01:4918::/47,IT,IT-MI,Milan,
@@ -4744,6 +4748,7 @@
 2a05:d03a:a000::/56,IT,IT-MI,Milan,
 2a05:d02a:4::/48,IT,IT-MI,Milan,
 2a05:d01a:c03:4a00::/56,IT,IT-MI,Milan,
+2a05:d01a:eae:1b00::/56,IT,IT-MI,Milan,
 69.107.12.24/29,JP,JP-13,Tokyo,
 15.221.34.0/24,JP,JP-13,Tokyo,
 52.144.229.64/26,JP,JP-13,Tokyo,
@@ -7411,6 +7416,7 @@
 15.230.39.220/31,US,US-OH,Columbus,
 18.116.0.0/14,US,US-OH,Columbus,
 52.93.199.91/32,US,US-OH,Columbus,
+64.73.199.0/24,US,US-OH,Columbus,
 108.166.244.57/32,US,US-OH,Columbus,
 35.96.26.0/23,US,US-OH,Columbus,
 104.255.57.164/32,US,US-OH,Columbus,
@@ -7431,6 +7437,7 @@
 172.96.110.0/24,US,US-OH,Columbus,
 15.230.39.2/31,US,US-OH,Columbus,
 52.144.196.192/26,US,US-OH,Columbus,
+64.73.200.0/24,US,US-OH,Columbus,
 15.230.72.0/26,US,US-OH,Columbus,
 52.93.199.103/32,US,US-OH,Columbus,
 64.66.136.0/24,US,US-OH,Columbus,
@@ -7496,6 +7503,7 @@
 108.166.244.24/32,US,US-OH,Columbus,
 3.3.28.0/22,US,US-OH,Columbus,
 15.230.39.170/31,US,US-OH,Columbus,
+64.73.198.0/24,US,US-OH,Columbus,
 52.93.199.30/32,US,US-OH,Columbus,
 108.166.244.26/32,US,US-OH,Columbus,
 52.95.24.0/22,US,US-OH,Columbus,
@@ -8266,6 +8274,7 @@
 52.95.247.0/24,US,US-OR,Boardman,
 150.222.180.0/24,US,US-OR,Boardman,
 50.112.0.0/16,US,US-OR,Boardman,
+64.73.193.0/24,US,US-OR,Boardman,
 15.230.67.192/26,US,US-OR,Boardman,
 3.4.15.8/29,US,US-OR,Boardman,
 15.230.68.0/26,US,US-OR,Boardman,
@@ -8284,6 +8293,7 @@
 35.34.97.0/24,US,US-OR,Boardman,
 150.222.196.0/24,US,US-OR,Boardman,
 52.46.180.0/22,US,US-OR,Boardman,
+64.73.194.0/24,US,US-OR,Boardman,
 216.198.231.0/24,US,US-OR,Boardman,
 13.248.112.0/24,US,US-OR,Boardman,
 15.230.92.0/24,US,US-OR,Boardman,
@@ -8359,6 +8369,7 @@
 162.208.121.0/24,US,US-OR,Boardman,
 35.155.0.0/16,US,US-OR,Boardman,
 54.239.2.0/23,US,US-OR,Boardman,
+64.73.192.0/24,US,US-OR,Boardman,
 3.4.12.42/32,US,US-OR,Boardman,
 104.153.113.0/24,US,US-OR,Boardman,
 54.239.0.32/28,US,US-OR,Boardman,
