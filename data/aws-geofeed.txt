@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-07-09T18:29:40+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-07-09T20:31:57+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -155,7 +155,6 @@
 99.83.120.0/22,AU,AU-NSW,Sydney,
 3.24.0.0/14,AU,AU-NSW,Sydney,
 15.230.107.0/32,AU,AU-NSW,Sydney,
-35.96.39.0/24,AU,AU-NSW,Sydney,
 52.93.33.10/32,AU,AU-NSW,Sydney,
 52.94.152.177/32,AU,AU-NSW,Sydney,
 99.78.212.0/22,AU,AU-NSW,Sydney,
@@ -1154,7 +1153,6 @@
 15.221.33.0/24,CA,CA-QC,Montreal,
 150.222.43.224/27,CA,CA-QC,Montreal,
 40.187.0.0/16,CA,CA-QC,Montreal,
-35.96.22.0/23,CA,CA-QC,Montreal,
 99.151.128.0/21,CA,CA-QC,Montreal,
 99.82.174.0/24,CA,CA-QC,Montreal,
 99.79.0.0/16,CA,CA-QC,Montreal,
@@ -2063,7 +2061,6 @@
 150.222.144.102/32,DE,DE-HE,Frankfurt am Main,
 54.239.4.0/22,DE,DE-HE,Frankfurt am Main,
 15.230.15.68/31,DE,DE-HE,Frankfurt am Main,
-35.96.58.0/23,DE,DE-HE,Frankfurt am Main,
 15.230.15.86/31,DE,DE-HE,Frankfurt am Main,
 15.230.15.146/31,DE,DE-HE,Frankfurt am Main,
 35.50.193.0/24,DE,DE-HE,Frankfurt am Main,
@@ -3445,7 +3442,6 @@
 64.66.153.0/24,ID,ID-JK,Jakarta,
 65.4.0.0/16,ID,ID-JK,Jakarta,
 63.249.143.0/24,ID,ID-JK,Jakarta,
-1.178.86.0/24,ID,ID-JK,Jakarta,
 54.239.1.144/28,ID,ID-JK,Jakarta,
 15.232.0.0/16,ID,ID-JK,Jakarta,
 63.249.141.0/24,ID,ID-JK,Jakarta,
@@ -4864,7 +4860,6 @@
 63.249.187.0/24,JP,JP-13,Tokyo,
 99.83.84.0/22,JP,JP-13,Tokyo,
 1.178.64.0/24,JP,JP-13,Tokyo,
-35.96.38.0/24,JP,JP-13,Tokyo,
 52.93.127.253/32,JP,JP-13,Tokyo,
 52.219.136.0/22,JP,JP-13,Tokyo,
 64.252.110.0/24,JP,JP-13,Tokyo,
@@ -8263,7 +8258,6 @@
 16.12.112.0/21,US,US-OR,Boardman,
 35.96.6.0/24,US,US-OR,Boardman,
 64.73.205.0/24,US,US-OR,Boardman,
-35.97.192.0/24,US,US-OR,Boardman,
 44.224.0.0/11,US,US-OR,Boardman,
 52.94.152.195/32,US,US-OR,Boardman,
 35.55.38.0/24,US,US-OR,Boardman,
@@ -8389,7 +8383,6 @@
 35.96.15.0/24,US,US-OR,Boardman,
 52.32.0.0/14,US,US-OR,Boardman,
 54.239.0.128/28,US,US-OR,Boardman,
-35.96.14.0/24,US,US-OR,Boardman,
 15.221.1.0/24,US,US-OR,Boardman,
 35.96.245.0/24,US,US-OR,Boardman,
 52.94.197.0/24,US,US-OR,Boardman,
