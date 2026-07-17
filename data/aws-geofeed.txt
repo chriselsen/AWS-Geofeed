@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-07-17T03:57:41+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-07-17T05:58:10+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -3400,7 +3400,6 @@
 64.66.153.0/24,ID,ID-JK,Jakarta,
 65.4.0.0/16,ID,ID-JK,Jakarta,
 63.249.143.0/24,ID,ID-JK,Jakarta,
-1.178.86.0/24,ID,ID-JK,Jakarta,
 54.239.1.144/28,ID,ID-JK,Jakarta,
 15.232.0.0/16,ID,ID-JK,Jakarta,
 63.249.141.0/24,ID,ID-JK,Jakarta,
@@ -8109,6 +8108,7 @@
 15.193.7.0/24,US,US-OR,Boardman,
 35.55.126.0/24,US,US-OR,Boardman,
 3.42.128.0/17,US,US-OR,Boardman,
+45.33.183.0/24,US,US-OR,Boardman,
 136.18.0.0/23,US,US-OR,Boardman,
 76.223.168.0/24,US,US-OR,Boardman,
 16.150.0.0/16,US,US-OR,Boardman,
@@ -9949,7 +9949,6 @@
 44.216.41.152/29,US,US-VA,Ashburn,
 44.216.41.160/29,US,US-VA,Ashburn,
 3.218.180.0/22,US,US-VA,Ashburn,
-2600:1f01:4900:500::/56,US,US-VA,Ashburn,
 2600:f0f0:2::/48,US,US-VA,Ashburn,
 2605:9cc0:1ff0:500::/56,US,US-VA,Ashburn,
 2620:107:4000:8900::/56,US,US-VA,Ashburn,
@@ -9962,7 +9961,6 @@
 2620:107:4000:9002::/64,US,US-VA,Ashburn,
 2600:f0f0:1:fd00::/56,US,US-VA,Ashburn,
 2600:f0f0:111c::/48,US,US-VA,Ashburn,
-2600:1f01:4900:900::/56,US,US-VA,Ashburn,
 2600:1ff8:2c00::/40,US,US-VA,Ashburn,
 2600:f0f0:90:1400::/56,US,US-VA,Ashburn,
 2600:1f36:8000::/39,US,US-VA,Ashburn,
@@ -10059,7 +10057,6 @@
 2620:107:4000:8500::/56,US,US-VA,Ashburn,
 2600:1f10:4000::/36,US,US-VA,Ashburn,
 2600:f0f0:f00:500::/56,US,US-VA,Ashburn,
-2600:1f01:4900:700::/56,US,US-VA,Ashburn,
 2600:f0f0:f00::/56,US,US-VA,Ashburn,
 2600:f0f0:8101::/48,US,US-VA,Ashburn,
 2606:f40:fffc::/48,US,US-VA,Ashburn,
