@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-07-23T02:01:22+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-07-23T03:57:05+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -4248,6 +4248,7 @@
 69.107.12.200/29,IN,IN-MH,Mumbai,
 150.222.113.0/24,IN,IN-MH,Mumbai,
 52.93.127.128/32,IN,IN-MH,Mumbai,
+80.126.1.0/24,IN,IN-MH,Mumbai,
 150.222.210.0/24,IN,IN-MH,Mumbai,
 3.6.0.0/15,IN,IN-MH,Mumbai,
 35.34.98.0/24,IN,IN-MH,Mumbai,
@@ -10013,6 +10014,7 @@
 2600:f0f0:1:fd00::/56,US,US-VA,Ashburn,
 2600:f0f0:111c::/48,US,US-VA,Ashburn,
 2600:1ff8:2c00::/40,US,US-VA,Ashburn,
+2600:f0f3:f010:3400::/56,US,US-VA,Ashburn,
 2600:1f01:4944::/47,US,US-VA,Ashburn,
 2600:f0f0:90:1400::/56,US,US-VA,Ashburn,
 2600:1f36:8000::/39,US,US-VA,Ashburn,
@@ -10031,6 +10033,7 @@
 2606:8140:500::/40,US,US-VA,Ashburn,
 2600:f0f0:e11::/48,US,US-VA,Ashburn,
 2600:f0f0:700::/44,US,US-VA,Ashburn,
+2600:f0f3:f010:3800::/56,US,US-VA,Ashburn,
 2606:f40:fffe::/48,US,US-VA,Ashburn,
 2620:107:4000:7000::/56,US,US-VA,Ashburn,
 2620:107:4000:901b::/64,US,US-VA,Ashburn,
@@ -10073,11 +10076,9 @@
 2606:f40:4903::/48,US,US-VA,Ashburn,
 2600:1f33:8000::/39,US,US-VA,Ashburn,
 2600:f0f0:6100::/48,US,US-VA,Ashburn,
-2600:f0f3:f010:3800::/64,US,US-VA,Ashburn,
 2600:f0fb:f100::/48,US,US-VA,Ashburn,
 2600:f0f2:7011::/48,US,US-VA,Ashburn,
 2600:f0f0:551d::/48,US,US-VA,Ashburn,
-2600:f0f3:f010:3400::/64,US,US-VA,Ashburn,
 2600:f0f0:e0d::/48,US,US-VA,Ashburn,
 2600:9000:5203::/48,US,US-VA,Ashburn,
 2600:f0f0:8180::/48,US,US-VA,Ashburn,
@@ -10095,7 +10096,6 @@
 2605:9cc0:1ff0:800::/56,US,US-VA,Ashburn,
 2600:f0f0:0:204::/62,US,US-VA,Ashburn,
 2600:f0f2:7012::/48,US,US-VA,Ashburn,
-2600:f0f3:f010:3801::/64,US,US-VA,Ashburn,
 2600:f0f0:0:21c::/62,US,US-VA,Ashburn,
 2600:f0f3:f010:300::/56,US,US-VA,Ashburn,
 2600:1feb:8000::/39,US,US-VA,Ashburn,
@@ -10218,7 +10218,6 @@
 2620:107:4000:9017::/64,US,US-VA,Ashburn,
 2605:9cc0:1ff0:f800::/56,US,US-VA,Ashburn,
 2600:1f29:8000::/36,US,US-VA,Ashburn,
-2600:f0f3:f010:3401::/64,US,US-VA,Ashburn,
 2600:1f70:8000::/39,US,US-VA,Ashburn,
 2600:1fb9:8000::/39,US,US-VA,Ashburn,
 2600:f0f0:0:210::/62,US,US-VA,Ashburn,
