@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-07-27T00:00:34+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-07-27T05:59:28+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1040,6 +1040,7 @@
 16.175.0.0/16,CA,CA-AB,Calgary,
 15.248.64.0/21,CA,CA-AB,Calgary,
 150.222.52.160/27,CA,CA-AB,Calgary,
+173.83.232.0/24,CA,CA-AB,Calgary,
 3.5.172.0/22,CA,CA-AB,Calgary,
 56.115.0.0/16,CA,CA-AB,Calgary,
 63.249.205.0/24,CA,CA-AB,Calgary,
@@ -2446,6 +2447,7 @@
 40.143.64.0/21,ES,ES-Z,Zaragoza,
 150.222.50.64/27,ES,ES-Z,Zaragoza,
 64.66.147.0/24,ES,ES-Z,Zaragoza,
+173.83.223.0/24,ES,ES-Z,Zaragoza,
 136.18.2.0/24,ES,ES-Z,Zaragoza,
 1.178.22.0/24,ES,ES-Z,Zaragoza,
 15.216.0.0/16,ES,ES-Z,Zaragoza,
@@ -2582,6 +2584,7 @@
 2a05:d070:1000::/40,ES,ES-Z,Zaragoza,
 2a05:d05b:1000::/40,ES,ES-Z,Zaragoza,
 2606:7b40:1b0d::/56,ES,ES-Z,Zaragoza,
+2605:b140:9906::/48,ES,ES-Z,Zaragoza,
 2a05:d03a:1000::/40,ES,ES-Z,Zaragoza,
 2a05:d068:1000::/40,ES,ES-Z,Zaragoza,
 2a05:d072:1000::/40,ES,ES-Z,Zaragoza,
@@ -3431,7 +3434,6 @@
 64.66.153.0/24,ID,ID-JK,Jakarta,
 65.4.0.0/16,ID,ID-JK,Jakarta,
 63.249.143.0/24,ID,ID-JK,Jakarta,
-1.178.86.0/24,ID,ID-JK,Jakarta,
 54.239.1.144/28,ID,ID-JK,Jakarta,
 15.232.0.0/16,ID,ID-JK,Jakarta,
 63.249.141.0/24,ID,ID-JK,Jakarta,
@@ -3616,6 +3618,7 @@
 150.222.13.0/24,IE,IE-D,Dublin,
 52.144.208.192/26,IE,IE-D,Dublin,
 15.230.223.8/31,IE,IE-D,Dublin,
+45.33.187.0/24,IE,IE-D,Dublin,
 52.208.0.0/13,IE,IE-D,Dublin,
 150.103.0.0/16,IE,IE-D,Dublin,
 15.177.89.0/24,IE,IE-D,Dublin,
