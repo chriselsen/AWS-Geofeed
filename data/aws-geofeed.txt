@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-07-29T23:01:16+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-07-30T01:02:25+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -24,7 +24,6 @@
 150.222.49.224/27,AE,AE-DU,Dubai,
 54.136.0.0/16,AE,AE-DU,Dubai,
 1.178.20.0/24,AE,AE-DU,Dubai,
-51.0.88.0/21,AE,AE-DU,Dubai,
 99.77.24.0/22,AE,AE-DU,Dubai,
 52.94.249.224/28,AE,AE-DU,Dubai,
 52.95.188.0/23,AE,AE-DU,Dubai,
@@ -35,7 +34,6 @@
 99.77.16.0/21,AE,AE-DU,Dubai,
 15.177.93.0/24,AE,AE-DU,Dubai,
 3.28.0.0/15,AE,AE-DU,Dubai,
-51.0.80.0/21,AE,AE-DU,Dubai,
 3.28.211.128/25,AE,AE-DU,Dubai,
 3.28.229.0/24,AE,AE-DU,Dubai,
 3.28.255.128/25,AE,AE-DU,Dubai,
@@ -2002,6 +2000,7 @@
 3.4.15.160/29,DE,DE-HE,Frankfurt am Main,
 15.230.15.214/31,DE,DE-HE,Frankfurt am Main,
 15.230.15.130/31,DE,DE-HE,Frankfurt am Main,
+23.254.30.0/23,DE,DE-HE,Frankfurt am Main,
 15.230.15.116/31,DE,DE-HE,Frankfurt am Main,
 99.200.0.0/13,DE,DE-HE,Frankfurt am Main,
 99.77.158.0/24,DE,DE-HE,Frankfurt am Main,
@@ -2291,6 +2290,7 @@
 35.159.219.240/29,DE,DE-HE,Frankfurt am Main,
 35.159.219.248/29,DE,DE-HE,Frankfurt am Main,
 2a05:d05b:b000::/40,DE,DE-HE,Frankfurt am Main,
+2a05:d024:8000::/36,DE,DE-HE,Frankfurt am Main,
 2a05:d07d:4000::/40,DE,DE-HE,Frankfurt am Main,
 2a05:d070:b000::/40,DE,DE-HE,Frankfurt am Main,
 2600:1ffd:80a7::/48,DE,DE-HE,Frankfurt am Main,
@@ -2669,7 +2669,6 @@
 69.107.12.216/29,FR,FR-75C,Paris,
 3.4.12.75/32,FR,FR-75C,Paris,
 15.230.156.0/24,FR,FR-75C,Paris,
-51.0.96.0/21,FR,FR-75C,Paris,
 15.225.0.0/16,FR,FR-75C,Paris,
 54.239.40.132/32,FR,FR-75C,Paris,
 52.95.254.0/24,FR,FR-75C,Paris,
@@ -3433,6 +3432,7 @@
 64.66.153.0/24,ID,ID-JK,Jakarta,
 65.4.0.0/16,ID,ID-JK,Jakarta,
 63.249.143.0/24,ID,ID-JK,Jakarta,
+1.178.86.0/24,ID,ID-JK,Jakarta,
 54.239.1.144/28,ID,ID-JK,Jakarta,
 15.232.0.0/16,ID,ID-JK,Jakarta,
 63.249.141.0/24,ID,ID-JK,Jakarta,
@@ -7971,6 +7971,7 @@
 3.145.246.56/29,US,US-OH,Columbus,
 3.146.72.40/29,US,US-OH,Columbus,
 3.149.13.208/29,US,US-OH,Columbus,
+2606:7b40:1000:62d0::/60,US,US-OH,Columbus,
 2605:b140:9803::/48,US,US-OH,Columbus,
 2606:7b40:1000:6280::/60,US,US-OH,Columbus,
 2600:1feb:5000::/40,US,US-OH,Columbus,
