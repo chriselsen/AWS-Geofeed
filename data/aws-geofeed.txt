@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-08-19T19:59:03+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-08-19T21:51:31+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -3499,7 +3499,6 @@
 64.66.153.0/24,ID,ID-JK,Jakarta,
 65.4.0.0/16,ID,ID-JK,Jakarta,
 63.249.143.0/24,ID,ID-JK,Jakarta,
-1.178.86.0/24,ID,ID-JK,Jakarta,
 54.239.1.144/28,ID,ID-JK,Jakarta,
 15.232.0.0/16,ID,ID-JK,Jakarta,
 63.249.141.0/24,ID,ID-JK,Jakarta,
@@ -8112,6 +8111,7 @@
 3.146.29.66/31,US,US-OH,Columbus,
 3.146.42.64/30,US,US-OH,Columbus,
 16.65.98.128/25,US,US-OH,Columbus,
+16.66.4.0/22,US,US-OH,Columbus,
 77.112.12.0/22,US,US-OH,Columbus,
 77.112.4.0/22,US,US-OH,Columbus,
 77.112.8.0/22,US,US-OH,Columbus,
@@ -8301,6 +8301,7 @@
 2600:1f25:14::/48,US,US-OH,Columbus,
 2600:1f26:28::/48,US,US-OH,Columbus,
 2600:1f15:46b:6e00::/56,US,US-OH,Columbus,
+2600:1f15:563:5d00::/56,US,US-OH,Columbus,
 2600:1f16:1119:8600::/56,US,US-OH,Columbus,
 2600:1f16:663:5300::/56,US,US-OH,Columbus,
 2600:1f16:acd:3a00::/56,US,US-OH,Columbus,
@@ -8762,6 +8763,7 @@
 35.94.128.244/31,US,US-OR,Boardman,
 35.94.128.248/30,US,US-OR,Boardman,
 40.38.87.128/25,US,US-OR,Boardman,
+40.39.44.0/22,US,US-OR,Boardman,
 32.187.164.0/22,US,US-OR,Boardman,
 32.187.168.0/22,US,US-OR,Boardman,
 32.187.172.0/22,US,US-OR,Boardman,
@@ -9128,6 +9130,7 @@
 2620:108:700f::/64,US,US-OR,Boardman,
 2620:108:d00f::/64,US,US-OR,Boardman,
 2600:1f12:824:e00::/56,US,US-OR,Boardman,
+2600:1f12:ece:5300::/56,US,US-OR,Boardman,
 2600:1f14:139d:3000::/56,US,US-OR,Boardman,
 2600:1f14:1d67:ef00::/56,US,US-OR,Boardman,
 2600:1f14:331b:1900::/56,US,US-OR,Boardman,
