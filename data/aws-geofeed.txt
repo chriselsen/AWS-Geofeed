@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-09-02T13:22:35+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-09-02T14:53:01+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -888,6 +888,7 @@
 18.229.220.128/26,BR,BR-SP,Sao Paulo,
 18.230.46.128/26,BR,BR-SP,Sao Paulo,
 54.20.12.0/23,BR,BR-SP,Sao Paulo,
+54.20.154.0/23,BR,BR-SP,Sao Paulo,
 54.20.50.0/23,BR,BR-SP,Sao Paulo,
 177.71.207.128/26,BR,BR-SP,Sao Paulo,
 54.232.40.64/26,BR,BR-SP,Sao Paulo,
@@ -3479,7 +3480,6 @@
 99.78.228.0/22,ID,ID-JK,Jakarta,
 64.66.153.0/24,ID,ID-JK,Jakarta,
 65.4.0.0/16,ID,ID-JK,Jakarta,
-1.178.86.0/24,ID,ID-JK,Jakarta,
 54.239.1.144/28,ID,ID-JK,Jakarta,
 15.232.0.0/16,ID,ID-JK,Jakarta,
 16.79.0.0/16,ID,ID-JK,Jakarta,
@@ -4347,6 +4347,7 @@
 15.206.137.128/26,IN,IN-MH,Mumbai,
 15.206.137.192/26,IN,IN-MH,Mumbai,
 15.207.13.0/26,IN,IN-MH,Mumbai,
+15.252.216.0/23,IN,IN-MH,Mumbai,
 15.252.46.0/23,IN,IN-MH,Mumbai,
 15.252.48.0/23,IN,IN-MH,Mumbai,
 3.110.57.0/24,IN,IN-MH,Mumbai,
