@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-09-03T04:53:02+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-09-03T06:22:12+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -7462,7 +7462,6 @@
 2600:f0fb:eb00::/40,US,US-IL,Chicago,
 2600:1f15:4000::/36,US,US-IL,Chicago,
 2600:1f1f:4000::/36,US,US-IL,Chicago,
-2600:f0f0:c14f::/48,US,US-IN,New Carlisle,
 2600:1f6a:4c00::/46,US,US-IN,New Carlisle,
 161.188.48.0/20,US,US-KS,Lenexa,
 161.188.112.0/22,US,US-KS,Lenexa,
