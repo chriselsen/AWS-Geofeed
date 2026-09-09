@@ -85,6 +85,7 @@ eu-central-1-wl1-muc-wlz-1 DE,DE-BY,Munich,
 ap-northeast-2-wl1-cjj-wlz-1 KR,KR-30,Daejeon,
 ap-northeast-2-wl1-sel-wlz-1 KR,KR-11,Seoul,
 # LocalZones
+us-east-1-abe-1 US,US-PA,Allentown,
 eu-central-1-ams-1 NL,NL-NH,Amsterdam,
 eu-central-1-ath-1 GR,GR-I,Athens,
 eu-south-1-ath-1 GR,GR-I,Athens,
