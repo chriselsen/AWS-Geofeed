@@ -15,13 +15,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
 
       - name: checkout repo content
-        uses: actions/checkout@v4 # checkout the repository content to github runner
+        uses: actions/checkout@v5 # checkout the repository content to github runner
 
       - name: setup python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.10' # install the python version needed
           
@@ -38,10 +40,9 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "Data update" -a
-
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Data update"
+            git push origin HEAD:main
+          fi
