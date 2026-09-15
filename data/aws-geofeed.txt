@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-09-15T11:25:35+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-09-15T17:54:59+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -3544,6 +3544,7 @@
 2406:da70:e000:200::/56,HK,,Hong Kong,
 2406:da70:e000:400::/56,HK,,Hong Kong,
 2406:da70:e000::/56,HK,,Hong Kong,
+2406:da1e:705:1600::/56,HK,,Hong Kong,
 2406:da1e:32b:4500::/56,HK,,Hong Kong,
 2406:da1e:5ac:e700::/56,HK,,Hong Kong,
 2406:da1e:da1:3c00::/56,HK,,Hong Kong,
@@ -3588,6 +3589,7 @@
 99.78.228.0/22,ID,ID-JK,Jakarta,
 64.66.153.0/24,ID,ID-JK,Jakarta,
 65.4.0.0/16,ID,ID-JK,Jakarta,
+1.178.86.0/24,ID,ID-JK,Jakarta,
 54.239.1.144/28,ID,ID-JK,Jakarta,
 15.232.0.0/16,ID,ID-JK,Jakarta,
 16.79.0.0/16,ID,ID-JK,Jakarta,
@@ -3682,6 +3684,7 @@
 2406:da36:9000::/40,ID,ID-JK,Jakarta,
 2600:1f01:481a::/47,ID,ID-JK,Jakarta,
 2406:da38:9000::/40,ID,ID-JK,Jakarta,
+2406:da19:e19:4a00::/56,ID,ID-JK,Jakarta,
 2406:da19:f1f:e300::/56,ID,ID-JK,Jakarta,
 2406:da19:14b:8c00::/56,ID,ID-JK,Jakarta,
 3.4.12.4/32,IE,IE-D,Dublin,
@@ -4719,6 +4722,7 @@
 2606:f40:b200::/40,IN,IN-TS,Hyderabad,
 2606:f40:ffd4::/48,IN,IN-TS,Hyderabad,
 2406:daf2:b000::/40,IN,IN-TS,Hyderabad,
+2406:da1b:e7c:ad00::/56,IN,IN-TS,Hyderabad,
 2406:da1b:591:3500::/56,IN,IN-TS,Hyderabad,
 2406:da1b:9a2:5600::/56,IN,IN-TS,Hyderabad,
 2406:da1b:d1d:8800::/56,IN,IN-TS,Hyderabad,
@@ -6987,6 +6991,7 @@
 2406:da38:c800::/40,TW,TW-TPE,Taipei,
 2406:da62:c800::/40,TW,TW-TPE,Taipei,
 2600:f0f2:7025::/48,TW,TW-TPE,Taipei,
+2406:da1c:8d8c:4600::/56,TW,TW-TPE,Taipei,
 2406:da1c:80d4:8600::/56,TW,TW-TPE,Taipei,
 2406:da1c:80f0:7500::/56,TW,TW-TPE,Taipei,
 139.56.16.0/23,US,US-AZ,Phoenix,
@@ -10819,5 +10824,6 @@
 2406:da70:1000:400::/56,ZA,ZA-WC,Cape Town,
 2406:da70:1000::/56,ZA,ZA-WC,Cape Town,
 2406:da21:c::/48,ZA,ZA-WC,Cape Town,
+2406:da11:438:2300::/56,ZA,ZA-WC,Cape Town,
 2406:da11:6ba:7e00::/56,ZA,ZA-WC,Cape Town,
 2406:da11:700:3b00::/56,ZA,ZA-WC,Cape Town,
