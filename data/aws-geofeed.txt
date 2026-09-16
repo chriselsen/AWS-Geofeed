@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-09-16T01:25:41+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-09-16T02:55:22+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1045,6 +1045,7 @@
 2600:1f1e:7ff:f800::/56,BR,BR-SP,Sao Paulo,
 2600:1f1e:fff:f800::/56,BR,BR-SP,Sao Paulo,
 2600:1f2e:14::/48,BR,BR-SP,Sao Paulo,
+2600:1f1e:a7:2300::/56,BR,BR-SP,Sao Paulo,
 2600:1f1e:fa8:6400::/56,BR,BR-SP,Sao Paulo,
 2600:1f1e:d1d:e700::/56,BR,BR-SP,Sao Paulo,
 2600:1f1e:cd1:5100::/56,BR,BR-SP,Sao Paulo,
@@ -2566,6 +2567,7 @@
 2a05:d03a:4000::/56,DE,DE-HE,Frankfurt am Main,
 2a05:d076:4000::/48,DE,DE-HE,Frankfurt am Main,
 2a05:d024:18::/48,DE,DE-HE,Frankfurt am Main,
+2a05:d014:1362:b000::/56,DE,DE-HE,Frankfurt am Main,
 2a05:d014:102e:7e00::/56,DE,DE-HE,Frankfurt am Main,
 2a05:d014:1338:dd00::/56,DE,DE-HE,Frankfurt am Main,
 2a05:d014:1cde:6300::/56,DE,DE-HE,Frankfurt am Main,
@@ -3378,6 +3380,7 @@
 2a05:d03a:c000::/56,GB,GB-LND,London,
 2a05:d076:c000::/48,GB,GB-LND,London,
 2a05:d02c:8::/48,GB,GB-LND,London,
+2a05:d01c:343:c300::/56,GB,GB-LND,London,
 2a05:d01c:47d:5300::/56,GB,GB-LND,London,
 2a05:d01c:a6:3400::/56,GB,GB-LND,London,
 2a05:d01c:4ac:3100::/56,GB,GB-LND,London,
@@ -3593,7 +3596,6 @@
 99.78.228.0/22,ID,ID-JK,Jakarta,
 64.66.153.0/24,ID,ID-JK,Jakarta,
 65.4.0.0/16,ID,ID-JK,Jakarta,
-1.178.86.0/24,ID,ID-JK,Jakarta,
 54.239.1.144/28,ID,ID-JK,Jakarta,
 15.232.0.0/16,ID,ID-JK,Jakarta,
 16.79.0.0/16,ID,ID-JK,Jakarta,
@@ -4197,6 +4199,7 @@
 2a05:d018:7ff:f800::/56,IE,IE-D,Dublin,
 2a05:d018:fff:f800::/56,IE,IE-D,Dublin,
 2a05:d028:40::/48,IE,IE-D,Dublin,
+2a05:d018:1a3a:2d00::/56,IE,IE-D,Dublin,
 2a05:d018:12e5:5a00::/56,IE,IE-D,Dublin,
 2a05:d018:1505:aa00::/56,IE,IE-D,Dublin,
 2a05:d018:1813:9a00::/56,IE,IE-D,Dublin,
@@ -5811,6 +5814,7 @@
 2406:da70:2000::/56,KR,KR-11,Seoul,
 2406:daf6:2000::/48,KR,KR-11,Seoul,
 2406:da22:4::/48,KR,KR-11,Seoul,
+2406:da12:4b:c200::/56,KR,KR-11,Seoul,
 2406:da12:a2e:9b00::/56,KR,KR-11,Seoul,
 2406:da12:ab7:7200::/56,KR,KR-11,Seoul,
 2406:da12:1e1:d900::/56,KR,KR-11,Seoul,
@@ -6399,6 +6403,7 @@
 2a05:d03a:6000:200::/56,SE,SE-AB,Stockholm,
 2a05:d03a:6000:400::/56,SE,SE-AB,Stockholm,
 2a05:d03a:6000::/56,SE,SE-AB,Stockholm,
+2a05:d016:9ed:de00::/56,SE,SE-AB,Stockholm,
 2a05:d016:107:8100::/56,SE,SE-AB,Stockholm,
 2a05:d016:494:f00::/56,SE,SE-AB,Stockholm,
 2a05:d016:116:3d00::/56,SE,SE-AB,Stockholm,
@@ -8414,6 +8419,7 @@
 2600:1ff6:6000::/48,US,US-OH,Columbus,
 2600:1f25:14::/48,US,US-OH,Columbus,
 2600:1f26:28::/48,US,US-OH,Columbus,
+2600:1f16:1923:3000::/56,US,US-OH,Columbus,
 2600:1f15:46b:6e00::/56,US,US-OH,Columbus,
 2600:1f15:563:5d00::/56,US,US-OH,Columbus,
 2600:1f16:1119:8600::/56,US,US-OH,Columbus,
