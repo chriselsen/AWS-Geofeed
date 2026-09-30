@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-09-30T19:25:33+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-09-30T20:56:08+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2378,6 +2378,7 @@
 63.187.12.0/22,DE,DE-HE,Frankfurt am Main,
 63.187.16.0/22,DE,DE-HE,Frankfurt am Main,
 63.187.20.0/22,DE,DE-HE,Frankfurt am Main,
+63.189.140.0/22,DE,DE-HE,Frankfurt am Main,
 3.120.181.40/29,DE,DE-HE,Frankfurt am Main,
 18.153.184.142/31,DE,DE-HE,Frankfurt am Main,
 18.153.184.148/30,DE,DE-HE,Frankfurt am Main,
@@ -2572,6 +2573,7 @@
 2a05:d024:18::/48,DE,DE-HE,Frankfurt am Main,
 2a05:d014:1362:b000::/56,DE,DE-HE,Frankfurt am Main,
 2a05:d014:102e:7e00::/56,DE,DE-HE,Frankfurt am Main,
+2a05:d014:11e2:dc00::/56,DE,DE-HE,Frankfurt am Main,
 2a05:d014:1338:dd00::/56,DE,DE-HE,Frankfurt am Main,
 2a05:d014:1cde:6300::/56,DE,DE-HE,Frankfurt am Main,
 2a05:d014:17a8:8b00::/56,DE,DE-HE,Frankfurt am Main,
@@ -9161,6 +9163,7 @@
 2606:7b40:10ff:f270::/60,US,US-OR,Boardman,
 2600:f0f0:4140::/48,US,US-OR,Boardman,
 2606:f40:fffd::/48,US,US-OR,Boardman,
+2620:107:4000:7e00::/56,US,US-OR,Boardman,
 2606:7b40:10ff:a000::/56,US,US-OR,Boardman,
 2600:f0f0:1124::/48,US,US-OR,Boardman,
 2600:f0f2:7148::/48,US,US-OR,Boardman,
