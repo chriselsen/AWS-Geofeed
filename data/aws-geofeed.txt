@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-10-01T22:58:26+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-10-02T05:57:40+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -3612,6 +3612,7 @@
 99.78.228.0/22,ID,ID-JK,Jakarta,
 64.66.153.0/24,ID,ID-JK,Jakarta,
 65.4.0.0/16,ID,ID-JK,Jakarta,
+1.178.86.0/24,ID,ID-JK,Jakarta,
 54.239.1.144/28,ID,ID-JK,Jakarta,
 15.232.0.0/16,ID,ID-JK,Jakarta,
 16.79.0.0/16,ID,ID-JK,Jakarta,
@@ -4191,6 +4192,7 @@
 2600:f0f2:7015::/48,IE,IE-D,Dublin,
 2a05:d068:8000::/40,IE,IE-D,Dublin,
 2600:f0f0:c136::/48,IE,IE-D,Dublin,
+2600:f0fb:c005::/48,IE,IE-D,Dublin,
 2a05:d050:8000::/40,IE,IE-D,Dublin,
 2606:f40:9000::/39,IE,IE-D,Dublin,
 2a05:d07d:8000::/40,IE,IE-D,Dublin,
@@ -6436,6 +6438,7 @@
 150.222.78.0/24,SG,SG-01,Singapore,
 150.222.43.0/26,SG,SG-01,Singapore,
 150.222.14.0/24,SG,SG-01,Singapore,
+69.107.13.96/29,SG,SG-01,Singapore,
 15.221.35.0/24,SG,SG-01,Singapore,
 3.4.15.48/29,SG,SG-01,Singapore,
 15.230.4.129/32,SG,SG-01,Singapore,
@@ -6497,6 +6500,7 @@
 15.230.4.19/32,SG,SG-01,Singapore,
 64.252.103.0/24,SG,SG-01,Singapore,
 15.221.8.0/21,SG,SG-01,Singapore,
+69.107.13.104/29,SG,SG-01,Singapore,
 52.74.0.0/16,SG,SG-01,Singapore,
 15.230.4.156/31,SG,SG-01,Singapore,
 13.214.0.0/15,SG,SG-01,Singapore,
@@ -6725,6 +6729,7 @@
 2600:f0fb:ca01::/52,SG,SG-01,Singapore,
 2606:f40:ffe4::/48,SG,SG-01,Singapore,
 2600:f0f3:f010:3a00::/56,SG,SG-01,Singapore,
+2600:f0fb:c004::/48,SG,SG-01,Singapore,
 2406:dab9:8000::/40,SG,SG-01,Singapore,
 2600:f0f2:701b::/48,SG,SG-01,Singapore,
 2406:da00:8000::/40,SG,SG-01,Singapore,
@@ -7605,6 +7610,7 @@
 2620:107:4000:9019::/64,US,US-CA,San Francisco,
 2600:1feb:c000::/40,US,US-CA,San Francisco,
 2600:1fe8:c000::/40,US,US-CA,San Francisco,
+2600:f0fb:c006::/48,US,US-CA,San Francisco,
 2606:7b40:1b00:500::/56,US,US-CA,San Francisco,
 2606:7b40:1b0f:8000::/56,US,US-CA,San Francisco,
 2600:1f01:492a:4:8000::/65,US,US-CA,San Francisco,
