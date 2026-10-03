@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-10-03T21:25:41+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-10-03T22:56:59+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2456,7 +2456,6 @@
 2600:f0f0:6130::/48,DE,DE-HE,Frankfurt am Main,
 2a05:d07c:4000::/40,DE,DE-HE,Frankfurt am Main,
 2406:dafc:ffa0::/46,DE,DE-HE,Frankfurt am Main,
-2a05:d07f:f000::/40,DE,DE-HE,Frankfurt am Main,
 2600:f0f0:8183::/48,DE,DE-HE,Frankfurt am Main,
 2a05:d024::/36,DE,DE-HE,Frankfurt am Main,
 2a05:d030:4800::/40,DE,DE-HE,Frankfurt am Main,
@@ -3405,6 +3404,7 @@
 15.145.24.0/23,GB,GB-MAN,Manchester,
 75.45.128.0/18,GR,GR-I,Athens,
 2a05:d02f::/36,GR,GR-I,Athens,
+2a05:d07f:f000::/40,GR,GR-I,Athens,
 2a05:d01f::/36,GR,GR-I,Athens,
 216.244.32.0/22,HK,,Hong Kong,
 18.99.176.0/20,HK,,Hong Kong,
@@ -3612,7 +3612,6 @@
 99.78.228.0/22,ID,ID-JK,Jakarta,
 64.66.153.0/24,ID,ID-JK,Jakarta,
 65.4.0.0/16,ID,ID-JK,Jakarta,
-1.178.86.0/24,ID,ID-JK,Jakarta,
 54.239.1.144/28,ID,ID-JK,Jakarta,
 15.232.0.0/16,ID,ID-JK,Jakarta,
 16.79.0.0/16,ID,ID-JK,Jakarta,
@@ -6807,7 +6806,6 @@
 2406:daf6:8800::/40,SG,SG-01,Singapore,
 2600:f0f3:f010:2a00::/56,SG,SG-01,Singapore,
 2406:daff:8800::/40,SG,SG-01,Singapore,
-2406:daff:a800::/40,SG,SG-01,Singapore,
 2600:f0f0:e2f::/48,SG,SG-01,Singapore,
 2600:f0f0:6139::/48,SG,SG-01,Singapore,
 2406:daf3:8000::/40,SG,SG-01,Singapore,
@@ -10739,6 +10737,7 @@
 45.57.128.0/18,VN,VN-43,Hanoi,
 2406:da2a:8000::/36,VN,VN-43,Hanoi,
 2406:da1a:8000::/36,VN,VN-43,Hanoi,
+2406:daff:a800::/40,VN,VN-43,Hanoi,
 15.103.0.0/16,ZA,ZA-WC,Cape Town,
 99.78.152.0/22,ZA,ZA-WC,Cape Town,
 16.30.0.0/16,ZA,ZA-WC,Cape Town,
