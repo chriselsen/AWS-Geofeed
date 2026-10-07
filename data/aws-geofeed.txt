@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-10-07T11:56:55+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-10-07T13:26:45+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -3615,6 +3615,7 @@
 99.78.228.0/22,ID,ID-JK,Jakarta,
 64.66.153.0/24,ID,ID-JK,Jakarta,
 65.4.0.0/16,ID,ID-JK,Jakarta,
+1.178.86.0/24,ID,ID-JK,Jakarta,
 54.239.1.144/28,ID,ID-JK,Jakarta,
 15.232.0.0/16,ID,ID-JK,Jakarta,
 16.79.0.0/16,ID,ID-JK,Jakarta,
@@ -4149,6 +4150,7 @@
 2600:f0fb:f022::/48,IE,IE-D,Dublin,
 2600:f0f0:c10f::/48,IE,IE-D,Dublin,
 2a05:d078:8000::/40,IE,IE-D,Dublin,
+2600:f0fb:c803::/48,IE,IE-D,Dublin,
 2a05:d074:8000::/40,IE,IE-D,Dublin,
 2a05:d040:8000::/40,IE,IE-D,Dublin,
 2606:7b40:1b0d:4100::/56,IE,IE-D,Dublin,
@@ -6727,6 +6729,7 @@
 18.143.206.160/29,SG,SG-01,Singapore,
 2406:daf9:a800::/40,SG,SG-01,Singapore,
 2600:f0f0:610e::/48,SG,SG-01,Singapore,
+2600:f0fb:c802::/48,SG,SG-01,Singapore,
 2406:da70:8800::/40,SG,SG-01,Singapore,
 2406:daba:8800::/40,SG,SG-01,Singapore,
 2406:da70:8000::/40,SG,SG-01,Singapore,
@@ -7639,6 +7642,7 @@
 2620:107:4000:4105::/64,US,US-CA,San Francisco,
 2600:1f6a:b800::/46,US,US-CA,San Francisco,
 2600:f0f0:612b::/48,US,US-CA,San Francisco,
+2600:f0fb:c804::/48,US,US-CA,San Francisco,
 2600:1f60:c000::/40,US,US-CA,San Francisco,
 2600:1f1b:8000::/36,US,US-CA,San Francisco,
 2600:1fea:c000::/40,US,US-CA,San Francisco,
@@ -10476,6 +10480,7 @@
 2620:107:4000:9002::/64,US,US-VA,Ashburn,
 2600:f0f0:1:fd00::/56,US,US-VA,Ashburn,
 2600:f0f0:111c::/48,US,US-VA,Ashburn,
+2600:f0fb:c801::/48,US,US-VA,Ashburn,
 2600:1ff8:2c00::/40,US,US-VA,Ashburn,
 2600:f0f3:f010:3400::/56,US,US-VA,Ashburn,
 2600:1f01:4944::/47,US,US-VA,Ashburn,
