@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-10-15T04:27:42+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-10-15T06:27:19+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -3619,6 +3619,7 @@
 99.78.228.0/22,ID,ID-JK,Jakarta,
 64.66.153.0/24,ID,ID-JK,Jakarta,
 65.4.0.0/16,ID,ID-JK,Jakarta,
+1.178.86.0/24,ID,ID-JK,Jakarta,
 54.239.1.144/28,ID,ID-JK,Jakarta,
 15.232.0.0/16,ID,ID-JK,Jakarta,
 16.79.0.0/16,ID,ID-JK,Jakarta,
@@ -10837,6 +10838,7 @@
 15.177.91.0/24,ZA,ZA-WC,Cape Town,
 15.193.10.0/24,ZA,ZA-WC,Cape Town,
 15.240.0.0/16,ZA,ZA-WC,Cape Town,
+3.33.0.0/24,ZA,ZA-WC,Cape Town,
 3.5.202.0/23,ZA,ZA-WC,Cape Town,
 13.244.121.0/26,ZA,ZA-WC,Cape Town,
 13.244.122.0/24,ZA,ZA-WC,Cape Town,
@@ -10884,6 +10886,7 @@
 2406:daba:1000::/40,ZA,ZA-WC,Cape Town,
 2406:dabb:1000::/40,ZA,ZA-WC,Cape Town,
 2406:daea:1000::/40,ZA,ZA-WC,Cape Town,
+2600:1f01:494e::/47,ZA,ZA-WC,Cape Town,
 2406:dab9:1000::/40,ZA,ZA-WC,Cape Town,
 2606:7b40:10ff:60::/59,ZA,ZA-WC,Cape Town,
 2406:daef:1000::/40,ZA,ZA-WC,Cape Town,
