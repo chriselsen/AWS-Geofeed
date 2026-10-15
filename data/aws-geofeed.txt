@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-10-14T20:58:21+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-10-15T00:56:28+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -990,6 +990,7 @@
 2600:f0f0:e15::/48,BR,BR-SP,Sao Paulo,
 2600:1ffe:e000::/40,BR,BR-SP,Sao Paulo,
 2600:1ff6:e000::/40,BR,BR-SP,Sao Paulo,
+2600:f0f0:818a::/48,BR,BR-SP,Sao Paulo,
 2606:7b40:1a49::/60,BR,BR-SP,Sao Paulo,
 2606:7b40:1b09:100::/56,BR,BR-SP,Sao Paulo,
 2600:f0f0:c112::/48,BR,BR-SP,Sao Paulo,
@@ -1332,6 +1333,7 @@
 2600:f0f0:c14d::/48,CA,CA-QC,Montreal,
 2606:7b40:1b0e:100::/56,CA,CA-QC,Montreal,
 2620:107:4000:4800::/62,CA,CA-QC,Montreal,
+2600:f0f0:818e::/48,CA,CA-QC,Montreal,
 2600:f0f1:4580::/42,CA,CA-QC,Montreal,
 2600:1fba:e200::/40,CA,CA-QC,Montreal,
 2600:1f70:e200::/40,CA,CA-QC,Montreal,
@@ -3332,6 +3334,7 @@
 2600:9000:520c::/48,GB,GB-LND,London,
 2600:f0f0:6108::/48,GB,GB-LND,London,
 2606:7b40:1b0d:8300::/56,GB,GB-LND,London,
+2600:f0f0:818b::/48,GB,GB-LND,London,
 2a05:d030:c000::/40,GB,GB-LND,London,
 2a05:d079:c000::/40,GB,GB-LND,London,
 2a05:d06b:c000::/40,GB,GB-LND,London,
@@ -4956,6 +4959,7 @@
 2606:7b40:1a4c:c000::/60,IT,IT-MI,Milan,
 2600:f0f1:4400::/42,IT,IT-MI,Milan,
 2a05:d030:a000::/40,IT,IT-MI,Milan,
+2600:f0f0:818c::/48,IT,IT-MI,Milan,
 2a05:d038:a000::/40,IT,IT-MI,Milan,
 2600:f0f1:87::/48,IT,IT-MI,Milan,
 2a05:d069:a000::/40,IT,IT-MI,Milan,
@@ -6291,6 +6295,7 @@
 52.46.192.0/20,SE,SE-AB,Stockholm,
 52.95.170.0/23,SE,SE-AB,Stockholm,
 52.144.216.8/31,SE,SE-AB,Stockholm,
+15.248.163.1/32,SE,SE-AB,Stockholm,
 16.199.0.0/16,SE,SE-AB,Stockholm,
 15.230.68.128/26,SE,SE-AB,Stockholm,
 52.94.249.128/28,SE,SE-AB,Stockholm,
@@ -6390,6 +6395,7 @@
 2a05:d031:6000::/40,SE,SE-AB,Stockholm,
 2a05:d068:8800::/40,SE,SE-AB,Stockholm,
 2a05:d07d:6000::/40,SE,SE-AB,Stockholm,
+2600:f0f0:8188::/48,SE,SE-AB,Stockholm,
 2a05:d03a:6000::/40,SE,SE-AB,Stockholm,
 2a05:d05a:8800::/40,SE,SE-AB,Stockholm,
 2600:f0f1:8b01::/48,SE,SE-AB,Stockholm,
@@ -6789,6 +6795,7 @@
 2406:daf6:8000::/40,SG,SG-01,Singapore,
 2406:da60:8000::/40,SG,SG-01,Singapore,
 2600:f00f:4000::/40,SG,SG-01,Singapore,
+2600:f0f0:818d::/48,SG,SG-01,Singapore,
 2406:da36:8800::/40,SG,SG-01,Singapore,
 2406:daeb:8800::/40,SG,SG-01,Singapore,
 2605:b140:9a04::/48,SG,SG-01,Singapore,
@@ -8378,6 +8385,7 @@
 2600:1f18:c000::/36,US,US-OH,Columbus,
 2620:107:4000:4703::/64,US,US-OH,Columbus,
 2600:f0f0:7::/48,US,US-OH,Columbus,
+2600:f0f0:8189::/48,US,US-OH,Columbus,
 2600:f0f0:400::/44,US,US-OH,Columbus,
 2600:1fba:5000::/40,US,US-OH,Columbus,
 2600:1ff9:5000::/40,US,US-OH,Columbus,
