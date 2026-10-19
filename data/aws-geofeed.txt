@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-10-19T18:56:36+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-10-19T22:30:28+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -2416,6 +2416,7 @@
 3.77.79.232/29,DE,DE-HE,Frankfurt am Main,
 35.159.219.240/29,DE,DE-HE,Frankfurt am Main,
 35.159.219.248/29,DE,DE-HE,Frankfurt am Main,
+63.185.44.32/29,DE,DE-HE,Frankfurt am Main,
 2a05:d05b:b000::/40,DE,DE-HE,Frankfurt am Main,
 2a05:d024:8000::/36,DE,DE-HE,Frankfurt am Main,
 2a05:d07d:4000::/40,DE,DE-HE,Frankfurt am Main,
@@ -3633,6 +3634,7 @@
 99.78.228.0/22,ID,ID-JK,Jakarta,
 64.66.153.0/24,ID,ID-JK,Jakarta,
 65.4.0.0/16,ID,ID-JK,Jakarta,
+1.178.86.0/24,ID,ID-JK,Jakarta,
 54.239.1.144/28,ID,ID-JK,Jakarta,
 15.232.0.0/16,ID,ID-JK,Jakarta,
 16.79.0.0/16,ID,ID-JK,Jakarta,
@@ -4139,6 +4141,7 @@
 18.97.198.128/25,IE,IE-D,Dublin,
 3.253.189.64/29,IE,IE-D,Dublin,
 3.253.189.72/29,IE,IE-D,Dublin,
+99.80.88.216/29,IE,IE-D,Dublin,
 2600:1f01:4822::/56,IE,IE-D,Dublin,
 2600:f0f0:1:1a00::/56,IE,IE-D,Dublin,
 2600:f0f0:c138::/48,IE,IE-D,Dublin,
@@ -4578,6 +4581,7 @@
 18.96.231.0/25,IN,IN-MH,Mumbai,
 13.200.7.128/29,IN,IN-MH,Mumbai,
 13.200.7.136/29,IN,IN-MH,Mumbai,
+13.202.176.240/29,IN,IN-MH,Mumbai,
 2600:f0fb:f10d::/48,IN,IN-MH,Mumbai,
 2600:f0f0:e2b::/48,IN,IN-MH,Mumbai,
 2406:daf9:a000::/40,IN,IN-MH,Mumbai,
@@ -9014,6 +9018,8 @@
 16.146.161.56/29,US,US-OR,Boardman,
 18.246.107.128/29,US,US-OR,Boardman,
 18.246.107.8/29,US,US-OR,Boardman,
+32.184.79.16/29,US,US-OR,Boardman,
+32.190.211.224/29,US,US-OR,Boardman,
 2600:f0f0:70::/45,US,US-OR,Boardman,
 2600:f0f2:7017::/48,US,US-OR,Boardman,
 2606:7b40:10ff:d200::/60,US,US-OR,Boardman,
@@ -10513,7 +10519,9 @@
 35.172.155.96/27,US,US-VA,Ashburn,
 18.97.33.128/25,US,US-VA,Ashburn,
 3.41.208.0/25,US,US-VA,Ashburn,
+100.61.165.88/29,US,US-VA,Ashburn,
 32.192.104.128/29,US,US-VA,Ashburn,
+32.192.104.136/29,US,US-VA,Ashburn,
 32.192.104.24/29,US,US-VA,Ashburn,
 44.216.41.152/29,US,US-VA,Ashburn,
 44.216.41.160/29,US,US-VA,Ashburn,
