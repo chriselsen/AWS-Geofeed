@@ -1,4 +1,4 @@
-# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-10-20T17:30:19+00:00
+# AWS (AS16509) Geofeed, lastupdated (rfc3339): 2026-10-20T19:24:46+00:00
 # Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
 # Data derived from https://ip-ranges.amazonaws.com/ip-ranges.json
 # Does not include locations from ip-ranges.json marked as 'GLOBAL'
@@ -1553,6 +1553,7 @@
 83.160.95.0/24,CL,CL-RM,Santiago,
 83.160.96.0/24,CL,CL-RM,Santiago,
 83.160.97.0/24,CL,CL-RM,Santiago,
+83.160.72.0/24,CL,CL-RM,Santiago,
 2600:1f62:ec00::/40,CL,CL-RM,Santiago,
 2600:1fe8:ec00::/40,CL,CL-RM,Santiago,
 2600:1fbb:ec00::/40,CL,CL-RM,Santiago,
@@ -3638,7 +3639,6 @@
 99.78.228.0/22,ID,ID-JK,Jakarta,
 64.66.153.0/24,ID,ID-JK,Jakarta,
 65.4.0.0/16,ID,ID-JK,Jakarta,
-1.178.86.0/24,ID,ID-JK,Jakarta,
 54.239.1.144/28,ID,ID-JK,Jakarta,
 15.232.0.0/16,ID,ID-JK,Jakarta,
 16.79.0.0/16,ID,ID-JK,Jakarta,
@@ -6420,6 +6420,7 @@
 2a05:d031:6000::/40,SE,SE-AB,Stockholm,
 2a05:d068:8800::/40,SE,SE-AB,Stockholm,
 2a05:d07d:6000::/40,SE,SE-AB,Stockholm,
+2600:f0f0:723::/48,SE,SE-AB,Stockholm,
 2600:f0f0:8188::/48,SE,SE-AB,Stockholm,
 2a05:d03a:6000::/40,SE,SE-AB,Stockholm,
 2a05:d05a:8800::/40,SE,SE-AB,Stockholm,
